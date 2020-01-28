@@ -1,22 +1,8297 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: eduma\n"
+"Language: ar-eg\n"
+"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
-# Custom for Visual Studio
-*.cs     diff=csharp
-*.sln    merge=union
-*.csproj merge=union
-*.vbproj merge=union
-*.fsproj merge=union
-*.dbproj merge=union
+#: 404.php:15
+msgid "404 "
+msgstr ""
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+#: 
+msgid "Error!"
+msgstr "خطأ!"
+
+#: 404.php:16
+msgid "Sorry, we can't find the page you are looking for. Please go to "
+msgstr "نأسف ، لا يمكننا العثور على الصفحة التي تبحث عنها. الرجاء الذهاب إلى"
+
+#: 
+msgid "Home."
+msgstr "الصفحة الرئيسية."
+
+#: 
+msgid "There are no available posts!"
+msgstr "لا توجد مشاركات متاحة!"
+
+#: 
+msgid "Showing only one result"
+msgstr "عرض نتيجة واحدة فقط"
+
+#: 
+msgid "Showing last post of %s results"
+msgstr "عرض آخر مشاركة لنتائج٪ s"
+
+#: 
+msgid "Showing %s-%s of %s results"
+msgstr "عرض نتائج٪ s-٪ s من٪ s"
+
+#: 
+msgid "Creator"
+msgstr "المنشئ"
+
+#: 
+msgid "Topic"
+msgstr "موضوع"
+
+#: 
+msgid "Registered Users"
+msgstr "المستخدمون المسجلون"
+
+#: 
+msgid "Forums"
+msgstr "المنتديات"
+
+#: 
+msgid "Topics"
+msgstr "المواضيع"
+
+#: 
+msgid "Replies"
+msgstr "الردود"
+
+#: 
+msgid "Topic Tags"
+msgstr "ملحقات الموضوع"
+
+#: 
+msgid "Empty Topic Tags"
+msgstr "موضوع فارغ المواضيع"
+
+#: 
+msgid "Hidden Topics"
+msgstr "موضوعات خفية"
+
+#: 
+msgid "Hidden Replies"
+msgstr "الردود الخفية"
+
+#: 
+msgid "Reply To: %s"
+msgstr "الرد على:٪ s"
+
+#: 
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "تم وضع علامة على هذا الموضوع باعتباره مغلقًا للردود الجديدة ، ولكن إمكانات النشر لا تزال تسمح لك بذلك."
+
+#: 
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "حسابك لديه القدرة على نشر محتوى HTML غير مقيد."
+
+#: 
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "يمكنك استخدام هذه العلامات والسمات <abbr title = \"HyperText Markup Language\"> HTML </abbr>:"
+
+#: 
+msgid "Tags:"
+msgstr "العلامات:"
+
+#: 
+msgid "Notify the author of follow-up replies via email"
+msgstr "أخبر المؤلف بردود المتابعة عبر البريد الإلكتروني"
+
+#: 
+msgid "Notify me of follow-up replies via email"
+msgstr "أعلمني بمتابعة الردود عبر البريد الإلكتروني"
+
+#: 
+msgid "Keep a log of this edit:"
+msgstr "الاحتفاظ بسجل لهذا التعديل:"
+
+#: 
+msgid "Optional reason for editing:"
+msgstr "سبب اختياري للتحرير:"
+
+#: 
+msgid "Submit"
+msgstr "إرسال"
+
+#: 
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "الموضوع & # 8216؛٪ s & # 8217؛ مغلق للردود الجديدة."
+
+#: 
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "المنتدى & # 8216؛٪ s & # 8217؛ مغلق للموضوعات والردود الجديدة."
+
+#: 
+msgid "You cannot reply to this topic."
+msgstr "لا يمكنك الرد على هذا الموضوع."
+
+#: 
+msgid "You must be logged in to reply to this topic."
+msgstr "يجب عليك تسجيل الدخول للرد على هذا الموضوع."
+
+#: 
+msgid "Login here"
+msgstr "تسجيل الدخول هنا"
+
+#: 
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: 
+msgid "Search the topic"
+msgstr "ابحث في الموضوع"
+
+#: 
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "الآن التحرير & ldquo؛٪ s & rdquo؛"
+
+#: 
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "إنشاء موضوع جديد في & ldquo؛٪ s & rdquo؛"
+
+#: 
+msgid "Create New Topic"
+msgstr "إنشاء موضوع جديد"
+
+#: 
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "تم وضع علامة على هذا المنتدى على أنه مغلق للموضوعات الجديدة ، ولكن إمكانات النشر لا تزال تسمح لك بذلك."
+
+#: 
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "عنوان الموضوع (الحد الأقصى للطول:٪ d):"
+
+#: 
+msgid "Topic Tags:"
+msgstr "ملحقات الموضوع:"
+
+#: 
+msgid "Forum:"
+msgstr "المنتدى:"
+
+#: 
+msgid "(No Forum)"
+msgstr "(لا يوجد منتدى)"
+
+#: 
+msgid "Topic Type:"
+msgstr "نوع الموضوع:"
+
+#: 
+msgid "Topic Status:"
+msgstr "حالة الموضوع:"
+
+#: 
+msgid "You cannot create new topics."
+msgstr "لا يمكنك إنشاء مواضيع جديدة."
+
+#: 
+msgid "You must be logged in to create new topics."
+msgstr "يجب أن تكون مسجلا لإنشاء موضوعات جديدة."
+
+#: 
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: 
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "آسف ، لم يتم العثور على أي نشاط. الرجاء محاولة تصفية مختلفة."
+
+#: 
+msgid "View Conversation"
+msgstr "مشاهدة المحادثة"
+
+#: 
+msgid "Comment %s"
+msgstr "تعليقات"
+
+#: 
+msgid "Mark as Favorite"
+msgstr "وضع علامة كمفضل"
+
+#: 
+msgid "Favorite"
+msgstr "مفضل"
+
+#: 
+msgid "Remove Favorite"
+msgstr "إزالة المفضلة"
+
+#: 
+msgid "Comment"
+msgstr "تعليق"
+
+#: 
+msgid "Post"
+msgstr "بريد"
+
+#: 
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: 
+msgid "The public activity for everyone on this site."
+msgstr "النشاط العام للجميع على هذا الموقع."
+
+#: 
+msgid "All Members %s"
+msgstr "جميع الأعضاء٪ s"
+
+#: 
+msgid "The activity of my friends only."
+msgstr "نشاط أصدقائي فقط."
+
+#: 
+msgid "My Friends %s"
+msgstr "أصدقائي٪ s"
+
+#: 
+msgid "The activity of groups I am a member of."
+msgstr "نشاط المجموعات أنا عضو فيها."
+
+#: 
+msgid "My Groups %s"
+msgstr "مجموعاتي٪ s"
+
+#: 
+msgid "The activity I've marked as a favorite."
+msgstr "النشاط الذي حددته كمفضل."
+
+#: 
+msgid "My Favorites %s"
+msgstr "المفضلات٪ s"
+
+#: 
+msgid "Activity that I have been mentioned in."
+msgstr "النشاط الذي ذكرته في."
+
+#: 
+msgid "Mentions"
+msgstr "يذكر"
+
+#: buddypress/activity/index.php:100
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "RSS Feed"
+msgstr "تغذية ار اس اس"
+
+#: 
+msgid "RSS"
+msgstr "RSS"
+
+#: 
+msgid "Show:"
+msgstr "تبين:"
+
+#: 
+msgid "&mdash; Everything &mdash;"
+msgstr "و[مدش]؛ كل شيء & mdash؛"
+
+#: 
+msgid "What's new in %s, %s?"
+msgstr "ما الجديد في٪ s ،٪ s؟"
+
+#: 
+msgid "What's new, %s?"
+msgstr "ما الاخبار؟"
+
+#: 
+msgid "Post Update"
+msgstr "تحديث منشور"
+
+#: 
+msgid "Post in"
+msgstr "الرد في"
+
+#: 
+msgid "My Profile"
+msgstr "ملفي"
+
+#: 
+msgid "Search"
+msgstr "بحث"
+
+#: 
+msgid "Order By:"
+msgstr "ترتيب حسب:"
+
+#: 
+msgid "Last Active"
+msgstr "آخر نشاط"
+
+#: 
+msgid "Newest Registered"
+msgstr "الأحدث المسجلين"
+
+#: 
+msgid "Alphabetical"
+msgstr "مرتب حسب الحروف الأبجدية"
+
+#: 
+msgid "Sorry, no members were found."
+msgstr "آسف ، لم يتم العثور على أعضاء."
+
+#: 
+msgid "Duration Info"
+msgstr "معلومات المدة"
+
+#: 
+msgid "Display duration info"
+msgstr "عرض معلومات المدة"
+
+#: child-theme/eduma-child-kindergarten/functions.php:44
+msgid "30 hours"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:47
+#: child-theme/eduma-child-kindergarten/functions.php:50
+#: child-theme/eduma-child-kindergarten/functions.php:141
+msgid "Class Size"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:51
+msgid "30"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:54
+#: child-theme/eduma-child-kindergarten/functions.php:261
+msgid "Available Seats"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:57
+msgid "Enter available seats"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:58
+msgid "10"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:61
+#: child-theme/eduma-child-kindergarten/functions.php:149
+#: child-theme/eduma-child-kindergarten/functions.php:256
+msgid "Years Old"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:64
+msgid "Enter age"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:65
+msgid "2 - 4"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:68
+#: child-theme/eduma-child-kindergarten/functions.php:493
+#: child-theme/eduma-child-kindergarten/functions.php:496
+msgid "Price"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:71
+msgid "Enter course price"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:72
+msgid "$50"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:75
+msgid "Unit"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:78
+msgid "Enter unit, for example, p/h, person/hour"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:79
+msgid "p/h"
+msgstr ""
+
+#: 
+msgid "Media Intro"
+msgstr "مقدمة وسائل الإعلام"
+
+#: 
+msgid "Enter media intro"
+msgstr "أدخل مقدمة الوسائط"
+
+#: 
+msgid "You May Like"
+msgstr "قد يعجبك"
+
+#: 
+msgid "Read More"
+msgstr "اقرأ أكثر"
+
+#: 
+msgid "Course Features"
+msgstr "ميزات الدورة"
+
+#: 
+msgid "Duration"
+msgstr "المدة الزمنية"
+
+#: child-theme/eduma-child-kindergarten/functions.php:244
+msgid "Activities"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:250
+msgid "Class Sizes"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:452
+msgid "Install Required Plugins"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:453
+msgid "Install Plugins"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:454
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:456
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:457
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:459
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:461
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:463
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:465
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:467
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:469
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:471
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:473
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:474
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:475
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:476
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: child-theme/eduma-child-kindergarten/functions.php:477
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: 
+msgid "Register"
+msgstr "تسجيل"
+
+#: 
+msgid "Teacher"
+msgstr "مدرس"
+
+#: 
+msgid "Free"
+msgstr "مجانا"
+
+#: 
+msgid "Other Members"
+msgstr "أعضاء آخرون"
+
+#: child-theme/eduma-child-landing/inc/widgets/round-carousel/round-carousel.php:7
+msgid "Thim: Round Carousel"
+msgstr ""
+
+#: 
+msgid "Tab"
+msgstr "التبويب"
+
+#: 
+msgid "Image"
+msgstr "صورة"
+
+#: 
+msgid "Select image from media library."
+msgstr "حدد صورة من مكتبة الوسائط."
+
+#: 
+msgid "Tab Title"
+msgstr "علامة التبويب العنوان"
+
+#: 
+msgid "Content"
+msgstr "المحتوى"
+
+#: child-theme/eduma-child-landing/inc/widgets/round-images/round-images.php:9
+msgid "Thim: Round Images"
+msgstr ""
+
+#: 
+msgid "Comment navigation"
+msgstr "تعليق الملاحة"
+
+#: 
+msgid "&larr; Older Comments"
+msgstr "وlarr. تعليقات أقدم"
+
+#: 
+msgid "Newer Comments &rarr;"
+msgstr "أحدث التعليقات & rarr؛"
+
+#: comments.php:45
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: 
+msgid "Leave A Reply"
+msgstr "اترك رد"
+
+#: 
+msgid "Post Comment"
+msgstr "أضف تعليقا"
+
+#: 
+msgid "Comment *"
+msgstr "تعليق *"
+
+#: 
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: 
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر أول منشوراتك؟ <a href=\"٪1$s\"> ابدأ هنا </a>."
+
+#: 
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسف ، ولكن لا شيء يطابق مصطلحات البحث الخاصة بك. أرجو المحاولة مرة أخرى بإستخدام كلمات أخرى."
+
+#: 
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكننا العثور على ما تبحث عنه. ربما يمكن أن يساعد البحث."
+
+#: 
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: 
+msgid "Tag:"
+msgstr "بطاقة شعار:"
+
+#: 
+msgid "Previous post"
+msgstr "المنشور السابق"
+
+#: 
+msgid "Next post"
+msgstr "المشاركة التالية"
+
+#: 
+msgid "Thim: Accordion"
+msgstr "ثيم: الأكورديون"
+
+#: 
+msgid "Accordion"
+msgstr "أكورديون"
+
+#: 
+msgid "Title"
+msgstr "عنوان"
+
+#: 
+msgid "Add your text here"
+msgstr "أضف النص الخاص بك هنا"
+
+#: 
+msgid "Panel Title"
+msgstr "عنوان اللوحة"
+
+#: 
+msgid "Panel Body"
+msgstr "لوحة الجسم"
+
+#: 
+msgid "Panel List"
+msgstr "قائمة لوحة"
+
+#: 
+msgid "Thim: Button"
+msgstr "ثيم: زر"
+
+#: 
+msgid "Button Text"
+msgstr "زر كتابة"
+
+#: 
+msgid "READ MORE"
+msgstr "قراءة المزيد"
+
+#: 
+msgid "Destination URL"
+msgstr "عنوان URL المقصود"
+
+#: 
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: 
+msgid "Open in New Window?"
+msgstr "افتح في نافذة جديدة؟"
+
+#: 
+msgid "Icons"
+msgstr "الرموز"
+
+#: 
+msgid "Select Icon:"
+msgstr "اختر أيقونة:"
+
+#: 
+msgid "Choose..."
+msgstr "أختر..."
+
+#: 
+msgid "Icon Font Size (px)"
+msgstr "حجم خط الرمز (بكسل)"
+
+#: 
+msgid "Icon Position"
+msgstr "موقف الأيقونة"
+
+#: 
+msgid "Select"
+msgstr "تحديد"
+
+#: 
+msgid "Before text"
+msgstr "قبل النص"
+
+#: 
+msgid "After text"
+msgstr "بعد النص"
+
+#: 
+msgid "Layouts"
+msgstr "تخطيطات"
+
+#: 
+msgid "Button Size"
+msgstr "حجم الزر"
+
+#: 
+msgid "Normal"
+msgstr "عادي"
+
+#: 
+msgid "Small"
+msgstr "صغير"
+
+#: 
+msgid "Medium"
+msgstr "متوسط"
+
+#: 
+msgid "Large"
+msgstr "كبير"
+
+#: 
+msgid "Rounding"
+msgstr "التقريب"
+
+#: 
+msgid "None"
+msgstr "لا شيء"
+
+#: 
+msgid "Tiny Rounded"
+msgstr "مدورة صغيرة"
+
+#: 
+msgid "Very Rounded"
+msgstr "مدورة جدا"
+
+#: 
+msgid "Style"
+msgstr "أسلوب"
+
+#: 
+msgid "Default"
+msgstr "إفتراضي"
+
+#: 
+msgid "Custom Style"
+msgstr "نمط مخصص"
+
+#: 
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: 
+msgid "Font Weight"
+msgstr "وزن الخط"
+
+#: 
+msgid "Bold"
+msgstr "بالخط العريض"
+
+#: 
+msgid "100"
+msgstr "100"
+
+#: 
+msgid "200"
+msgstr "200"
+
+#: 
+msgid "300"
+msgstr "300"
+
+#: 
+msgid "400"
+msgstr "400"
+
+#: 
+msgid "500"
+msgstr "500"
+
+#: 
+msgid "600"
+msgstr "600"
+
+#: 
+msgid "700"
+msgstr "700"
+
+#: 
+msgid "800"
+msgstr "800"
+
+#: 
+msgid "900"
+msgstr "900"
+
+#: 
+msgid "Border Width"
+msgstr "عرض الحدود"
+
+#: 
+msgid "Select Color"
+msgstr "إختر لون"
+
+#: 
+msgid "Border Color"
+msgstr "لون الحدود"
+
+#: 
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: 
+msgid "Hover Color"
+msgstr "تحوم اللون"
+
+#: 
+msgid "Hover Border Color"
+msgstr "تحوم لون الحدود"
+
+#: 
+msgid "Hover Background Color"
+msgstr "تحوم لون الخلفية"
+
+#: 
+msgid "Thim: Carousel Categories"
+msgstr "تيم: فئات كاروسيل"
+
+#: 
+msgid "Carousel Posts"
+msgstr "المشاركات دائري"
+
+#: 
+msgid "Heading"
+msgstr "عنوان"
+
+#: 
+msgid "Carousel Categories"
+msgstr "فئات دائري"
+
+#: 
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: 
+msgid "Visible items"
+msgstr "العناصر المرئية"
+
+#: 
+msgid "Posts limit display on each category"
+msgstr "المشاركات حد العرض على كل فئة"
+
+#: 
+msgid "Show Navigation?"
+msgstr "عرض الملاحة؟"
+
+#: 
+msgid "Show Pagination?"
+msgstr "عرض ترقيم الصفحات؟"
+
+#: 
+msgid "Auto play speed (in ms)"
+msgstr "سرعة التشغيل التلقائي (بالمللي ثانية)"
+
+#: 
+msgid "Set 0 to disable auto play."
+msgstr "تعيين 0 لتعطيل اللعب التلقائي."
+
+#: 
+msgid "Link View All"
+msgstr "رابط عرض الكل"
+
+#: 
+msgid "Text View All"
+msgstr "عرض النص الكل"
+
+#: 
+msgid "Thim: Carousel Posts"
+msgstr "Thim: المشاركات دائري"
+
+#: 
+msgid "All"
+msgstr "الكل"
+
+#: 
+msgid "Layout"
+msgstr "نسق"
+
+#: 
+msgid "Layout 2"
+msgstr "تخطيط 2"
+
+#: 
+msgid "Layout 3"
+msgstr "تخطيط 3"
+
+#: 
+msgid "Posts Visible"
+msgstr "المشاركات مرئية"
+
+#: 
+msgid "Number Posts"
+msgstr "عدد المشاركات"
+
+#: 
+msgid "Yes"
+msgstr "نعم"
+
+#: 
+msgid "No"
+msgstr "لا"
+
+#: 
+msgid "Order by"
+msgstr "ترتيب حسب"
+
+#: 
+msgid "Popular"
+msgstr "جمع"
+
+#: 
+msgid "Date"
+msgstr "تاريخ"
+
+#: 
+msgid "Random"
+msgstr "عشوائية"
+
+#: 
+msgid "Order"
+msgstr "طلب"
+
+#: 
+msgid "ASC"
+msgstr "ASC"
+
+#: 
+msgid "DESC"
+msgstr "DESC"
+
+#: 
+msgid "Thim: Countdown Box"
+msgstr "Thim: مربع العد التنازلي"
+
+#: 
+msgid "Countdown"
+msgstr "العد التنازلي"
+
+#: 
+msgid "Text Days"
+msgstr "أيام النص"
+
+#: 
+msgid "Text Hours"
+msgstr "ساعات النص"
+
+#: 
+msgid "Text Minutes"
+msgstr "محضر النص"
+
+#: 
+msgid "Text Seconds"
+msgstr "نص ثانية"
+
+#: 
+msgid "Countdown Due Date"
+msgstr "تاريخ استحقاق العد التنازلي"
+
+#: 
+msgid "Set the due date and time"
+msgstr "حدد تاريخ الاستحقاق والوقت"
+
+#: 
+msgid "Pie"
+msgstr "فطيرة"
+
+#: 
+msgid "Pie Gradient"
+msgstr "فطيرة التدرج"
+
+#: 
+msgid "White"
+msgstr "أبيض"
+
+#: 
+msgid "Black"
+msgstr "أسود"
+
+#: 
+msgid "Text Alignment"
+msgstr "محاذاة النص"
+
+#: 
+msgid "Left"
+msgstr "اليسار"
+
+#: 
+msgid "Center"
+msgstr "مركز"
+
+#: 
+msgid "Right"
+msgstr "حق"
+
+#: 
+msgid "Thim: Counters Box"
+msgstr "تيم: صندوق العدادات"
+
+#: 
+msgid "Counters Box"
+msgstr "صندوق العدادات"
+
+#: 
+msgid "Counters Label"
+msgstr "عدادات التسمية"
+
+#: 
+msgid "Counters Value"
+msgstr "عدادات القيمة"
+
+#: 
+msgid "Text Number"
+msgstr "رقم النص"
+
+#: 
+msgid "View More Text"
+msgstr "عرض المزيد من النص"
+
+#: 
+msgid "View More Link"
+msgstr "عرض المزيد"
+
+#: 
+msgid "Counter Style"
+msgstr "نمط العداد"
+
+#: 
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#: 
+msgid "Page About Us"
+msgstr "صفحة عنا"
+
+#: 
+msgid "Number Left"
+msgstr "عدد اليسار"
+
+#: 
+msgid "Text Gradient"
+msgstr "تدرج النص"
+
+#: 
+msgid "Counters Color"
+msgstr "عدادات اللون"
+
+#: 
+msgid "Border Color Icon"
+msgstr "أيقونة لون الحدود"
+
+#: 
+msgid "Counters Icon Color"
+msgstr "عدادات أيقونة اللون"
+
+#: 
+msgid "Thim: Course Categories"
+msgstr "Thim: فئات الدورات"
+
+#: 
+msgid "Course Categories"
+msgstr "فئات الدورة"
+
+#: 
+msgid "Slider"
+msgstr "المنزلق"
+
+#: 
+msgid "List Categories"
+msgstr "قائمة الفئات"
+
+#: 
+msgid "Tab Slider"
+msgstr "علامة تبويب شريط التمرير"
+
+#: 
+msgid "Grid"
+msgstr "جريد"
+
+#: 
+msgid "Limit categories"
+msgstr "الحد من الفئات"
+
+#: 
+msgid "Items Visible"
+msgstr "عناصر مرئية"
+
+#: 
+msgid "List Categories Layout Options"
+msgstr "قائمة الفئات خيارات التخطيط"
+
+#: 
+msgid "Show Course Count?"
+msgstr "عرض عدد الدورات؟"
+
+#: 
+msgid "Show hierarchy?"
+msgstr "إظهار التسلسل الهرمي؟"
+
+#: 
+msgid "Grid Layout Options"
+msgstr "خيارات تخطيط الشبكة"
+
+#: 
+msgid "Number Column"
+msgstr "رقم العمود"
+
+#: 
+msgid "2"
+msgstr "2"
+
+#: 
+msgid "3"
+msgstr "3"
+
+#: 
+msgid "4"
+msgstr "4"
+
+#: 
+msgid "Thim: Courses Collection"
+msgstr "Thim: مجموعة الدورات"
+
+#: 
+msgid "Courses collection"
+msgstr "جمع الدورات"
+
+#: 
+msgid "Heading Text"
+msgstr "نص العنوان"
+
+#: 
+msgid "Limit collections"
+msgstr "الحد من المجموعات"
+
+#: 
+msgid "Columns"
+msgstr "أعمدة"
+
+#: 
+msgid "1"
+msgstr "1"
+
+#: 
+msgid "Feature Items"
+msgstr "عناصر الميزة"
+
+#: 
+msgid "Thim: Courses"
+msgstr "تيم: الدورات"
+
+#: 
+msgid "Courses"
+msgstr "الدورات"
+
+#: 
+msgid "Grid New"
+msgstr "شبكة جديدة"
+
+#: 
+msgid "List Sidebar"
+msgstr "قائمة الشريط الجانبي"
+
+#: 
+msgid "Mega Menu"
+msgstr "القائمة الضخمة"
+
+#: 
+msgid "Category Tabs"
+msgstr "علامات التبويب الفئة"
+
+#: 
+msgid "Category Tabs Slider"
+msgstr "علامات تبويب الفئة"
+
+#: 
+msgid "Slider - Home Instructor"
+msgstr "شريط التمرير - الصفحة الرئيسية المدرب"
+
+#: 
+msgid "Grid - Home Instructor"
+msgstr "شبكة - مدرب المنزل"
+
+#: 
+msgid "Order By"
+msgstr "ترتيب حسب"
+
+#: 
+msgid "Latest"
+msgstr "آخر"
+
+#: 
+msgid "Category"
+msgstr "الفئة"
+
+#: 
+msgid "Thumbnail Width"
+msgstr "عرض الصورة المصغرة"
+
+#: 
+msgid "Thumbnail Height"
+msgstr "ارتفاع الصورة المصغرة"
+
+#: 
+msgid "Limit Number Courses"
+msgstr "عدد دورات الحد"
+
+#: 
+msgid "Display Featured Courses?"
+msgstr "عرض الدورات المميزة؟"
+
+#: 
+msgid "View All Text"
+msgstr "عرض كل النص"
+
+#: 
+msgid "View All Position"
+msgstr "عرض كل الموقف"
+
+#: 
+msgid "Top"
+msgstr "أعلى"
+
+#: 
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: 
+msgid "Slider Options"
+msgstr "خيارات التمرير"
+
+#: 
+msgid "Auto Play Speed (in ms)"
+msgstr "سرعة التشغيل التلقائي (بالمللي ثانية)"
+
+#: 
+msgid "Grid Options"
+msgstr "خيارات الشبكة"
+
+#: 
+msgid "Tab Options"
+msgstr "خيارات علامة التبويب"
+
+#: 
+msgid "Limit Items Per Tab"
+msgstr "الحد من العناصر لكل علامة تبويب"
+
+#: 
+msgid "Select Category Tabs"
+msgstr "حدد علامات تبويب الفئات"
+
+#: 
+msgid "Thim: Gallery Images"
+msgstr "ثيم: معرض الصور"
+
+#: 
+msgid "Our Team"
+msgstr "فريقنا"
+
+#: 
+msgid "Add Images"
+msgstr "إضافة الصور"
+
+#: 
+msgid "Image Link"
+msgstr "رابط الصورة"
+
+#: 
+msgid "Enter URL if you want this image to have a link. These links are separated by comma (Ex: #,#,#,#)"
+msgstr "أدخل عنوان URL إذا كنت تريد أن يكون لهذه الصورة رابط. هذه الروابط مفصولة بفاصلة (مثال: # ، # ، # ، #)"
+
+#: 
+msgid "Add your links here"
+msgstr "أضف روابطك هنا"
+
+#: 
+msgid "Link Target"
+msgstr "رابط الهدف"
+
+#: 
+msgid "Same window"
+msgstr "نفس النافذة"
+
+#: 
+msgid "New window"
+msgstr "نافذة جديدة"
+
+#: 
+msgid "Visible Items"
+msgstr "العناصر المرئية"
+
+#: 
+msgid "Color Image?"
+msgstr "صورة ملونة؟"
+
+#: 
+msgid "Thim: Gallery Posts"
+msgstr "Thim: معرض المشاركات"
+
+#: 
+msgid "Gallery Posts"
+msgstr "معرض المشاركات"
+
+#: 
+msgid "Show Filter?"
+msgstr "عرض مرشح؟"
+
+#: 
+msgid "Limit"
+msgstr "حد"
+
+#: 
+msgid "Thim: Google Maps"
+msgstr "ثيم: خرائط جوجل"
+
+#: 
+msgid "Google Maps"
+msgstr "خرائط جوجل"
+
+#: 
+msgid "Google Map API Key"
+msgstr "خريطة جوجل API الرئيسية"
+
+#: 
+msgid "Enter your Google Map API Key. Refer on https://developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-key"
+msgstr "أدخل مفتاح API لخريطة Google. راجع https://developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-key"
+
+#: 
+msgid "Address"
+msgstr "عنوان"
+
+#: 
+msgid "Coordinates"
+msgstr "إحداثيات"
+
+#: 
+msgid "Location"
+msgstr "موقعك"
+
+#: 
+msgid "Lat"
+msgstr "اللات"
+
+#: 
+msgid "Lng"
+msgstr "الغاز الطبيعي المسال"
+
+#: 
+msgid "Height (px)"
+msgstr "الارتفاع (بكسل)"
+
+#: 
+msgid "Zoom Level"
+msgstr "مستوى التكبير"
+
+#: 
+msgid "Scroll To Zoom"
+msgstr "التمرير للتكبير"
+
+#: 
+msgid "Draggable"
+msgstr "قابل للسحب"
+
+#: 
+msgid "Markers"
+msgstr "علامات"
+
+#: 
+msgid "Show marker at map center"
+msgstr "إظهار علامة في مركز الخريطة"
+
+#: 
+msgid "Marker Icon"
+msgstr "أيقونة علامة"
+
+#: 
+msgid "Replaces the default map marker with your own image."
+msgstr "يستبدل علامة الخريطة الافتراضية بالصور الخاصة بك."
+
+#: 
+msgid "Place"
+msgstr "مكان"
+
+#: 
+msgid "Marker Positions"
+msgstr "مواقف ماركر"
+
+#: 
+msgid "Thim: Heading"
+msgstr "ثيم: العنوان"
+
+#: 
+msgid "Title Uppercase?"
+msgstr "العنوان الكبير؟"
+
+#: 
+msgid "HTML Tag"
+msgstr "علامة HTML"
+
+#: 
+msgid "Select tag"
+msgstr "اختر علامة"
+
+#: 
+msgid "h2"
+msgstr "H2"
+
+#: 
+msgid "h3"
+msgstr "H3"
+
+#: 
+msgid "h4"
+msgstr "H4"
+
+#: 
+msgid "h5"
+msgstr "H5"
+
+#: 
+msgid "h6"
+msgstr "H6"
+
+#: 
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: 
+msgid "Clone Title?"
+msgstr "استنساخ العنوان؟"
+
+#: 
+msgid "Show Separator?"
+msgstr "عرض فاصل؟"
+
+#: 
+msgid "Title Color"
+msgstr "لون العنوان"
+
+#: 
+msgid "Sub Title Color"
+msgstr "العنوان الفرعي اللون"
+
+#: 
+msgid "Separator Color"
+msgstr "لون فاصل"
+
+#: 
+msgid "Animation"
+msgstr "حيوية"
+
+#: 
+msgid "Top to bottom"
+msgstr "من اعلى لاسفل"
+
+#: 
+msgid "Bottom to top"
+msgstr "من الأسفل للأعلى"
+
+#: 
+msgid "Left to right"
+msgstr "من اليسار إلى اليمين"
+
+#: 
+msgid "Right to left"
+msgstr "من اليمين الى اليسار"
+
+#: 
+msgid "Appear from center"
+msgstr "تظهر من المركز"
+
+#: 
+msgid "Custom Title Typography?"
+msgstr "مخصص طباعة العنوان؟"
+
+#: 
+msgid "Font Style"
+msgstr "نوع الخط"
+
+#: 
+msgid "Italic"
+msgstr "مائل"
+
+#: 
+msgid "Oblique"
+msgstr "منحرف - مائل"
+
+#: 
+msgid "Initial"
+msgstr "مبدئي"
+
+#: 
+msgid "Inherit"
+msgstr "يرث"
+
+#: 
+msgid "Thim: Icon Box"
+msgstr "تيم: صندوق الأيقونات"
+
+#: 
+msgid "Size Heading"
+msgstr "حجم العنوان"
+
+#: 
+msgid "Custom Font Heading?"
+msgstr "عنوان الخط مخصص؟"
+
+#: 
+msgid "Font Size (px)"
+msgstr "حجم الخط (بكسل)"
+
+#: 
+msgid "Custom Font Weight"
+msgstr "وزن الخط المخصص"
+
+#: 
+msgid "Margin Top (px)"
+msgstr "أعلى الهامش (بكسل)"
+
+#: 
+msgid "Margin Bottom (px)"
+msgstr "أسفل الهامش (بكسل)"
+
+#: 
+msgid "Description"
+msgstr "وصف"
+
+#: 
+msgid "Add Description"
+msgstr "اضف وصفا"
+
+#: 
+msgid "Link"
+msgstr "حلقة الوصل"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "Apply to"
+msgstr "تنطبق على"
+
+#: 
+msgid "Complete Box"
+msgstr "صندوق كامل"
+
+#: 
+msgid "Box Title"
+msgstr "عنوان الصندوق"
+
+#: 
+msgid "Display Read More"
+msgstr "عرض قراءة المزيد"
+
+#: 
+msgid "Read More Text"
+msgstr "قراءة المزيد"
+
+#: 
+msgid "Text Color Read More"
+msgstr "لون النص اقرأ المزيد"
+
+#: 
+msgid "Border Color Read More Text:"
+msgstr "لون الحدود قراءة المزيد"
+
+#: 
+msgid "Background Color Read More Text:"
+msgstr "لون الخلفية قراءة المزيد"
+
+#: 
+msgid "Text Hover Color Read More"
+msgstr "نص تحوم اللون قراءة المزيد"
+
+#: 
+msgid "Background Hover Color Read More Text:"
+msgstr "لون تحويم الخلفية قراءة المزيد"
+
+#: 
+msgid "Show Link To Icon"
+msgstr "إظهار الرابط إلى الأيقونة"
+
+#: 
+msgid "Icon"
+msgstr "أيقونة"
+
+#: 
+msgid "Icon Type"
+msgstr "نوع الأيقونة"
+
+#: 
+msgid "Font Awesome Icon"
+msgstr "الخط أيقونة رهيبة"
+
+#: 
+msgid "Font 7 stroke Icon"
+msgstr "الخط 7 السكتة الدماغية أيقونة"
+
+#: 
+msgid "Font Flat Icon"
+msgstr "الخط أيقونة مسطحة"
+
+#: 
+msgid "Custom Image"
+msgstr "صورة مخصصة"
+
+#: 
+msgid "Choose Image"
+msgstr "اختر صورة"
+
+#: 
+msgid "Layout Options"
+msgstr "خيارات التخطيط"
+
+#: 
+msgid "Icon Shape"
+msgstr "شكل أيقونة"
+
+#: 
+msgid "Circle"
+msgstr "دائرة"
+
+#: 
+msgid "Box Style:"
+msgstr "نمط مربع:"
+
+#: 
+msgid "Icon at Left"
+msgstr "أيقونة في اليسار"
+
+#: 
+msgid "Icon at Right"
+msgstr "أيقونة في اليمين"
+
+#: 
+msgid "Icon at Top"
+msgstr "أيقونة في الأعلى"
+
+#: 
+msgid "Text Align Shortcode:"
+msgstr "محاذاة النص الرمز القصير:"
+
+#: 
+msgid "Text Left"
+msgstr "نص اليسار"
+
+#: 
+msgid "Text Right"
+msgstr "النص الصحيح"
+
+#: 
+msgid "Text Center"
+msgstr "مركز النص"
+
+#: 
+msgid "Type Icon Box"
+msgstr "اكتب أيقونة مربع"
+
+#: 
+msgid "Overlay"
+msgstr "غطاء"
+
+#: 
+msgid "Contact Info"
+msgstr "معلومات الاتصال"
+
+#: 
+msgid "Image Box"
+msgstr "صندوق الصور"
+
+#: 
+msgid "Description Color"
+msgstr "وصف اللون"
+
+#: 
+msgid "Icon Color:"
+msgstr "لون الأيقونة:"
+
+#: 
+msgid "Icon Border Color:"
+msgstr "لون أيقونة الحدود:"
+
+#: 
+msgid "Icon Background Color:"
+msgstr "لون خلفية الأيقونة:"
+
+#: 
+msgid "Hover Icon Color:"
+msgstr "تحوم أيقونة اللون:"
+
+#: 
+msgid "Hover Icon Border Color:"
+msgstr "تحوم رمز الحدود اللون:"
+
+#: 
+msgid "Hover Icon Background Color:"
+msgstr "تحوم أيقونة لون الخلفية:"
+
+#: 
+msgid "Widget Background"
+msgstr "خلفية القطعة"
+
+#: 
+msgid "Video Background"
+msgstr "خلفية الفيديو"
+
+#: 
+msgid "Background Color:"
+msgstr "لون الخلفية:"
+
+#: 
+msgid "Select video"
+msgstr "اختر الفيديو"
+
+#: 
+msgid "Select an uploaded video in mp4 format. Other formats, such as webm and ogv will work in some browsers. You can use an online service such as 'http://video.online-convert.com/convert-to-mp4' to convert your videos to mp4."
+msgstr "حدد مقطع فيديو تم تحميله بتنسيق mp4. التنسيقات الأخرى ، مثل webm و ogv ستعمل في بعض المتصفحات. يمكنك استخدام خدمة عبر الإنترنت مثل \"http://video.online-convert.com/convert-to-mp4\" لتحويل مقاطع الفيديو الخاصة بك إلى mp4."
+
+#: 
+msgid "Select cover image"
+msgstr "حدد صورة الغلاف"
+
+#: 
+msgid "CSS Animation"
+msgstr "CSS الرسوم المتحركة"
+
+#: 
+msgid "Dimension"
+msgstr "البعد"
+
+#: 
+msgid "Width Box Icon (px)"
+msgstr "رمز مربع العرض (بكسل)"
+
+#: 
+msgid "Height Box Icon (px)"
+msgstr "رمز مربع الارتفاع (بكسل)"
+
+#: 
+msgid "Thim: Image Box"
+msgstr "Thim: صندوق الصور"
+
+#: 
+msgid "Image box"
+msgstr "مربع الصورة"
+
+#: 
+msgid "Add your description here"
+msgstr "أضف وصفك هنا"
+
+#: 
+msgid "Upload Image"
+msgstr "تحميل الصور"
+
+#: 
+msgid "Title Background Color"
+msgstr "لون خلفية العنوان"
+
+#: 
+msgid "Thim: Link"
+msgstr "تيم: لينك"
+
+#: 
+msgid "Link Item"
+msgstr "ربط البند"
+
+#: 
+msgid "Title on here"
+msgstr "العنوان هنا"
+
+#: 
+msgid "Link of title"
+msgstr "رابط العنوان"
+
+#: 
+msgid "Leave empty to disable this field."
+msgstr "اتركه فارغًا لتعطيل هذا الحقل."
+
+#: 
+msgid "Add your a short description here"
+msgstr "أضف وصفك المختصر هنا"
+
+#: 
+msgid "Thim: List Events"
+msgstr "Thim: قائمة الأحداث"
+
+#: 
+msgid "List Events"
+msgstr "قائمة الأحداث"
+
+#: 
+msgid "Layout 4"
+msgstr "تخطيط 4"
+
+#: 
+msgid "Layout 5"
+msgstr "تخطيط 5"
+
+#: 
+msgid "Select Status"
+msgstr "اختر الحالة"
+
+#: 
+msgid "Upcoming"
+msgstr "القادمة"
+
+#: 
+msgid "Happening"
+msgstr "حدث"
+
+#: 
+msgid "Expired"
+msgstr "منتهية الصلاحية"
+
+#: 
+msgid "Number posts slider"
+msgstr "عدد الوظائف شريط التمرير"
+
+#: 
+msgid "Background Image Bottom"
+msgstr "أسفل صورة الخلفية"
+
+#: 
+msgid "Text Link All"
+msgstr "ربط النص جميع"
+
+#: 
+msgid "View All"
+msgstr "عرض الكل"
+
+#: 
+msgid "Thim: List Instructors"
+msgstr "Thim: قائمة المدربين"
+
+#: 
+msgid "List Instructors"
+msgstr "قائمة المدربين"
+
+#: 
+msgid "New"
+msgstr "جديد"
+
+#: 
+msgid "Visible Instructors"
+msgstr "المدربون المرئيون"
+
+#: 
+msgid "Avatar"
+msgstr "الصورة الرمزية"
+
+#: 
+msgid "Instructor"
+msgstr "مدرب"
+
+#: 
+msgid "Select Instructor"
+msgstr "اختر المدرب"
+
+#: 
+msgid "Thim: List Post"
+msgstr "Thim: قائمة بوست"
+
+#: 
+msgid "No Image"
+msgstr "لا توجد صورة"
+
+#: 
+msgid "List Post"
+msgstr "قائمة بوست"
+
+#: 
+msgid "From Blog"
+msgstr "من المدونة"
+
+#: 
+msgid "Number Post"
+msgstr "رقم المشاركة"
+
+#: 
+msgid "Show Description"
+msgstr "عرض الوصف"
+
+#: 
+msgid "Show feature posts"
+msgstr "عرض المشاركات الميزة"
+
+#: 
+msgid "Select Image Size"
+msgstr "حدد حجم الصورة"
+
+#: 
+msgid "Image width"
+msgstr "عرض الصورة"
+
+#: 
+msgid "Image height"
+msgstr "ارتفاع الصورة"
+
+#: 
+msgid "Items vertical"
+msgstr "العناصر العمودية"
+
+#: 
+msgid "Items display with vertical. Enter 0 if doesn't show vertical"
+msgstr "عرض العناصر مع العمودي. أدخل 0 إذا لم تظهر رأسية"
+
+#: 
+msgid "Link All Posts"
+msgstr "ربط جميع المشاركات"
+
+#: 
+msgid "Text All Posts"
+msgstr "نص جميع المشاركات"
+
+#: 
+msgid "No Style"
+msgstr "لا أسلوب"
+
+#: 
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: 
+msgid "Home New"
+msgstr "الرئيسية جديد"
+
+#: 
+msgid "Thim: Login Form"
+msgstr "Thim: نموذج تسجيل الدخول"
+
+#: 
+msgid "Login Form"
+msgstr "نموذج تسجيل الدخول"
+
+#: 
+msgid "Use Captcha?"
+msgstr "استخدام كلمة التحقق؟"
+
+#: 
+msgid "Terms of Service link"
+msgstr "شروط الخدمة رابط"
+
+#: 
+msgid "Thim: Navigation Menu"
+msgstr "Thim: قائمة التنقل"
+
+#: 
+msgid "&mdash; Select &mdash;"
+msgstr "و[مدش]؛ حدد & mdash؛"
+
+#: 
+msgid "Navigation Menu"
+msgstr "قائمة الإبحار"
+
+#: 
+msgid "Select Menu"
+msgstr "اختر قائمة"
+
+#: 
+msgid "Thim: 1 Course Instructors"
+msgstr "Thim: 1 دورة المدربين"
+
+#: 
+msgid "Visible instructors"
+msgstr "المدربين مرئية"
+
+#: 
+msgid "Show Pagination"
+msgstr "عرض ترقيم الصفحات"
+
+#: 
+msgid "Thim: Our Team"
+msgstr "تيم: فريقنا"
+
+#: 
+msgid "Enable Link To Member?"
+msgstr "تمكين الارتباط بالعضو؟"
+
+#: 
+msgid "CTA Button Text"
+msgstr "النص CTA زر"
+
+#: 
+msgid "CTA Button Link"
+msgstr "CTA زر الارتباط"
+
+#: 
+msgid "Thim: Portfolio"
+msgstr "ثيم: محفظة"
+
+#: 
+msgid "Portfolio"
+msgstr "محفظة"
+
+#: 
+msgid "Filter Position"
+msgstr "تصفية الموقف"
+
+#: 
+msgid "Column"
+msgstr "عمود"
+
+#: 
+msgid "5"
+msgstr "5"
+
+#: 
+msgid "Gutter"
+msgstr "مزراب"
+
+#: 
+msgid "Item Size"
+msgstr "حجم الصنف"
+
+#: 
+msgid "Multigrid"
+msgstr "Multigrid"
+
+#: 
+msgid "Masonry"
+msgstr "ماسونية"
+
+#: 
+msgid "Same size"
+msgstr "نفس الحجم"
+
+#: 
+msgid "Paging"
+msgstr "الترحيل"
+
+#: 
+msgid "Show All"
+msgstr "عرض الكل"
+
+#: 
+msgid "Limit Items"
+msgstr "الحد من العناصر"
+
+#: 
+msgid "Infinite Scroll"
+msgstr "التدرج اللانهائي"
+
+#: 
+msgid "Item Style"
+msgstr "نمط البند"
+
+#: 
+msgid "Caption Hover Effects 01"
+msgstr "تأثيرات تعليق التحويم 01"
+
+#: 
+msgid "Caption Hover Effects 02"
+msgstr "تأثيرات تعليق توضيحية 02"
+
+#: 
+msgid "Caption Hover Effects 03"
+msgstr "تأثيرات تعليق التحويم 03"
+
+#: 
+msgid "Caption Hover Effects 04"
+msgstr "تأثيرات تعليق التحويم 04"
+
+#: 
+msgid "Caption Hover Effects 05"
+msgstr "تأثيرات تعليق التحويم 05"
+
+#: 
+msgid "Caption Hover Effects 06"
+msgstr "تأثيرات تعليق توضيحية 06"
+
+#: 
+msgid "Caption Hover Effects 07"
+msgstr "تأثيرات تعليق توضيحية 07"
+
+#: 
+msgid "Caption Hover Effects 08"
+msgstr "تأثيرات تعليق التحويم 08"
+
+#: 
+msgid "Enter a number view"
+msgstr "أدخل طريقة عرض الأرقام"
+
+#: 
+msgid "Show Read More?"
+msgstr "عرض اقرأ المزيد؟"
+
+#: 
+msgid "Thim: Single Images"
+msgstr "ثيم: صور واحدة"
+
+#: 
+msgid "Single Images"
+msgstr "صور واحدة"
+
+#: 
+msgid "Image Title"
+msgstr "عنوان الصورة"
+
+#: 
+msgid "Image size"
+msgstr "حجم الصورة"
+
+#: 
+msgid "Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr "أدخل حجم الصورة. على سبيل المثال: \"المصغرات\" أو \"المتوسطة\" أو \"الكبيرة\" أو \"الكاملة\" أو الأحجام الأخرى المحددة بواسطة السمة الحالية. بدلاً من ذلك ، أدخل حجم الصورة بالبكسل: 200 × 100 (العرض × الارتفاع). اترك المساحة فارغة لاستخدام حجم \"الصورة المصغرة\"."
+
+#: 
+msgid "On click action"
+msgstr "على انقر فوق العمل"
+
+#: 
+msgid "none"
+msgstr "لا شيء"
+
+#: 
+msgid "Open custom link"
+msgstr "افتح الرابط المخصص"
+
+#: 
+msgid "Open popup"
+msgstr "افتح نافذة منبثقة"
+
+#: 
+msgid "Image alignment"
+msgstr "محاذاة الصورة"
+
+#: 
+msgid "Align Left"
+msgstr "محاذاة إلى اليسار"
+
+#: 
+msgid "Align Right"
+msgstr "محاذاة اليمين"
+
+#: 
+msgid "Align Center"
+msgstr "محاذاة مركز"
+
+#: 
+msgid "Top To Bottom"
+msgstr "من اعلى لاسفل"
+
+#: 
+msgid "Bottom To Top"
+msgstr "من الأسفل للأعلى"
+
+#: 
+msgid "Left To Right"
+msgstr "من اليسار إلى اليمين"
+
+#: 
+msgid "Right To Left"
+msgstr "من اليمين الى اليسار"
+
+#: 
+msgid "Thim: Social"
+msgstr "ثيم: الاجتماعية"
+
+#: 
+msgid "Social"
+msgstr "اجتماعي"
+
+#: 
+msgid "Styles"
+msgstr "الأنماط"
+
+#: 
+msgid "Style 2"
+msgstr "نمط 2"
+
+#: 
+msgid "Style 3"
+msgstr "نمط 3"
+
+#: 
+msgid "Style 4"
+msgstr "نمط 4"
+
+#: 
+msgid "Show Label"
+msgstr "إظهار التسمية"
+
+#: 
+msgid "Facebook Url"
+msgstr "URL الفيسبوك"
+
+#: 
+msgid "Twitter Url"
+msgstr "تويتر رابط"
+
+#: 
+msgid "Google Url"
+msgstr "رابط جوجل"
+
+#: 
+msgid "Dribble Url"
+msgstr "سال لعابه رابط"
+
+#: 
+msgid "Linkedin Url"
+msgstr "رابط ينكدين"
+
+#: 
+msgid "Pinterest Url"
+msgstr "عنوان موقع Pinterest"
+
+#: 
+msgid "Instagram Url"
+msgstr "Instagram Url"
+
+#: 
+msgid "Youtube Url"
+msgstr "يوتيوب رابط"
+
+#: 
+msgid "Snapchat Url"
+msgstr "سناب شات"
+
+#: 
+msgid "Thim: Tab"
+msgstr "تيم: تبويب"
+
+#: 
+msgid "Tabs"
+msgstr "نوافذ التبويب"
+
+#: 
+msgid "Step"
+msgstr "خطوة"
+
+#: 
+msgid "Background Title"
+msgstr "عنوان الخلفية"
+
+#: 
+msgid "Tab List"
+msgstr "قائمة علامات التبويب"
+
+#: 
+msgid "Thim: Testimonials"
+msgstr "Thim: شهادات"
+
+#: 
+msgid "Testimonials"
+msgstr "الشهادات - التوصيات"
+
+#: 
+msgid "Slider 2"
+msgstr "شريط التمرير 2"
+
+#: 
+msgid "Carousel Slider"
+msgstr "دائري المتزلج"
+
+#: 
+msgid "Limit Posts"
+msgstr "الحد من الوظائف"
+
+#: 
+msgid "Item Padding"
+msgstr "البند الحشو"
+
+#: 
+msgid "Item Visible"
+msgstr "البند مرئية"
+
+#: 
+msgid "Time(ms)"
+msgstr "الوقت (مللي ثانية)"
+
+#: 
+msgid "Auto play?"
+msgstr "تشغيل تلقائي؟"
+
+#: 
+msgid "Mousewheel Scroll?"
+msgstr "تمرير عجلة الماوس؟"
+
+#: 
+msgid "Link To Single?"
+msgstr "رابط إلى واحد؟"
+
+#: 
+msgid "Carousel Layout Option"
+msgstr "خيار تصميم دائري"
+
+#: 
+msgid "Auto Play Time(ms)"
+msgstr "وقت التشغيل التلقائي (مللي ثانية)"
+
+#: 
+msgid "Thim: Timetable"
+msgstr "تيم: الجدول الزمني"
+
+#: 
+msgid "Timetable"
+msgstr "الجدول الزمني"
+
+#: 
+msgid "Course Title"
+msgstr "عنوان الدورة"
+
+#: 
+msgid "Time Activity"
+msgstr "وقت النشاط"
+
+#: 
+msgid "Teacher Name"
+msgstr "اسم المعلم"
+
+#: 
+msgid "Background Hover Color"
+msgstr "تحوم لون الخلفية"
+
+#: 
+msgid "Color Style"
+msgstr "لون الاسلوب"
+
+#: 
+msgid "Light"
+msgstr "ضوء"
+
+#: 
+msgid "Dark"
+msgstr "داكن"
+
+#: 
+msgid "Gray"
+msgstr "اللون الرمادي"
+
+#: 
+msgid "Thim: Twitter"
+msgstr "ثيم: تويتر"
+
+#: 
+msgid "Twitter"
+msgstr "تويتر"
+
+#: 
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: 
+msgid "Tweets Display"
+msgstr "عرض التغريدات"
+
+#: 
+msgid "Thim: Video"
+msgstr "تيم: فيديو"
+
+#: 
+msgid "Video"
+msgstr "فيديو"
+
+#: 
+msgid "Basic"
+msgstr "الأساسي"
+
+#: 
+msgid "Popup"
+msgstr "يظهر فجأة"
+
+#: 
+msgid "Image Popup"
+msgstr "الصورة المنبثقة"
+
+#: 
+msgid "Width video"
+msgstr "عرض الفيديو"
+
+#: elementor-addons/elements/video/video.php:58 inc/widgets/video/video.php:35
+#: vc-shortcodes/inc-map/video.php:28
+msgid "Enter width of video. Example 100% or 600. "
+msgstr ""
+
+#: 
+msgid "Height video"
+msgstr "ارتفاع الفيديو"
+
+#: elementor-addons/elements/video/video.php:67
+msgid "Enter height of video. Example 100% or 600. "
+msgstr ""
+
+#: 
+msgid "Video Source"
+msgstr "مصدر الفيديو"
+
+#: 
+msgid "Vimeo"
+msgstr "فيميو"
+
+#: 
+msgid "Youtube"
+msgstr "موقع يوتيوب"
+
+#: 
+msgid "Vimeo Video ID"
+msgstr "معرف فيديو Vimeo"
+
+#: elementor-addons/elements/video/video.php:90 inc/widgets/video/video.php:58
+#: vc-shortcodes/inc-map/video.php:57
+msgid "Enter vimeo video ID . Example if link video https://player.vimeo.com/video/61389324 then video ID is 61389324 "
+msgstr ""
+
+#: 
+msgid "Youtube Video ID"
+msgstr "يوتيوب معرف الفيديو"
+
+#: elementor-addons/elements/video/video.php:104 inc/widgets/video/video.php:68
+#: vc-shortcodes/inc-map/video.php:70
+msgid "Enter Youtube video ID . Example if link video https://www.youtube.com/watch?v=orl1nVy4I6s then video ID is orl1nVy4I6s "
+msgstr ""
+
+#: 
+msgid "Poster"
+msgstr "ملصق"
+
+#: 
+msgid "Poster background display on popup video"
+msgstr "عرض خلفية الملصق على الفيديو المنبثق"
+
+#: 
+msgid "Title display on popup video"
+msgstr "عرض العنوان على الفيديو المنبثق"
+
+#: 
+msgid "Description display on popup video"
+msgstr "عرض الوصف على الفيديو المنبثق"
+
+#: 
+msgid "Thim Elements"
+msgstr "عناصر الزعتر"
+
+#: 
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: 
+msgid "Primary Color"
+msgstr "لون أصلي"
+
+#: 
+msgid "S"
+msgstr "س"
+
+#: 
+msgid "M"
+msgstr "M"
+
+#: 
+msgid "L"
+msgstr "L"
+
+#: 
+msgid "Huge"
+msgstr "ضخم"
+
+#: 
+msgid "XL"
+msgstr "XL"
+
+#: 
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: 
+msgid "Toolbar"
+msgstr "شريط الأدوات"
+
+#: 
+msgid "Toolbar Header"
+msgstr "رأس شريط الأدوات"
+
+#: 
+msgid "Menu Right"
+msgstr "القائمة الصحيحة"
+
+#: 
+msgid "Menu Top"
+msgstr "القائمة الأعلى"
+
+#: 
+msgid "Menu top only display with header version 2"
+msgstr "لا يتم عرض قائمة القائمة إلا مع الإصدار 2 من الرأس"
+
+#: 
+msgid "Footer Top"
+msgstr "تذييل الأعلى"
+
+#: 
+msgid "Footer Top Sidebar"
+msgstr "تذييل الشريط الجانبي العلوي"
+
+#: 
+msgid "Footer"
+msgstr "تذييل"
+
+#: 
+msgid "Footer Sidebar"
+msgstr "تذييل الشريط الجانبي"
+
+#: 
+msgid "Footer Bottom"
+msgstr "أسفل تذييل الصفحة"
+
+#: 
+msgid "Footer Bottom Sidebar"
+msgstr "تذييل أسفل الشريط الجانبي"
+
+#: 
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: 
+msgid "Sidebar Shop"
+msgstr "الشريط الجانبي للتسوق"
+
+#: 
+msgid "Sidebar Courses"
+msgstr "دورات الشريط الجانبي"
+
+#: 
+msgid "Sidebar Events"
+msgstr "أحداث الشريط الجانبي"
+
+#: 
+msgid "Header"
+msgstr "رأس"
+
+#: 
+msgid "Sidebar display on header version 3"
+msgstr "عرض الشريط الجانبي على رأس الإصدار 3"
+
+#: 
+msgid "Custom widgets area."
+msgstr "منطقة الحاجيات المخصصة."
+
+#: 
+msgid "Password"
+msgstr "كلمه السر"
+
+#: 
+msgid "Close"
+msgstr "قريب"
+
+#: 
+msgid "Logo"
+msgstr "شعار"
+
+#: 
+msgid "Archive Pages"
+msgstr "أرشيف الصفحات"
+
+#: 
+msgid "Allows you to choose a layout for all archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات الأرشيف."
+
+#: 
+msgid "Layout Type"
+msgstr "نوع التخطيط"
+
+#: 
+msgid "Choose the layout type for archive blog."
+msgstr "اختر نوع التخطيط لمدونة الأرشيف."
+
+#: 
+msgid "Grid/List"
+msgstr "شبكة / قائمة"
+
+#: 
+msgid "Style Heading title"
+msgstr "عنوان العنوان"
+
+#: 
+msgid "Select style for Heading title."
+msgstr "حدد نمط عنوان العنوان."
+
+#: 
+msgid "Style Heading 1"
+msgstr "عنوان النمط 1"
+
+#: 
+msgid "Style Heading 2"
+msgstr "عنوان النمط 2"
+
+#: 
+msgid "Use Grid/List Template"
+msgstr "استخدام شبكة / قالب القائمة"
+
+#: 
+msgid "On"
+msgstr "على"
+
+#: 
+msgid "Off"
+msgstr "إيقاف"
+
+#: 
+msgid "Hidden Page Title"
+msgstr "عنوان الصفحة المخفية"
+
+#: 
+msgid "Allows you can hidden or show page title on heading top."
+msgstr "يسمح لك بإخفاء أو إظهار عنوان الصفحة على رأس العنوان."
+
+#: 
+msgid "Hidden Breadcrumb"
+msgstr "فتات خفية"
+
+#: 
+msgid "Allows you can hidden breadcrumbs on page title."
+msgstr "يسمح لك بإخفاء فتات الخبز على عنوان الصفحة."
+
+#: 
+msgid "Sub Heading"
+msgstr "العنوان الفرعي"
+
+#: 
+msgid "Allows you can setup sub heading."
+msgstr "يسمح لك بإعداد العنوان الفرعي."
+
+#: 
+msgid "Allows you can show description on archive blog."
+msgstr "يسمح لك بعرض الوصف على أرشيف الأرشيف."
+
+#: 
+msgid "Excerpt Length"
+msgstr "طول مقتطف"
+
+#: 
+msgid "Choose the number of words you want to cut from the content to be the excerpt of search and archive"
+msgstr "اختر عدد الكلمات التي تريد قصها من المحتوى لتكون مقتطفات من البحث والأرشيف"
+
+#: 
+msgid "Top Image"
+msgstr "أعلى صورة"
+
+#: inc/admin/customizer-sections/blog-archive.php:180
+#: inc/admin/customizer-sections/blog-front.php:147
+#: inc/admin/customizer-sections/blog-singular.php:96
+#: inc/admin/customizer-sections/course-archive.php:197
+#: inc/admin/customizer-sections/course-collection.php:97
+#: inc/admin/customizer-sections/course-single.php:114
+#: inc/admin/customizer-sections/event-archive.php:97
+#: inc/admin/customizer-sections/event-single.php:97
+#: inc/admin/customizer-sections/forum-archive.php:86
+#: inc/admin/customizer-sections/general-404-page.php:57
+#: inc/admin/customizer-sections/portfolio-archive.php:97
+#: inc/admin/customizer-sections/portfolio-single.php:86
+#: inc/admin/customizer-sections/product-archive.php:131
+#: inc/admin/customizer-sections/product-single.php:114
+#: inc/admin/customizer-sections/team-archive.php:104
+#: inc/admin/customizer-sections/team-single.php:86
+#: inc/admin/customizer-sections/testimonials-archive.php:86
+#: inc/admin/customizer-sections/testimonials-single.php:86
+msgid "If you do not use background image, then can use background color for page title on heading top. "
+msgstr ""
+
+#: 
+msgid "Allows you can select a color make text color for title."
+msgstr "يتيح لك اختيار لون جعل لون النص للعنوان."
+
+#: 
+msgid "Allows you can select a color make sub title color page title."
+msgstr "يسمح لك باختيار لون جعل عنوان صفحة لون عنوان فرعي."
+
+#: 
+msgid "Blog Page"
+msgstr "صفحة المدونة"
+
+#: 
+msgid "Allows you to choose a layout for the blog page."
+msgstr "يسمح لك باختيار تخطيط لصفحة المدونة."
+
+#: 
+msgid "Column Grid"
+msgstr "شبكة العمود"
+
+#: 
+msgid "Allows select column grid."
+msgstr "يسمح بتحديد شبكة العمود."
+
+#: 
+msgid "Meta Tags"
+msgstr "العلامات الفوقية"
+
+#: 
+msgid "Display Year"
+msgstr "عرض السنة"
+
+#: 
+msgid "Display year on date of Blog."
+msgstr "عرض سنة على تاريخ المدونة."
+
+#: 
+msgid "Show Author"
+msgstr "عرض المؤلف"
+
+#: 
+msgid "Allows you to show author meta tags to display at all blog page."
+msgstr "يتيح لك إظهار العلامات الوصفية للمؤلف لعرضها في جميع صفحات المدونة."
+
+#: 
+msgid "Show"
+msgstr "تبين"
+
+#: 
+msgid "Hide"
+msgstr "إخفاء"
+
+#: 
+msgid "Show Date"
+msgstr "عرض التاريخ"
+
+#: 
+msgid "Allows you to show date meta tags to display at all blog page."
+msgstr "يسمح لك بإظهار علامات تعريف التاريخ لعرضها في جميع صفحات المدونة."
+
+#: 
+msgid "Show Category"
+msgstr "عرض الفئة"
+
+#: 
+msgid "Allows you to show category meta tags to display at single post page."
+msgstr "يسمح لك بإظهار علامات التعريف للفئة لعرضها في صفحة نشر واحدة."
+
+#: 
+msgid "Show Comment Number"
+msgstr "إظهار رقم التعليق"
+
+#: 
+msgid "Allows you to show comment meta tags to display at single post page."
+msgstr "يسمح لك بإظهار علامات تعريف التعليق لعرضها في صفحة نشر واحدة."
+
+#: 
+msgid "Singular Pages"
+msgstr "صفحات المفرد"
+
+#: 
+msgid "Allows you to choose a layout to display for all single post pages."
+msgstr "يسمح لك باختيار تخطيط لعرضه لجميع صفحات المنشورات الفردية."
+
+#: 
+msgid "Allows you can setup sub heading for single."
+msgstr "يسمح لك بإعداد العنوان الفرعي لأحد."
+
+#: 
+msgid "Related Posts"
+msgstr "المنشورات ذات الصلة"
+
+#: 
+msgid "Turn on to display related posts."
+msgstr "قم بتشغيل لعرض الوظائف ذات الصلة."
+
+#: 
+msgid "Blog"
+msgstr "مدونة"
+
+#: 
+msgid "Allows you to choose a layout for all courses archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات أرشيف الدورات."
+
+#: 
+msgid "Hide Breadcrumbs?"
+msgstr "إخفاء فتات الخبز؟"
+
+#: 
+msgid "Check this box to hide/show breadcrumbs."
+msgstr "حدد هذا المربع لإخفاء / إظهار فتات الخبز."
+
+#: 
+msgid "Hide Title"
+msgstr "إخفاء العنوان"
+
+#: 
+msgid "Check this box to hide/show title."
+msgstr "حدد هذا المربع لإخفاء / إظهار العنوان."
+
+#: 
+msgid "Show Popular Courses"
+msgstr "عرض الدورات الشعبية"
+
+#: 
+msgid "Check this box to hide/show popular Courses."
+msgstr "حدد هذا المربع لإخفاء / إظهار الدورات التدريبية الشائعة."
+
+#: 
+msgid "Course item description length (number of words)"
+msgstr "طول وصف بند الدورة (عدد الكلمات)"
+
+#: 
+msgid "Layout Grid/List Courses"
+msgstr "تخطيط الشبكة / قائمة الدورات"
+
+#: 
+msgid "Choose the layout of grid/list courses."
+msgstr "اختيار تصميم الشبكة / قائمة الدورات."
+
+#: 
+msgid "Layout 1"
+msgstr "تخطيط 1"
+
+#: 
+msgid "Grid Columns"
+msgstr "أعمدة الشبكة"
+
+#: 
+msgid "Choose the number of columns."
+msgstr "اختر عدد الأعمدة."
+
+#: 
+msgid "Display Courses Filter?"
+msgstr "عرض دورات تصفية؟"
+
+#: 
+msgid "Filter by Categories?"
+msgstr "تصفية حسب الفئات؟"
+
+#: 
+msgid "Filter by Instructors?"
+msgstr "تصفية حسب المدربين؟"
+
+#: 
+msgid "Filter by Price?"
+msgstr "تصفية حسب السعر؟"
+
+#: 
+msgid "Display Courses Sort?"
+msgstr "عرض الدورات فرز؟"
+
+#: 
+msgid "Collection Pages"
+msgstr "مجموعة صفحات"
+
+#: 
+msgid "Allows you to choose a layout to display for all single course pages."
+msgstr "يتيح لك اختيار تخطيط لعرضه لجميع صفحات الدورة التدريبية الفردية."
+
+#: 
+msgid "Features"
+msgstr "المميزات"
+
+#: 
+msgid "Enable Login Popup"
+msgstr "تمكين تسجيل الدخول المنبثق"
+
+#: 
+msgid "Enable login popup when take this course with user not logged in."
+msgstr "تمكين نافذة تسجيل الدخول المنبثقة عندما تأخذ هذه الدورة التدريبية مع عدم تسجيل دخول المستخدم."
+
+#: 
+msgid "One Course ID"
+msgstr "معرف دورة واحدة"
+
+#: 
+msgid "Only use for Demo One Course."
+msgstr "استخدم فقط للدورة التجريبية الأولى."
+
+#: 
+msgid "Contact Form 7 Shortcode"
+msgstr "نموذج الاتصال 7 رمز قصير"
+
+#: 
+msgid "Only use for Demo Kindergarten."
+msgstr "فقط استخدام لرياض الأطفال التجريبي."
+
+#: 
+msgid "Timetable Link"
+msgstr "رابط الجدول الزمني"
+
+#: 
+msgid "Hidden Ads"
+msgstr "الإعلانات المخفية"
+
+#: 
+msgid "Hidden ads learnpress on WordPress admin."
+msgstr "الإعلانات المخفية تتعلم على مشرف وورد."
+
+#: 
+msgid "Single Pages"
+msgstr "صفحات واحدة"
+
+#: 
+msgid "Curriculum"
+msgstr "منهاج دراسي"
+
+#: 
+msgid "Instructors"
+msgstr "المدربين"
+
+#: 
+msgid "Announcements"
+msgstr "الإعلانات"
+
+#: 
+msgid "Student list"
+msgstr "قائمة الطلاب"
+
+#: 
+msgid "Reviews"
+msgstr "التعليقات"
+
+#: 
+msgid "Sortable Tab Course"
+msgstr "دورة تبويب قابلة للفرز"
+
+#: 
+msgid "Click on eye icons to show or hide buttons. Use drag and drop to change the position of tabs..."
+msgstr "انقر على أيقونات العين لإظهار أو إخفاء الأزرار. استخدم السحب والإفلات لتغيير موضع علامات التبويب ..."
+
+#: 
+msgid "Select Tab Default"
+msgstr "حدد علامة التبويب الافتراضي"
+
+#: 
+msgid "Select tab you want set to default"
+msgstr "حدد علامة التبويب التي تريد ضبطها على الإعداد الافتراضي"
+
+#: 
+msgid "Allows you to choose a layout for all events archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات أرشيف الأحداث."
+
+#: 
+msgid "Change Order Tab"
+msgstr "تغيير علامة تبويب الطلب"
+
+#: 
+msgid "Allows you can show/hide and change the order of the tabs"
+msgstr "يسمح لك بإظهار / إخفاء وتغيير ترتيب علامات التبويب"
+
+#: 
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: 
+msgid "Show Year"
+msgstr "عرض السنة"
+
+#: 
+msgid "Show year on date of all place display events."
+msgstr "عرض العام في تاريخ كل الأحداث عرض المكان."
+
+#: 
+msgid "Disable booking tickets"
+msgstr "تعطيل حجز التذاكر"
+
+#: 
+msgid "Disable booking tickets on single event."
+msgstr "تعطيل حجز التذاكر في حدث واحد."
+
+#: 
+msgid "Single Page"
+msgstr "صفحة واحدة"
+
+#: 
+msgid "Allows you to choose a layout to display for all event single pages."
+msgstr "يتيح لك اختيار تخطيط لعرضه لجميع صفحات الأحداث الفردية."
+
+#: 
+msgid "Events"
+msgstr "أحداث"
+
+#: inc/admin/customizer-sections/footer-copyright.php:23
+msgid "Allows you to choose background color for your copyright area. "
+msgstr ""
+
+#: 
+msgid "Color"
+msgstr "اللون"
+
+#: inc/admin/customizer-sections/footer-copyright.php:44
+msgid "Allows you to choose color for your copyright area. "
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:65
+msgid "Allows you to choose border color for your copyright area. "
+msgstr ""
+
+#: 
+msgid "Copyright Text"
+msgstr "نص حقوق النشر"
+
+#: 
+msgid "Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr "أدخل النص الذي يظهر في شريط حقوق النشر. يمكن استخدام ترميز HTML."
+
+#: 
+msgid "Footer Custom Class"
+msgstr "فئة تذييل مخصص"
+
+#: 
+msgid "Enter footer custom class."
+msgstr "أدخل فئة مخصصة تذييل الصفحة."
+
+#: 
+msgid "Colors"
+msgstr "الألوان"
+
+#: 
+msgid "Text"
+msgstr "نص"
+
+#: 
+msgid "Hover"
+msgstr "يحوم"
+
+#: 
+msgid "Footer Background Image"
+msgstr "صورة خلفية تذييل الصفحة"
+
+#: 
+msgid "Background image"
+msgstr "الصورة الخلفية"
+
+#: 
+msgid "Background Repeat"
+msgstr "تكرار الخلفية"
+
+#: 
+msgid "Repeat"
+msgstr "كرر"
+
+#: 
+msgid "Repeat X"
+msgstr "كرر X"
+
+#: 
+msgid "Repeat Y"
+msgstr "كرر Y"
+
+#: 
+msgid "No Repeat"
+msgstr "لا كرر"
+
+#: 
+msgid "Background Position"
+msgstr "موقف الخلفية"
+
+#: 
+msgid "Background Attachment"
+msgstr "مرفق الخلفية"
+
+#: 
+msgid "Scroll"
+msgstr "التمرير"
+
+#: 
+msgid "Fixed"
+msgstr "ثابت"
+
+#: 
+msgid "Background Size"
+msgstr "حجم الخلفية"
+
+#: 
+msgid "Contain"
+msgstr "يحتوي"
+
+#: 
+msgid "Cover"
+msgstr "التغطية"
+
+#: 
+msgid "Forum"
+msgstr "المنتدى"
+
+#: 
+msgid "Allows you to choose a layout for all forum archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات أرشيف المنتدى."
+
+#: 
+msgid "404 Page"
+msgstr "404 صفحة"
+
+#: 
+msgid "Custom title"
+msgstr "عنوان مخصص"
+
+#: 
+msgid "Allows you can setup custom title."
+msgstr "يسمح لك بإعداد عنوان مخصص."
+
+#: 
+msgid "Custom CSS & JS"
+msgstr "عرف CSS و JS"
+
+#: 
+msgid "Custom CSS"
+msgstr "لغة تنسيق ويب حسب الطلب"
+
+#: 
+msgid "Just want to do some quick CSS changes? Enter theme here, they will be applied to the theme."
+msgstr "فقط تريد أن تفعل بعض التغييرات سريعة المغلق؟ أدخل السمة هنا ، وسيتم تطبيقها على السمة."
+
+#: 
+msgid "Custom JS"
+msgstr "JS مخصص"
+
+#: 
+msgid "Just want to do some quick JS changes? Enter theme here, they will be applied to the theme."
+msgstr "فقط تريد أن تفعل بعض التغييرات JS سريعة؟ أدخل السمة هنا ، وسيتم تطبيقها على السمة."
+
+#: 
+msgid "Extra Features"
+msgstr "ميزات اضافية"
+
+#: 
+msgid "RTL Support"
+msgstr "دعم RTL"
+
+#: 
+msgid "Auto Login"
+msgstr "تسجيل تلقائى"
+
+#: 
+msgid "Smooth Scrolling"
+msgstr "التمرير السلس"
+
+#: 
+msgid "Turn on to enable smooth scrolling."
+msgstr "قم بتشغيل لتمكين التمرير السلس."
+
+#: 
+msgid "Remove Query String"
+msgstr "إزالة سلسلة الاستعلام"
+
+#: 
+msgid "Back To Top"
+msgstr "العودة إلى الأعلى"
+
+#: 
+msgid "Turn on to enable the Back To Top script which adds the scrolling to top functionality."
+msgstr "قم بتشغيل لتمكين البرنامج النصي Back To Top الذي يضيف وظيفة التمرير إلى أعلى."
+
+#: 
+msgid "Preloading"
+msgstr "تحميلها مسبقا"
+
+#: 
+msgid "Preloading Custom Image"
+msgstr "التحميل المسبق صورة مخصصة"
+
+#: 
+msgid "Preloading Color"
+msgstr "تحميل مسبق اللون"
+
+#: 
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: 
+msgid "Icon color"
+msgstr "لون الرمز"
+
+#: 
+msgid "Site Layout"
+msgstr "تخطيط الموقع"
+
+#: 
+msgid "Allows you to choose a layout for your site."
+msgstr "يسمح لك باختيار تصميم لموقعك."
+
+#: 
+msgid "Page Layouts"
+msgstr "تخطيطات الصفحة"
+
+#: 
+msgid "Allows you to choose a layout to display for all pages on your site."
+msgstr "يسمح لك باختيار تخطيط لعرضه لجميع الصفحات على موقعك."
+
+#: 
+msgid "Layout Content"
+msgstr "تخطيط المحتوى"
+
+#: 
+msgid "New Demo"
+msgstr "عرض جديد"
+
+#: 
+msgid "Size Body"
+msgstr "حجم الجسم"
+
+#: 
+msgid "Wide"
+msgstr "واسع"
+
+#: inc/admin/customizer-sections/general-logo.php:14
+msgid "Allows you to add, remove, change logo on your site. "
+msgstr ""
+
+#: 
+msgid "Sticky Logo"
+msgstr "شعار مثبت"
+
+#: inc/admin/customizer-sections/general-logo.php:27
+msgid "Allows you to add, remove, change sticky logo on your site. "
+msgstr ""
+
+#: 
+msgid "Logo width"
+msgstr "عرض الشعار"
+
+#: 
+msgid "Allows you to assign a value for logo width. Example: 10px, 3em, 48%, 90vh etc."
+msgstr "يسمح لك بتعيين قيمة لعرض الشعار. مثال: 10px ، 3em ، 48٪ ، 90vh إلخ"
+
+#: 
+msgid "Social Share"
+msgstr "حصة الاجتماعي"
+
+#: 
+msgid "Sortable Buttons Sharing"
+msgstr "تبادل أزرار قابلة للفرز"
+
+#: 
+msgid "Click on eye icons to show or hide buttons. Use drag and drop to change the position of social share icons.."
+msgstr "انقر على أيقونات العين لإظهار أو إخفاء الأزرار. استخدم السحب والإفلات لتغيير موضع أيقونات المشاركة الاجتماعية .."
+
+#: 
+msgid "Facebook"
+msgstr "موقع التواصل الاجتماعي الفيسبوك"
+
+#: 
+msgid "Pinterest"
+msgstr "موقع Pinterest"
+
+#: 
+msgid "Google Plus"
+msgstr "جوجل بلس"
+
+#: 
+msgid "LinkedIn"
+msgstr "ينكدين"
+
+#: 
+msgid "Sticky Sidebar"
+msgstr "الشريط الجانبي مثبت"
+
+#: 
+msgid "Boxed Background"
+msgstr "خلفية محاصر"
+
+#: 
+msgid "Select Background Type"
+msgstr "حدد نوع الخلفية"
+
+#: 
+msgid "Allows you to select a background for body content when you selected box layout in General Layouts"
+msgstr "يسمح لك بتحديد خلفية للمحتوى الأساسي عند تحديد تخطيط المربع في \"التخطيطات العامة\""
+
+#: 
+msgid "Pattern"
+msgstr "نمط"
+
+#: 
+msgid "Tile"
+msgstr "قرميدة"
+
+#: 
+msgid "Tile Horizontally"
+msgstr "بلاط أفقيا"
+
+#: 
+msgid "Tile Vertically"
+msgstr "بلاط عموديا"
+
+#: 
+msgid "Select a Background Pattern"
+msgstr "حدد نمط الخلفية"
+
+#: 
+msgid "Styling"
+msgstr "تصميم"
+
+#: 
+msgid "Allows you to choose a primary color for your site."
+msgstr "يسمح لك باختيار لون أساسي لموقعك."
+
+#: 
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+#: 
+msgid "Allows you to choose a secondary color for your site."
+msgstr "يسمح لك باختيار لون ثانوي لموقعك."
+
+#: 
+msgid "Button Hover Background Color"
+msgstr "زر تحويم لون الخلفية"
+
+#: 
+msgid "Allows you to choose a button hover background color for your site."
+msgstr "يسمح لك باختيار لون خلفية تحويم الأزرار لموقعك."
+
+#: 
+msgid "Button Text Color"
+msgstr "لون نص الزر"
+
+#: 
+msgid "Allows you to choose a button text color for your site."
+msgstr "يتيح لك اختيار لون نص زر لموقعك."
+
+#: 
+msgid "Body Background Color"
+msgstr "لون خلفية الجسم"
+
+#: 
+msgid "Allows you to choose background color for body."
+msgstr "يتيح لك اختيار لون الخلفية للجسم."
+
+#: 
+msgid "Headings"
+msgstr "العناوين"
+
+#: 
+msgid "Heading Font-Family"
+msgstr "عنوان الخط الأسرة"
+
+#: 
+msgid "Allows you to select font-family for headings (h1, h2, h3, h4, h5, h6)"
+msgstr "يتيح لك اختيار عائلة الخطوط للعناوين (h1 ، h2 ، h3 ، h4 ، h5 ، h6)"
+
+#: 
+msgid "Heading 1"
+msgstr "عنوان 1"
+
+#: 
+msgid "Allows you to select all font properties of H1 tag for your site"
+msgstr "يتيح لك اختيار كل خصائص الخط للعلامة H1 لموقعك"
+
+#: 
+msgid "Heading 2"
+msgstr "العنوان 2"
+
+#: 
+msgid "Allows you to select all font properties of H2 tag for your site"
+msgstr "يتيح لك اختيار كل خصائص الخط للعلامة H2 لموقعك"
+
+#: 
+msgid "Heading 3"
+msgstr "العنوان 3"
+
+#: 
+msgid "Allows you to select all font properties of H3 tag for your site"
+msgstr "يتيح لك اختيار كل خصائص الخط للعلامة H3 لموقعك"
+
+#: 
+msgid "Heading 4"
+msgstr "العنوان 4"
+
+#: 
+msgid "Allows you to select all font properties of H4 tag for your site"
+msgstr "يسمح لك بتحديد جميع خصائص الخط لعلامة H4 لموقعك"
+
+#: 
+msgid "Heading 5"
+msgstr "العنوان 5"
+
+#: 
+msgid "Allows you to select all font properties of H5 tag for your site"
+msgstr "يتيح لك اختيار كل خصائص الخط للعلامة H5 لموقعك"
+
+#: 
+msgid "Heading 6"
+msgstr "العنوان 6"
+
+#: 
+msgid "Allows you to select all font properties of H6 tag for your site"
+msgstr "يتيح لك اختيار كل خصائص الخط للعلامة H6 لموقعك"
+
+#: 
+msgid "Typography"
+msgstr "طباعة"
+
+#: 
+msgid "Body"
+msgstr "الجسم"
+
+#: 
+msgid "Body Font"
+msgstr "خط الجسم"
+
+#: 
+msgid "Allows you to select all font properties of body tag for your site"
+msgstr "يسمح لك باختيار كل خصائص الخط لعلامة الجسم لموقعك"
+
+#: 
+msgid "Utilities"
+msgstr "خدمات"
+
+#: 
+msgid "Google Analytics"
+msgstr "تحليلات كوكل"
+
+#: 
+msgid "Enter your ID Google Analytics."
+msgstr "أدخل معرف Google Analytics."
+
+#: 
+msgid "Facebook Pixel"
+msgstr "الفيسبوك بكسل"
+
+#: 
+msgid "Enter your ID Facebook Pixel."
+msgstr "أدخل معرف الفيسبوك الخاص بك بكسل."
+
+#: 
+msgid "Body Custom Class"
+msgstr "فئة الجسم مخصص"
+
+#: 
+msgid "Enter body custom class."
+msgstr "أدخل فئة مخصصة الجسم."
+
+#: 
+msgid "Register Redirect"
+msgstr "تسجيل إعادة التوجيه"
+
+#: 
+msgid "Allows register redirect url. Blank will redirect to home page."
+msgstr "يسمح تسجيل رابط إعادة توجيه. سوف فارغة إعادة توجيه إلى الصفحة الرئيسية."
+
+#: 
+msgid "Login Redirect"
+msgstr "إعادة توجيه تسجيل الدخول"
+
+#: 
+msgid "Allows login redirect url. Blank will redirect to home page."
+msgstr "يسمح تسجيل الدخول إعادة توجيه رابط. سوف فارغة إعادة توجيه إلى الصفحة الرئيسية."
+
+#: 
+msgid "Page Builder"
+msgstr "منشئ الصفحة"
+
+#: 
+msgid "Allows select page builder which you want to using."
+msgstr "للسماح بتحديد أداة إنشاء الصفحات التي تريد استخدامها."
+
+#: 
+msgid "Site Origin"
+msgstr "أصل الموقع"
+
+#: 
+msgid "Visual Composer"
+msgstr "الملحن البصري"
+
+#: 
+msgid "Elementor"
+msgstr "Elementor"
+
+#: 
+msgid "General"
+msgstr "جنرال لواء"
+
+#: inc/admin/customizer-sections/header-layouts.php:23
+msgid "Allows you can select header layout for header on your site. "
+msgstr ""
+
+#: 
+msgid "Size"
+msgstr "بحجم"
+
+#: inc/admin/customizer-sections/header-layouts.php:43
+msgid "Allows you can select size layout for header layout. "
+msgstr ""
+
+#: 
+msgid "Full width"
+msgstr "العرض الكامل"
+
+#: 
+msgid "Position"
+msgstr "موضع"
+
+#: inc/admin/customizer-sections/header-layouts.php:61
+msgid "Allows you can select position layout for header layout. "
+msgstr ""
+
+#: 
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: 
+msgid "Fonts"
+msgstr "الخطوط"
+
+#: inc/admin/customizer-sections/header-main-menu.php:23
+msgid "Allows you to select all font font properties for header. "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:54
+msgid "Allows you can choose background color for your header. "
+msgstr ""
+
+#: 
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: 
+msgid "Allows you to select color for text."
+msgstr "يتيح لك اختيار لون للنص."
+
+#: 
+msgid "Text Color Hover"
+msgstr "تحويم لون النص"
+
+#: 
+msgid "Allows you to select color for text link when hover text link."
+msgstr "يسمح لك باختيار لون رابط النص عند ارتباط نص مؤشر الماوس."
+
+#: 
+msgid "Mobile Menu"
+msgstr "قائمة المحمول"
+
+#: 
+msgid "Allows you to choose a background color for mobile menu."
+msgstr "يتيح لك اختيار لون الخلفية لقائمة المحمول."
+
+#: 
+msgid "Allows you to choose a text color."
+msgstr "يتيح لك اختيار لون النص."
+
+#: 
+msgid "Text Hover Color"
+msgstr "نص تحوم اللون"
+
+#: 
+msgid "Allows you to choose a text hover color."
+msgstr "يسمح لك باختيار لون تحويم النص."
+
+#: 
+msgid "Config Logo"
+msgstr "شعار التكوين"
+
+#: 
+msgid "Allows you can config logo mobile menu."
+msgstr "يسمح لك بتكوين قائمة شعار الجوال."
+
+#: 
+msgid "Custom"
+msgstr "مخصص"
+
+#: 
+msgid "Mobile Logo"
+msgstr "شعار المحمول"
+
+#: 
+msgid "Allows you to add, remove, change mobile logo on your site."
+msgstr "يتيح لك إضافة أو إزالة أو تغيير شعار الجوال على موقعك."
+
+#: 
+msgid "Mobile Sticky Logo"
+msgstr "شعار المحمول مثبت"
+
+#: 
+msgid "Allows you to add, remove, change mobile sticky logo on your site."
+msgstr "يتيح لك إضافة أو إزالة أو تغيير شعار لاصق للجوال على موقعك."
+
+#: 
+msgid "Enable Login/Logout."
+msgstr "تمكين تسجيل الدخول / الخروج."
+
+#: 
+msgid "Allows you to enable or disable login/logout link on mobile menu."
+msgstr "يسمح لك بتمكين أو تعطيل رابط تسجيل الدخول / الخروج في قائمة الجوّال."
+
+#: 
+msgid "Sticky Menu"
+msgstr "قائمة لزجة"
+
+#: 
+msgid "Sticky On Scroll"
+msgstr "مثبت على التمرير"
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:23
+msgid "Allows you can show or hide sticky header menu on your site . "
+msgstr ""
+
+#: 
+msgid "Config sticky menu"
+msgstr "تكوين القائمة لزجة"
+
+#: 
+msgid "Allows you can config sticky menu style."
+msgstr "يتيح لك تكوين نمط القائمة اللزجة."
+
+#: 
+msgid "The same with main menu"
+msgstr "الشيء نفسه مع القائمة الرئيسية"
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:58
+msgid "Allows you can select a color make background color for header sticky menu . "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:86
+msgid "Allows you can select a color make text color on header sticky menu . "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:128
+msgid "Allows you can select color for text link when hover text link on header sticky menu. "
+msgstr ""
+
+#: 
+msgid "Sub Menu"
+msgstr "القائمة الفرعية"
+
+#: inc/admin/customizer-sections/header-sub-menu.php:23
+msgid "Allows you can select a color make background color sub menu on header  . "
+msgstr ""
+
+#: 
+msgid "Allows you can select border color for sub menu."
+msgstr "يتيح لك اختيار لون الحدود لقائمة فرعية."
+
+#: 
+msgid "Allows you can select a color make text color sub menu on header."
+msgstr "للسماح لك بتحديد قائمة لون نصية تجعل لون النص في الرأس."
+
+#: 
+msgid "Allows you can select color for text link when hover text link sub menu on header."
+msgstr "يتيح لك اختيار اللون لارتباط النص عند تحريك القائمة الفرعية لرابط النص في الرأس."
+
+#: 
+msgid "Show Toolbar"
+msgstr "إظهار شريط الأدوات"
+
+#: 
+msgid "Allows you to enable or disable Toolbar."
+msgstr "يسمح لك بتمكين أو تعطيل شريط الأدوات."
+
+#: 
+msgid "Font size"
+msgstr "حجم الخط"
+
+#: inc/admin/customizer-sections/header-toolbar.php:37
+msgid "Allows you to select font size for toolbar. "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-toolbar.php:60
+msgid "Allows you to choose a background color for widget on toolbar. "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-toolbar.php:84
+msgid "Allows you to choose a color for widget on toolbar. "
+msgstr ""
+
+#: 
+msgid "Link Color"
+msgstr "رابط اللون"
+
+#: inc/admin/customizer-sections/header-toolbar.php:108
+msgid "Allows you to choose a link color for widget on toolbar. "
+msgstr ""
+
+#: 
+msgid "Link Hover Color"
+msgstr "رابط تحوم اللون"
+
+#: inc/admin/customizer-sections/header-toolbar.php:128
+msgid "Allows you to choose a link hover color for widget on toolbar. "
+msgstr ""
+
+#: 
+msgid "Menus"
+msgstr "القوائم"
+
+#: 
+msgid "Archive Layouts"
+msgstr "تخطيطات الأرشيف"
+
+#: 
+msgid "Allows you to choose a layout for all portfolio archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات أرشيف الحافظة."
+
+#: 
+msgid "Allows you to choose a layout to display for all portfolio single pages."
+msgstr "يتيح لك اختيار تخطيط لعرضه لجميع الصفحات الفردية للمحفظة."
+
+#: 
+msgid "Allows you to choose a layout for all products archive pages."
+msgstr "يتيح لك اختيار تخطيط لجميع صفحات أرشيف المنتجات."
+
+#: 
+msgid "Choose the layout type for archive."
+msgstr "اختر نوع التخطيط للأرشيف."
+
+#: 
+msgid "Choose the number grid columns for product."
+msgstr "اختر أعمدة شبكة الأرقام للمنتج."
+
+#: 
+msgid "Products Per Page"
+msgstr "المنتجات لكل صفحة"
+
+#: 
+msgid "Choose the number of products per page."
+msgstr "اختر عدد المنتجات لكل صفحة."
+
+#: 
+msgid "Show Quick View"
+msgstr "عرض عرض سريع"
+
+#: 
+msgid "Allows you to enable or disable quick view."
+msgstr "يتيح لك تمكين أو تعطيل عرض سريع."
+
+#: 
+msgid "Single Layouts"
+msgstr "تخطيطات واحدة"
+
+#: 
+msgid "Allows you to choose a layout for all product single pages."
+msgstr "يسمح لك باختيار تخطيط لجميع الصفحات الفردية للمنتج."
+
+#: 
+msgid "Products"
+msgstr "منتجات"
+
+#: 
+msgid "Allows you to choose a layout for all teams archive pages."
+msgstr "يسمح لك باختيار تخطيط لجميع صفحات أرشيف الفرق."
+
+#: 
+msgid "Amount Member Per Page"
+msgstr "المبلغ العضو لكل صفحة"
+
+#: 
+msgid "Choose the number of member per page."
+msgstr "اختيار عدد الأعضاء في كل صفحة."
+
+#: 
+msgid "Teams"
+msgstr "فرق"
+
+#: 
+msgid "Widgets"
+msgstr "الحاجيات"
+
+#: 
+msgid "Something went wrong!"
+msgstr "هناك خطأ ما!"
+
+#: 
+msgid "Active"
+msgstr "نشيط"
+
+#: 
+msgid "Inactive"
+msgstr "غير نشط"
+
+#: 
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: 
+msgid "%s Theme notice!"
+msgstr "٪ s إشعار موضوعي!"
+
+#: 
+msgid "Installed the theme successfully. <a href=\"%s\">Enable Thim Core to start now!</a>"
+msgstr "تم تثبيت السمة بنجاح. <a href=\"٪s\"> تمكين Thim Core من البدء الآن! </a>"
+
+#: 
+msgid "Thim Core Installer"
+msgstr "ثيم كور المثبت"
+
+#: 
+msgid "Welcome to the setup Core for %1$s Theme. Thank you for choosing the %1$s theme!"
+msgstr "مرحبًا بك في الإعداد الأساسي لـ٪ 1 $ s Theme. شكرًا لك على اختيار سمة٪ 1 $ s!"
+
+#: 
+msgid "Your site have already installed Thim Core!"
+msgstr "تم تثبيت موقعك بالفعل Thim Core!"
+
+#: 
+msgid "<button data-href=\"%s\" class=\"thim-button-link button button-primary\">Return to Dashboard</button>"
+msgstr "<button data-href = \"٪ s\" class = \"thim-button-link button-primary\"> الرجوع إلى لوحة المعلومات </ Button>"
+
+#: 
+msgid "Install and activate"
+msgstr "تثبيت وتفعيل"
+
+#: 
+msgid "Installing Thim Core"
+msgstr "تثبيت ثيم كور"
+
+#: 
+msgid "Activating Thim Core"
+msgstr "تفعيل ثيم الأساسية"
+
+#: 
+msgid "Activating..."
+msgstr "تفعيل ..."
+
+#: 
+msgid "Activating Thim Core successfully!"
+msgstr "تفعيل ثيم كور بنجاح!"
+
+#: 
+msgid "You are redirecting to %s theme dashboard..."
+msgstr "أنت تعيد التوجيه إلى لوحة معلومات السمات٪ s ..."
+
+#: 
+msgid "Activating Thim Core failed!"
+msgstr "فشل تنشيط Thim Core!"
+
+#: 
+msgid "Activate again"
+msgstr "تنشيط مرة أخرى"
+
+#: 
+msgid "Configuration Check"
+msgstr "تحقق التكوين"
+
+#: 
+msgid "Server Info"
+msgstr "معلومات الخادم"
+
+#: 
+msgid "PHP Version"
+msgstr "نسخة PHP"
+
+#: 
+msgid "%1$s - We recommend a minimum PHP version of 5.6. See: %2$s"
+msgstr "٪ 1 $ s - نوصي باستخدام إصدار PHP بحد أدنى يبلغ 5.6. انظر:٪ 2 $ s"
+
+#: 
+msgid "How to update your PHP version"
+msgstr "كيفية تحديث نسخة PHP الخاصة بك"
+
+#: 
+msgid "PHP Memory Limit"
+msgstr "حد ذاكرة PHP"
+
+#: 
+msgid "<strong>%s</strong> - We recommend setting memory to at least <strong>128MB</strong>. To learn how, see: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP.</a>"
+msgstr "<strong>٪ s </strong> - نوصي بتعيين الذاكرة على الأقل <strong> 128 ميغابايت </ strong>. لمعرفة كيفية ذلك ، راجع: <a href=\"٪s\" target=\"_blank\"> زيادة الذاكرة المخصصة لـ PHP. </a>"
+
+#: 
+msgid "cURL version"
+msgstr "نسخة حليقة"
+
+#: 
+msgid "Remote GET"
+msgstr "بعد الحصول عليها"
+
+#: 
+msgid "wp_remote_get() failed. Please contact your hosting provider."
+msgstr "فشل wp_remote_get (). يرجى الاتصال بمزود الاستضافة."
+
+#: 
+msgid "Plugins directory"
+msgstr "دليل الإضافات"
+
+#: 
+msgid "Plugins directory writable"
+msgstr "الإضافات دليل للكتابة"
+
+#: 
+msgid "Please follow those instructions above to make sure your server is ready to use %s theme. If you need assistance, please get our support <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "يرجى اتباع التعليمات المذكورة أعلاه للتأكد من أن خادمك جاهز لاستخدام سمة٪ s. إذا كنت بحاجة إلى مساعدة ، فيرجى الحصول على دعمنا <a href=\"٪s\" target=\"_blank\"> هنا </a>."
+
+#: 
+msgid "Thim Core Installer &lsaquo; %s"
+msgstr "ثيم كور المثبت & lsaquo؛ ٪س"
+
+#: 
+msgid "&copy; ThimPress 2017. All rights reserved. Powered by WordPress."
+msgstr "&نسخ؛ ThimPress 2017. جميع الحقوق محفوظة. مدعوم من وورد."
+
+#: 
+msgid "Courses Slider 1"
+msgstr "دورات المتزلج 1"
+
+#: 
+msgid "Icon Box 1"
+msgstr "صندوق الأيقونات 1"
+
+#: 
+msgid "Countdown + Form 1"
+msgstr "العد التنازلي + نموذج 1"
+
+#: 
+msgid "List Events 1"
+msgstr "قائمة الأحداث 1"
+
+#: 
+msgid "List Posts 1"
+msgstr "قائمة المشاركات 1"
+
+#: 
+msgid "Testimonials Slider 1"
+msgstr "شهادات المنزلق 1"
+
+#: 
+msgid "Courses Search Form 1"
+msgstr "نموذج البحث عن الدورات 1"
+
+#: 
+msgid "Courses Categories Slider"
+msgstr "فئات الدورات"
+
+#: 
+msgid "Counter Up 1"
+msgstr "عداد يصل 1"
+
+#: 
+msgid "Slider Form"
+msgstr "شكل شريط التمرير"
+
+#: 
+msgid "Counter Up 2"
+msgstr "عداد يصل 2"
+
+#: 
+msgid "Image Box 1"
+msgstr "صندوق الصور 1"
+
+#: 
+msgid "Call To Action 1"
+msgstr "دعوة إلى العمل 1"
+
+#: 
+msgid "Courses Tabs"
+msgstr "علامات تبويب الدورات"
+
+#: 
+msgid "Courses Search Form 2"
+msgstr "نموذج البحث عن الدورات 2"
+
+#: 
+msgid "Courses Collections 1"
+msgstr "مجموعات الدورات 1"
+
+#: 
+msgid "Icon Box 2"
+msgstr "أيقونة مربع 2"
+
+#: 
+msgid "Events + Form"
+msgstr "أحداث + نموذج"
+
+#: 
+msgid "Posts Slider 1"
+msgstr "المشاركات المتزلج 1"
+
+#: 
+msgid "Call To Action 2"
+msgstr "دعوة إلى العمل 2"
+
+#: 
+msgid "Slider React"
+msgstr "شريط التمرير رد"
+
+#: 
+msgid "Icon Box React"
+msgstr "رد صندوق الأيقونات"
+
+#: 
+msgid "Categories Tabs 1"
+msgstr "فئات علامات التبويب 1"
+
+#: 
+msgid "Countdown + Form 2"
+msgstr "العد التنازلي + نموذج 2"
+
+#: 
+msgid "Courses Tabs 2"
+msgstr "علامات تبويب المقررات 2"
+
+#: 
+msgid "List Instructors 1"
+msgstr "قائمة المدربين 1"
+
+#: 
+msgid "Slider Edtech"
+msgstr "شريط التمرير Edtech"
+
+#: 
+msgid "List Instructors 2"
+msgstr "قائمة المدربين 2"
+
+#: 
+msgid "Events Lists 2"
+msgstr "قوائم الأحداث 2"
+
+#: 
+msgid "Counter Up 3"
+msgstr "عداد يصل 3"
+
+#: 
+msgid "Courses Collections 2"
+msgstr "مجموعات الدورات 2"
+
+#: 
+msgid "Important Update!"
+msgstr "تحديث مهم!"
+
+#: 
+msgid "Thim Core %s is available for your system and is ready to install."
+msgstr "Thim Core٪ s متاح لنظامك وهو جاهز للتثبيت."
+
+#: 
+msgid "Go to update"
+msgstr "الذهاب إلى التحديث"
+
+#: 
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: 
+msgid "Archives"
+msgstr "أرشيف"
+
+#: 
+msgid "Author"
+msgstr "مؤلف"
+
+#: 
+msgid "Page"
+msgstr "صفحة"
+
+#: 
+msgid "Search results for:"
+msgstr "نتائج البحث عن:"
+
+#: 
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر الموافقة عليه."
+
+#: 
+msgid "Edit"
+msgstr "تعديل"
+
+#: 
+msgid "Color Sub Title"
+msgstr "لون العنوان الفرعي"
+
+#: 
+msgid "No Padding Content"
+msgstr "لا محتوى الحشو"
+
+#: 
+msgid "Thim Widget"
+msgstr "ثيم القطعة"
+
+#: 
+msgid "Share:"
+msgstr "شارك:"
+
+#: 
+msgid "Organizers"
+msgstr "المنظمون"
+
+#: 
+msgid "No members exists. You can create a member data from"
+msgstr "لا يوجد أعضاء. يمكنك إنشاء بيانات عضو من"
+
+#: 
+msgid "Get Members"
+msgstr "الحصول على الأعضاء"
+
+#: 
+msgid "Hold down the Ctrl (Windows) / Command (Mac) button to select multiple options."
+msgstr "اضغط باستمرار على المفتاح Ctrl (في Windows) / Command (في نظام Mac) لتحديد خيارات متعددة."
+
+#: inc/custom-functions.php:639
+msgid "Current Members: "
+msgstr ""
+
+#: 
+msgid "Name"
+msgstr "اسم"
+
+#: 
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: 
+msgid "Website"
+msgstr "موقع الكتروني"
+
+#: 
+msgid "Someone has requested a password reset for the following account:"
+msgstr "طلب شخص ما إعادة تعيين كلمة المرور للحساب التالي:"
+
+#: 
+msgid "Site Name: %s"
+msgstr "اسم الموقع:٪ s"
+
+#: 
+msgid "Username: %s"
+msgstr "اسم المستخدم:٪ s"
+
+#: 
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "إذا كان هذا خطأ ، فما عليك سوى تجاهل هذا البريد الإلكتروني ولن يحدث شيء."
+
+#: 
+msgid "To reset your password, visit the following address:"
+msgstr "لإعادة ضبط كلمة مرورك ، تفضل بزيارة العنوان التالي:"
+
+#: 
+msgid "Invalid request."
+msgstr "طلب غير صالح."
+
+#: 
+msgid "Related Items"
+msgstr "الأصناف ذات الصلة"
+
+#: 
+msgid "Zoom"
+msgstr "تكبير"
+
+#: 
+msgid "This post doesn't have config video, please add the video!"
+msgstr "لا يحتوي هذا المنشور على فيديو التكوين ، يرجى إضافة الفيديو!"
+
+#: 
+msgid "This post doesn't have any gallery images, please add some!"
+msgstr "لا يحتوي هذا المنشور على أي صور لمعرض ، يرجى إضافة بعض!"
+
+#: 
+msgid "The price for membership is <p class=\"price\">%s</p>"
+msgstr "سعر العضوية هو <p class = \"price\">٪ s </p>"
+
+#: 
+msgid "%s"
+msgstr "٪س"
+
+#: 
+msgid "<p class=\"expired\">then %s per %s for %d more %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\"> ثم٪ s لكل٪ s لـ٪ d more٪ s </p>"
+
+#: 
+msgid "<p class=\"expired\">then %s every %d %s for %d more payments</p>"
+msgstr "<p class = \"منتهية الصلاحية\"> ثم٪ s كل٪ d٪ s مقابل٪ d دفعات إضافية </p>"
+
+#: 
+msgid "<p class=\"expired\">then %s after %d %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\"> ثم٪ s بعد٪ d٪ s </p>"
+
+#: 
+msgid "The price for membership is <strong>%s per %s</strong>"
+msgstr "سعر العضوية هو <strong>٪ s per٪ s </strong>"
+
+#: 
+msgid "<p class=\"expired\">%s per %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\">٪ s لكل٪ s </p>"
+
+#: 
+msgid "The price for membership is <strong>%s every %d %s</strong>"
+msgstr "سعر العضوية هو <strong>٪ s كل٪ d٪ s </strong>"
+
+#: 
+msgid "<p class=\"expired\">%s every %d %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\">٪ s كل٪ d٪ s </p>"
+
+#: 
+msgid "<p class=\"expired\">then %s per %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\"> ثم٪ s لكل٪ s </p>"
+
+#: 
+msgid "<p class=\"expired\">and then %s every %d %s</p>"
+msgstr "<p class = \"منتهية الصلاحية\"> ثم٪ s كل٪ d٪ s </p>"
+
+#: 
+msgid "After your initial payment, your first payment is Free."
+msgstr "بعد الدفع الأولي ، أول دفعة مجانية."
+
+#: 
+msgid "After your initial payment, your first %d payments are Free."
+msgstr "بعد الدفع الأولي الخاص بك ، تكون مدفوعاتك الأولى٪ d مجانية."
+
+#: 
+msgid "After your initial payment, your first payment will cost %s."
+msgstr "بعد الدفع الأولي ، ستتكلف الدفعة الأولى٪ s."
+
+#: 
+msgid "After your initial payment, your first %d payments will cost %s."
+msgstr "بعد دفعك الأولي ، ستكلف دفعاتك٪ d الأولى٪ s."
+
+#: 
+msgid "Customers in %s will be charged %s%% tax."
+msgstr "سيتم فرض ضريبة٪ s ٪٪ على العملاء في٪ s."
+
+#: 
+msgid "has been added to your cart."
+msgstr "قد أضيفت إلى عربة التسوق."
+
+#: 
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+#: 
+msgid "View Cart"
+msgstr "عرض السلة"
+
+#: 
+msgid "Page title"
+msgstr "عنوان الصفحة"
+
+#: 
+msgid "Course"
+msgstr "دورة"
+
+#: 
+msgid "Preaload Image"
+msgstr "Preaload صورة"
+
+#: 
+msgid "Thim Core plugin is the newest upgrade version of Thim Framework. <strong>Do not re-activate Thim Framework and <a href=\"%s\" title=\"Delete Thim Framework plugin\">better delete this plugin</a></strong>."
+msgstr "البرنامج المساعد Thim Core هو أحدث إصدار للترقية من Thim Framework. <strong> لا تعيد تنشيط Thim Framework و <a href=\"٪s\" title=\"Delete Thim Framework plugin\"> احذف هذا المكون الإضافي بشكل أفضل </a> </strong>."
+
+#: 
+msgid "<h3>Notice</h3>If you have troubles with saving customize after update the theme, <a href=\"%s\">please click here to fix it</a>. If not, ignore this message."
+msgstr "<h3> إشعار </ h3> إذا كنت تواجه مشكلات في الحفظ ، قم بتخصيص بعد تحديث السمة ، <a href=\"٪s\"> يرجى النقر هنا لإصلاحه </a>. إذا لم يكن كذلك ، تجاهل هذه الرسالة."
+
+#: 
+msgid "Portfolio Meta"
+msgstr "محفظة ميتا"
+
+#: 
+msgid "Post Layout"
+msgstr "آخر تخطيط"
+
+#: 
+msgid "Layout Grid"
+msgstr "تخطيط الشبكة"
+
+#: inc/custom-functions.php:3474
+msgid "Select Icon "
+msgstr ""
+
+#: 
+msgid "second"
+msgstr "ثانيا"
+
+#: 
+msgid "minute"
+msgstr "دقيقة"
+
+#: 
+msgid "hour"
+msgstr "ساعة"
+
+#: 
+msgid "day"
+msgstr "يوم"
+
+#: 
+msgid "week"
+msgstr "أسبوع"
+
+#: 
+msgid "month"
+msgstr "شهر"
+
+#: 
+msgid "year"
+msgstr "عام"
+
+#: 
+msgid "decade"
+msgstr "عقد"
+
+#: 
+msgid "ago"
+msgstr "منذ"
+
+#: 
+msgid "Languages path could not be created"
+msgstr "لا يمكن إنشاء مسار اللغات"
+
+#: 
+msgid "Installation failed"
+msgstr "فشل التثبيت"
+
+#: 
+msgid "Demo Main Demo"
+msgstr "عرض تجريبي رئيسي"
+
+#: 
+msgid "Demo Course Era"
+msgstr "الدورة التجريبية عصر"
+
+#: 
+msgid "Demo Courses Hub"
+msgstr "الدورات التجريبية Hub"
+
+#: 
+msgid "Demo One Instructor"
+msgstr "المدرب التجريبي الأول"
+
+#: 
+msgid "Demo One Course"
+msgstr "عرض دورة واحدة"
+
+#: 
+msgid "Demo New Instructor"
+msgstr "المدرب التجريبي الجديد"
+
+#: 
+msgid "Demo New Edu"
+msgstr "عرض جديد ايدو"
+
+#: 
+msgid "Demo Edtech"
+msgstr "تجريبي Edtech"
+
+#: 
+msgid "Demo Grad School"
+msgstr "المدرسة التجريبية غراد"
+
+#: 
+msgid "Demo Ivy League"
+msgstr "عرض دوري اللبلاب"
+
+#: 
+msgid "Demo Kindergarten"
+msgstr "تجريبي رياض الأطفال"
+
+#: 
+msgid "Demo Languages School"
+msgstr "مدرسة اللغات التجريبية"
+
+#: 
+msgid "Demo Online School"
+msgstr "مدرسة تجريبية عبر الإنترنت"
+
+#: 
+msgid "Demo RTL"
+msgstr "عرض RTL"
+
+#: 
+msgid "Demo Stanford"
+msgstr "تجريبي ستانفورد"
+
+#: 
+msgid "Demo Modern University"
+msgstr "الجامعة التجريبية الحديثة"
+
+#: 
+msgid "Demo Classic University"
+msgstr "تجريبي كلاسيك الجامعة"
+
+#: 
+msgid "Demo React"
+msgstr "رد الفعل التجريبي"
+
+#: 
+msgid "Demo Boxed"
+msgstr "عرض محاصر"
+
+#: 
+msgid "Click here to select or create a menu"
+msgstr "انقر هنا لتحديد أو إنشاء قائمة"
+
+#: 
+msgid "All Courses"
+msgstr "جميع الدورات"
+
+#: 
+msgid "Quiz"
+msgstr "اختبار"
+
+#: 
+msgid "All courses"
+msgstr "جميع الدورات"
+
+#: 
+msgid "Review"
+msgstr "مراجعة"
+
+#: inc/learnpress-v3-functions.php:370 inc/learnpress-v3-functions.php:425
+msgid "(%1$s review)"
+msgid_plural "(%1$s reviews)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "(0 review)"
+msgstr "(0 مراجعة)"
+
+#: 
+msgid "Stars"
+msgstr "نجوم"
+
+#: 
+msgid "50 hours"
+msgstr "50 ساعة"
+
+#: 
+msgid "Skill Levels"
+msgstr "مستويات المهارة"
+
+#: 
+msgid "A possible level with this course"
+msgstr "مستوى ممكن مع هذه الدورة"
+
+#: 
+msgid "All levels"
+msgstr "جميع المستويات"
+
+#: 
+msgid "Languages"
+msgstr "اللغات"
+
+#: 
+msgid "Language's used for studying"
+msgstr "اللغة المستخدمة للدراسة"
+
+#: 
+msgid "English"
+msgstr "الإنجليزية"
+
+#: 
+msgid "Media"
+msgstr "وسائل الإعلام"
+
+#: 
+msgid "Add an embed link like video, PDF, slider..."
+msgstr "إضافة رابط تضمين مثل الفيديو ، PDF ، شريط التمرير ..."
+
+#: 
+msgid "Lectures"
+msgstr "محاضرات"
+
+#: 
+msgid "Quizzes"
+msgstr "الإختبارات"
+
+#: 
+msgid "Skill level"
+msgstr "مستوى المهارة"
+
+#: 
+msgid "Language"
+msgstr "لغة"
+
+#: 
+msgid "Students"
+msgstr "الطلاب"
+
+#: 
+msgid "Assessments"
+msgstr "تقييم"
+
+#: 
+msgid "Self"
+msgstr "الذات"
+
+#: 
+msgid "Certificate"
+msgstr "شهادة"
+
+#: 
+msgid "Average Rating"
+msgstr "متوسط ​​تقييم"
+
+#: inc/learnpress-v3-functions.php:680
+#: learnpress-v3/addons/course-review/course-rate.php:25
+msgid "%1$s rating"
+msgid_plural "%1$s ratings"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "0 rating"
+msgstr "0 التقييم"
+
+#: 
+msgid "Detailed Rating"
+msgstr "تقييم مفصل"
+
+#: 
+msgid "Leave A Review"
+msgstr "ترك التعليق"
+
+#: 
+msgid "Please provide as much detail as you can to justify your rating and to help others."
+msgstr "يرجى تقديم أكبر قدر ممكن من التفاصيل لتبرير تقييمك ومساعدة الآخرين."
+
+#: 
+msgid "Rating"
+msgstr "تقييم"
+
+#: 
+msgid "Submit Review"
+msgstr "إرسال المراجعة"
+
+#: 
+msgid "%s star"
+msgstr "نجمة٪ s"
+
+#: 
+msgid "%s stars"
+msgstr "نجوم٪ s"
+
+#: 
+msgid "Coming soon"
+msgstr "قريبا"
+
+#: inc/learnpress-v3-functions.php:1092 inc/learnpress-v3-functions.php:1113
+msgctxt "duration"
+msgid "%s day"
+msgstr ""
+
+#: inc/learnpress-v3-functions.php:1093 inc/learnpress-v3-functions.php:1114
+msgctxt "duration"
+msgid "%s hour"
+msgstr ""
+
+#: inc/learnpress-v3-functions.php:1094 inc/learnpress-v3-functions.php:1115
+msgctxt "duration"
+msgid "%s min"
+msgstr ""
+
+#: inc/learnpress-v3-functions.php:1095 inc/learnpress-v3-functions.php:1116
+msgctxt "duration"
+msgid "%s sec"
+msgstr ""
+
+#: inc/learnpress-v3-functions.php:1131
+msgid "%d question"
+msgid_plural "%d questions"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "No course found"
+msgstr "لم يتم العثور على بالطبع"
+
+#: 
+msgid "Quiz Results"
+msgstr "نتائج الاختبار"
+
+#: 
+msgid "Orders"
+msgstr "الطلب #٪ s"
+
+#: 
+msgid "Wishlist"
+msgstr "قائمة الرغبات"
+
+#: 
+msgid "Gradebook"
+msgstr "دفتر التقديرات"
+
+#: 
+msgid "Assignments"
+msgstr "تعيينات"
+
+#: 
+msgid "Certificates"
+msgstr "شهادات"
+
+#: 
+msgid "Account"
+msgstr "الحساب"
+
+#: 
+msgid "You have finished this course."
+msgstr "لقد انتهيت من هذه الدورة."
+
+#: inc/learnpress-v3-functions.php:1337
+msgid "You can <a href=\"%1$s\">login</a> now. "
+msgstr ""
+
+#: 
+msgid "Don't have an account? Click <a href=\"%1$s\">register now</a>"
+msgstr "ليس لديك حساب؟ انقر على <a href=\"٪1$s\"> التسجيل الآن </a>"
+
+#: 
+msgid "LearnPress Profile"
+msgstr "LearnPress الشخصي"
+
+#: 
+msgid "Major"
+msgstr "رائد"
+
+#: 
+msgid "Facebook Account"
+msgstr "حساب الفيسبوك"
+
+#: 
+msgid "Twitter Account"
+msgstr "حساب على موقع تويتر"
+
+#: 
+msgid "Instagram Account"
+msgstr "حساب انستغرام"
+
+#: 
+msgid "Google Plus Account"
+msgstr "حساب جوجل بلس"
+
+#: 
+msgid "LinkedIn Plus Account"
+msgstr "ينكدين بلس حساب"
+
+#: 
+msgid "Youtube Account"
+msgstr "حساب يوتيوب"
+
+#: 
+msgid "Your change is saved"
+msgstr "تم حفظ التغيير الخاص بك"
+
+#: 
+msgid "Error on update your profile info"
+msgstr "خطأ في تحديث معلومات ملفك الشخصي"
+
+#: 
+msgid "Collections"
+msgstr "مجموعات"
+
+#: 
+msgid "Edit item"
+msgstr "تعديل عنصر"
+
+#: 
+msgid "Popular Courses"
+msgstr "الدورات الشعبية"
+
+#: inc/learnpress-v3-functions.php:2158
+msgctxt "Course filter widget"
+msgid "Course categories"
+msgstr ""
+
+#: 
+msgid "(%s)"
+msgstr "(٪س)"
+
+#: inc/learnpress-v3-functions.php:2196
+msgctxt "Course filter widget"
+msgid "Instructors"
+msgstr ""
+
+#: inc/learnpress-v3-functions.php:2246
+msgctxt "Course filter widget"
+msgid "Price"
+msgstr ""
+
+#: 
+msgid "Paid"
+msgstr "دفع"
+
+#: 
+msgid "Filter Results"
+msgstr "تصفية النتائج"
+
+#: 
+msgid "Remove"
+msgstr "إزالة"
+
+#: 
+msgid "Add"
+msgstr "إضافة"
+
+#: 
+msgid "Remove Image"
+msgstr "إزالة الصورة"
+
+#: 
+msgid "Lost Password"
+msgstr "كلمة مرور مفقودة"
+
+#: 
+msgid "Lost your password?"
+msgstr "فقدت كلمة المرور الخاصة بك؟"
+
+#: 
+msgid "Something wrong. Please try again."
+msgstr "هل هناك خطب ما. حاول مرة اخرى."
+
+#: 
+msgid "You have entered an incorrect reCAPTCHA value."
+msgstr "لقد أدخلت قيمة reCAPTCHA غير صحيحة."
+
+#: 
+msgid "Invalid username or password. Please try again!"
+msgstr "خطأ في اسم المستخدم أو كلمة مرور. حاول مرة اخرى!"
+
+#: 
+msgid "Login successful, redirecting..."
+msgstr "تسجيل الدخول ناجح ، إعادة التوجيه ..."
+
+#: 
+msgid "Those passwords didn't match. Try again."
+msgstr "كلمات المرور هذه غير متطابقة. حاول مجددا."
+
+#: 
+msgid "Please enter a username!"
+msgstr "الرجاء ادخال اسم المستخدم!"
+
+#: 
+msgid "The username is invalid. Please try again!"
+msgstr "اسم المستخدم غير صالح. حاول مرة اخرى!"
+
+#: 
+msgid "This username is already registered. Please choose another one!"
+msgstr "وسجلت بالفعل اسم المستخدم هذا. الرجاء اختيار واحد آخر!"
+
+#: 
+msgid "Please type your e-mail address!"
+msgstr "يرجى كتابة عنوان بريدك الإلكتروني!"
+
+#: 
+msgid "The email address isn't correct. Please try again!"
+msgstr "عنوان البريد الإلكتروني غير صحيح. حاول مرة اخرى!"
+
+#: 
+msgid "This email is already registered. Please choose another one!"
+msgstr "عنوان البريد الإلكترونى هذا مسجل بالفعل. الرجاء اختيار واحد آخر!"
+
+#: 
+msgid "Registration successful, redirecting..."
+msgstr "تم التسجيل بنجاح ، إعادة التوجيه ..."
+
+#: 
+msgid "Registration is successful. Confirmation will be e-mailed to you."
+msgstr "التسجيل ناجح سيتم إرسال التأكيد إليك عبر البريد الإلكتروني."
+
+#: 
+msgid "To set your password, visit the following address:"
+msgstr "لتعيين كلمة مرورك ، تفضل بزيارة العنوان التالي:"
+
+#: 
+msgid "You may also like"
+msgstr "ربما يعجبك أيضا"
+
+#: 
+msgid "Category Meta Box"
+msgstr "الفئة صندوق التعريف"
+
+#: 
+msgid "Thumbnail"
+msgstr "ظفري"
+
+#: 
+msgid "Using in Theme Option"
+msgstr "باستخدام في موضوع الخيار"
+
+#: 
+msgid "No Sidebar"
+msgstr "لا الشريط الجانبي"
+
+#: 
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: inc/tax-meta.php:53
+msgid "Custom Layout "
+msgstr ""
+
+#: inc/tax-meta.php:56
+msgid "Custom Heading "
+msgstr ""
+
+#: 
+msgid "Background Image Heading"
+msgstr "عنوان صورة الخلفية"
+
+#: 
+msgid "Background Color Heading"
+msgstr "لون خلفية العنوان"
+
+#: 
+msgid "Background color opacity"
+msgstr "عتامة لون الخلفية"
+
+#: 
+msgid "Text Color Heading"
+msgstr "عنوان لون النص"
+
+#: 
+msgid "Color Description Category"
+msgstr "لون وصف الفئة"
+
+#: 
+msgid "Hide Breadcrumbs"
+msgstr "إخفاء فتات الخبز"
+
+#: 
+msgid "<"
+msgstr "<"
+
+#: 
+msgid ">"
+msgstr ">"
+
+#: 
+msgid "Posted by"
+msgstr "منشور من طرف"
+
+#: 
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: 
+msgid "Comments"
+msgstr "تعليقات"
+
+#: 
+msgid "0 comment"
+msgstr "0 تعليق"
+
+#: 
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: 
+msgid "comments"
+msgstr "تعليقات"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:173 inc/template-tags.php:178
+msgid ", "
+msgstr ""
+
+#: 
+msgid "Posted in %1$s"
+msgstr "تم النشر في٪ 1 $ s"
+
+#: 
+msgid "Tagged %1$s"
+msgstr "الموسومة٪ 1 $ s"
+
+#: 
+msgid "Leave a comment"
+msgstr "اترك تعليقا"
+
+#: 
+msgid "Year: %s"
+msgstr "سنوات"
+
+#: inc/template-tags.php:216
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: 
+msgid "Month: %s"
+msgstr "الشهور"
+
+#: inc/template-tags.php:218
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: 
+msgid "Day: %s"
+msgstr "اليوم:٪ s"
+
+#: inc/template-tags.php:220
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:232
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:234
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:236
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:238
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: 
+msgid "%1$s: %2$s"
+msgstr "٪ 1 $ s:٪ 2 $ s"
+
+#: 
+msgid "Search Results for: %s"
+msgstr "نتائج البحث ل:٪ س"
+
+#: 
+msgid "(Edit)"
+msgstr "(تعديل)"
+
+#: 
+msgid "Topic Tag: %s"
+msgstr "ملحقات الموضوع"
+
+#: 
+msgid "author avatar"
+msgstr "الكاتب الرمزية"
+
+#: 
+msgid "Related posts"
+msgstr "المنشورات ذات الصلة"
+
+#: 
+msgid "Featured Title Area"
+msgstr "منطقة العنوان المميز"
+
+#: 
+msgid "Custom Title and Subtitle"
+msgstr "عنوان مخصص والعنوان الفرعي"
+
+#: 
+msgid "Hide Title and Subtitle"
+msgstr "إخفاء العنوان والعنوان الفرعي"
+
+#: 
+msgid "Custom Title"
+msgstr "عنوان مخصص"
+
+#: 
+msgid "Leave empty to use post title"
+msgstr "اتركه فارغًا لاستخدام عنوان المنشور"
+
+#: 
+msgid "Color Title"
+msgstr "عنوان اللون"
+
+#: 
+msgid "Subtitle"
+msgstr "عنوان فرعي"
+
+#: 
+msgid "Color Subtitle"
+msgstr "لون الترجمة"
+
+#: 
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: 
+msgid "Use Custom Layout"
+msgstr "استخدام تخطيط مخصص"
+
+#: 
+msgid "Select Layout"
+msgstr "حدد تخطيط"
+
+#: 
+msgid "<strong>Important!</strong> This Eduma version requires Thim Core plugin 1.3.5 or higher, please go <a href=\"%s\">here</a> and update the plugin."
+msgstr "<strong> مهم! </ strong> يتطلب إصدار Eduma هذا البرنامج المساعد Thim Core 1.3.5 أو أعلى ، يرجى الانتقال إلى <a href=\"٪s\"> هنا </a> وتحديث المكون الإضافي."
+
+#: 
+msgid "Add Accordion"
+msgstr "أضف الأكورديون"
+
+#: 
+msgid "Panel"
+msgstr "لوجة"
+
+#: inc/widgets/book-event/book-event.php:8
+msgid "Thim: Book Event "
+msgstr ""
+
+#: 
+msgid "Display Book Form Event"
+msgstr "عرض نموذج كتاب الحدث"
+
+#: 
+msgid "Add Button"
+msgstr "إضافة زر"
+
+#: 
+msgid "Open in New Window"
+msgstr "افتح في نافذة جديدة"
+
+#: 
+msgid "Style Options"
+msgstr "خيارات النمط"
+
+#: inc/widgets/button/button.php:63
+msgid "Font Size "
+msgstr ""
+
+#: 
+msgid "Select font size."
+msgstr "حدد حجم الخط."
+
+#: 
+msgid "Select Font Weight"
+msgstr "حدد وزن الخط"
+
+#: inc/widgets/button/button.php:90
+msgid "Border Width "
+msgstr ""
+
+#: 
+msgid "Enter border width."
+msgstr "أدخل عرض الحدود."
+
+#: 
+msgid "Select Color:"
+msgstr "إختر لون:"
+
+#: 
+msgid "Select the color."
+msgstr "اختر اللون"
+
+#: 
+msgid "Border Color:"
+msgstr "لون الحدود:"
+
+#: 
+msgid "Select the border color."
+msgstr "حدد لون الحدود."
+
+#: 
+msgid "Select the background color."
+msgstr "اختر لون الخلفية."
+
+#: 
+msgid "Hover Color:"
+msgstr "تحوم اللون:"
+
+#: 
+msgid "Select the color hover."
+msgstr "حدد اللون تحوم."
+
+#: 
+msgid "Hover Border Color:"
+msgstr "تحوم لون الحدود:"
+
+#: 
+msgid "Select the hover border color."
+msgstr "حدد لون حدود التحويم."
+
+#: 
+msgid "Hover Background Color:"
+msgstr "تحوم لون الخلفية:"
+
+#: 
+msgid "Select the hover background color."
+msgstr "حدد لون خلفية التحويم."
+
+#: 
+msgid "Select the icon from the list."
+msgstr "حدد الرمز من القائمة."
+
+#: inc/widgets/button/button.php:149
+msgid "Icon Size "
+msgstr ""
+
+#: 
+msgid "Select the icon font size."
+msgstr "حدد حجم خط الرمز."
+
+#: 
+msgid "Select icon position"
+msgstr "حدد موقف الأيقونة"
+
+#: 
+msgid "Display categories with Carousel"
+msgstr "عرض الفئات مع كاروسيل"
+
+#: 
+msgid "Show Navigation"
+msgstr "عرض الملاحة"
+
+#: 
+msgid "Course:"
+msgstr "دورة:"
+
+#: 
+msgid "Display Post with Carousel"
+msgstr "عرض مشاركة مع كاروسيل"
+
+#: 
+msgid "Post Carousel"
+msgstr "بوست كاروسيل"
+
+#: 
+msgid "Posts visible"
+msgstr "المشاركات مرئية"
+
+#: 
+msgid "Number posts"
+msgstr "عدد المشاركات"
+
+#: 
+msgid "Countdown Box"
+msgstr "مربع العد التنازلي"
+
+#: 
+msgid "days"
+msgstr "أيام"
+
+#: 
+msgid "hours"
+msgstr "ساعات"
+
+#: 
+msgid "minutes"
+msgstr "الدقائق"
+
+#: 
+msgid "seconds"
+msgstr "ثواني"
+
+#: 
+msgid "Year"
+msgstr "عام"
+
+#: 
+msgid "Month"
+msgstr "شهر"
+
+#: 
+msgid "Day"
+msgstr "يوم"
+
+#: 
+msgid "Hour"
+msgstr "ساعة"
+
+#: 
+msgid "Style Color"
+msgstr "لون النمط"
+
+#: 
+msgid "Text Align"
+msgstr "محاذاة النص"
+
+#: 
+msgid "Counter Color"
+msgstr "لون العداد"
+
+#: 
+msgid "Show course categories"
+msgstr "عرض فئات الدورات"
+
+#: 
+msgid "Slider Layout Options"
+msgstr "خيارات تخطيط شريط التمرير"
+
+#: 
+msgid "Responsive Options"
+msgstr "خيارات استجابة"
+
+#: 
+msgid "Items Small Desktop Visible"
+msgstr "عناصر سطح المكتب الصغيرة المرئية"
+
+#: 
+msgid "Items Tablet Visible"
+msgstr "عناصر الكمبيوتر اللوحي مرئية"
+
+#: 
+msgid "Items Mobile Visible"
+msgstr "البنود موبايل مرئية"
+
+#: 
+msgid "List Layout Options"
+msgstr "قائمة خيارات التخطيط"
+
+#: 
+msgid "Show course count"
+msgstr "عرض عدد الدورات"
+
+#: 
+msgid "Show hierarchy"
+msgstr "إظهار التسلسل الهرمي"
+
+#: 
+msgid "View all courses"
+msgstr "عرض جميع الدورات"
+
+#: 
+msgid "Display list courses collection"
+msgstr "عرض قائمة مجموعة الدورات"
+
+#: 
+msgid "Collection Courses"
+msgstr "دورات الجمع"
+
+#: 
+msgid "Thim: Courses Searching"
+msgstr "Thim: البحث عن الدورات"
+
+#: 
+msgid "Search courses"
+msgstr "البحث في الدورات"
+
+#: 
+msgid "Search Layout"
+msgstr "بحث تخطيط"
+
+#: 
+msgid "Search Courses"
+msgstr "البحث في الدورات"
+
+#: 
+msgid "Provide the title for search course widget."
+msgstr "قم بتوفير عنوان عنصر واجهة تعامل مسار البحث."
+
+#: 
+msgid "Description for search course widget."
+msgstr "وصف للبحث بالطبع القطعة."
+
+#: 
+msgid "Provide the description for search course widget."
+msgstr "قم بتقديم وصف لعنصر واجهة برمجة تطبيقات البحث."
+
+#: 
+msgid "What do you want to learn today?"
+msgstr "ماذا تريد أن تتعلم اليوم؟"
+
+#: 
+msgid "Placeholder Input"
+msgstr "إدخال عنصر نائب"
+
+#: 
+msgid "Display courses"
+msgstr "عرض الدورات"
+
+#: 
+msgid "Latest Courses"
+msgstr "أحدث الدورات"
+
+#: 
+msgid "Widget Layout"
+msgstr "تخطيط القطعة"
+
+#: 
+msgid "Limit number course"
+msgstr "الحد من عدد بالطبع"
+
+#: 
+msgid "Featured"
+msgstr "متميز"
+
+#: 
+msgid "Only display featured courses"
+msgstr "فقط عرض الدورات المميزة"
+
+#: 
+msgid "Text View All Courses"
+msgstr "عرض النص جميع الدورات"
+
+#: 
+msgid "Tabs Options"
+msgstr "خيارات علامات التبويب"
+
+#: 
+msgid "Current version of LearnPress doesn't support this layout. Please upgrade to LearnPress 1.x"
+msgstr "لا يدعم الإصدار الحالي من LearnPress هذا التصميم. يرجى الترقية إلى LearnPress 1.x"
+
+#: 
+msgid "Thim: Empty Space"
+msgstr "Thim: مساحة فارغة"
+
+#: 
+msgid "Add space width custom height"
+msgstr "إضافة ارتفاع عرض مساحة مخصصة"
+
+#: 
+msgid "Height"
+msgstr "ارتفاع"
+
+#: 
+msgid "Enter empty space height."
+msgstr "أدخل ارتفاع المساحة الفارغة."
+
+#: 
+msgid "Add gallery image"
+msgstr "إضافة صورة المعرض"
+
+#: 
+msgid "Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\""
+msgstr "أدخل حجم الصورة. مثال: \"صورة مصغرة\" ، \"متوسطة\" ، \"كبيرة\" ، \"ممتلئة\""
+
+#: 
+msgid "Tablet Items"
+msgstr "عناصر الكمبيوتر اللوحي"
+
+#: 
+msgid "Mobile Items"
+msgstr "عناصر المحمول"
+
+#: 
+msgid "Color Image"
+msgstr "صورة ملونة"
+
+#: inc/widgets/gallery-posts/gallery-posts.php:8
+msgid "Thim: Gallery Posts "
+msgstr ""
+
+#: 
+msgid "Display gallery posts"
+msgstr "عرض المشاركات معرض"
+
+#: 
+msgid "Show Filter"
+msgstr "عرض مرشح"
+
+#: 
+msgid "A Google Maps widget."
+msgstr "والقطعة خرائط جوجل."
+
+#: 
+msgid "Get Map By"
+msgstr "الحصول على خريطة بواسطة"
+
+#: 
+msgid "Map center"
+msgstr "خريطة المركز"
+
+#: 
+msgid "The name of a place, town, city, or even a country. Can be an exact address too."
+msgstr "اسم المكان أو المدينة أو المدينة أو حتى البلد. يمكن أن يكون العنوان الدقيق جدا."
+
+#: 
+msgid "Set map display options."
+msgstr "اضبط خيارات عرض الخريطة."
+
+#: 
+msgid "Zoom level"
+msgstr "مستوى التكبير"
+
+#: 
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr "قيمة من 0 (العالم) إلى 21 (مستوى الشارع)."
+
+#: 
+msgid "Scroll to zoom"
+msgstr "التمرير للتكبير"
+
+#: 
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr "السماح بالتمرير فوق الخريطة للتكبير أو التصغير."
+
+#: 
+msgid "Allow dragging the map to move it around."
+msgstr "السماح بسحب الخريطة لتحريكها."
+
+#: 
+msgid "Use markers to identify points of interest on the map."
+msgstr "استخدم العلامات لتحديد النقاط المثيرة للاهتمام على الخريطة."
+
+#: 
+msgid "Marker positions"
+msgstr "مواقف ماركر"
+
+#: 
+msgid "Marker"
+msgstr "علامة"
+
+#: 
+msgid "Add heading text"
+msgstr "إضافة نص العنوان"
+
+#: 
+msgid "Default value"
+msgstr "القيمة الافتراضية"
+
+#: 
+msgid "Text Heading color"
+msgstr "لون عنوان النص"
+
+#: 
+msgid "Sub heading color"
+msgstr "لون العنوان الفرعي"
+
+#: 
+msgid "Clone Title"
+msgstr "استنساخ العنوان"
+
+#: 
+msgid "Font Heading"
+msgstr "عنوان الخط"
+
+#: 
+msgid "Select Font heading."
+msgstr "حدد عنوان الخط."
+
+#: 
+msgid "Custom Font Heading"
+msgstr "عنوان الخط المخصص"
+
+#: 
+msgid "custom font size"
+msgstr "حجم الخط المخصص"
+
+#: 
+msgid "Select Custom Font Weight"
+msgstr "حدد وزن الخط المخصص"
+
+#: 
+msgid "Custom Font Style"
+msgstr "نمط الخط مخصص"
+
+#: 
+msgid "inherit"
+msgstr "يرث"
+
+#: 
+msgid "initial"
+msgstr "مبدئي"
+
+#: 
+msgid "italic"
+msgstr "مائل"
+
+#: 
+msgid "normal"
+msgstr "عادي"
+
+#: 
+msgid "oblique"
+msgstr "منحرف - مائل"
+
+#: 
+msgid "Select Custom Font Style"
+msgstr "حدد نمط خط مخصص"
+
+#: 
+msgid "Show Separator"
+msgstr "عرض فاصل"
+
+#: 
+msgid "Color Line"
+msgstr "لون الخط"
+
+#: 
+msgid "Add icon box"
+msgstr "إضافة مربع رمز"
+
+#: 
+msgid "Title Options"
+msgstr "خيارات العنوان"
+
+#: 
+msgid "This is an icon box."
+msgstr "هذا هو مربع رمز."
+
+#: 
+msgid "Provide the title for this icon box."
+msgstr "أدخل عنوان مربع الأيقونة هذا."
+
+#: 
+msgid "Select size heading."
+msgstr "حدد حجم العنوان."
+
+#: 
+msgid "Custom Heading Option"
+msgstr "خيار عنوان مخصص"
+
+#: 
+msgid "Margin Top"
+msgstr "أعلى الهامش"
+
+#: 
+msgid "Margin Bottom Value"
+msgstr "القيمة السفلية للهامش"
+
+#: 
+msgid "Add description"
+msgstr "اضف وصفا"
+
+#: 
+msgid "Write a short description, that will describe the title or something informational and useful."
+msgstr "اكتب وصفًا موجزًا ​​، سيصف العنوان أو أي شيء إعلامي ومفيد."
+
+#: 
+msgid "Provide the description for this icon box."
+msgstr "اكتب الوصف لمربع الأيقونة هذا."
+
+#: 
+msgid "Custom Font Size"
+msgstr "حجم الخط المخصص"
+
+#: 
+msgid "Custom font size"
+msgstr "حجم الخط المخصص"
+
+#: 
+msgid "Color Description"
+msgstr "وصف اللون"
+
+#: 
+msgid "Link Icon Box"
+msgstr "رابط أيقونة مربع"
+
+#: 
+msgid "Add Link"
+msgstr "إضافة رابط"
+
+#: 
+msgid "Provide the link that will be applied to this icon box."
+msgstr "أدخل الرابط الذي سيتم تطبيقه على مربع الأيقونة هذا."
+
+#: 
+msgid "Target Link"
+msgstr "الهدف الرابط"
+
+#: 
+msgid "Blank"
+msgstr "فراغ"
+
+#: 
+msgid "Parent"
+msgstr "الأبوين"
+
+#: 
+msgid "Apply link to:"
+msgstr "تطبيق الرابط إلى:"
+
+#: 
+msgid "Select whether to use color for icon or not."
+msgstr "حدد ما إذا كنت تريد استخدام اللون للرمز أم لا."
+
+#: 
+msgid "Option Button Read More"
+msgstr "زر الخيار قراءة المزيد"
+
+#: 
+msgid "Customize the read more text."
+msgstr "تخصيص قراءة المزيد من النص."
+
+#: 
+msgid "Select whether to use text color for Read More Text or default."
+msgstr "حدد ما إذا كنت تريد استخدام لون النص لقراءة النص أو الافتراضي."
+
+#: 
+msgid "Select whether to use border color for Read More Text or none."
+msgstr "حدد ما إذا كنت تريد استخدام لون الحدود لقراءة النص أو لا شيء."
+
+#: 
+msgid "Select whether to use background color for Read More Text or default."
+msgstr "حدد ما إذا كنت تريد استخدام لون الخلفية لقراءة النص أو الافتراضي."
+
+#: 
+msgid "Select whether to use background color when hover Read More Text or default."
+msgstr "حدد ما إذا كنت تريد استخدام لون الخلفية عند التحويم قراءة المزيد نص أو الافتراضي."
+
+#: 
+msgid "Icon to display:"
+msgstr "أيقونة لعرضها:"
+
+#: 
+msgid "Font 7 Stroke Icon"
+msgstr "الخط 7 رمز السكتة الدماغية"
+
+#: inc/widgets/icon-box/icon-box.php:314 inc/widgets/icon-box/icon-box.php:344
+#: inc/widgets/icon-box/icon-box.php:374
+msgid "Icon Font Size "
+msgstr ""
+
+#: 
+msgid "Custom Image Icon"
+msgstr "أيقونة صورة مخصصة"
+
+#: 
+msgid "Upload Image Icon:"
+msgstr "تحميل رمز الصورة:"
+
+#: 
+msgid "Upload the custom image icon."
+msgstr "قم بتحميل أيقونة الصورة المخصصة."
+
+#: 
+msgid "Width Box Icon"
+msgstr "عرض مربع الأيقونة"
+
+#: 
+msgid "Height Box Icon"
+msgstr "أيقونة مربع الارتفاع"
+
+#: 
+msgid "Color Options"
+msgstr "خيارات الألوان"
+
+#: 
+msgid "Select Icon Color:"
+msgstr "اختر رمز اللون:"
+
+#: 
+msgid "Select the icon color."
+msgstr "حدد لون الرمز."
+
+#: 
+msgid "Select the color for icon border."
+msgstr "حدد لون حدود الرمز."
+
+#: 
+msgid "Select the color for icon background."
+msgstr "حدد لون خلفية الرمز."
+
+#: 
+msgid "Select the color hover for icon."
+msgstr "حدد تحويم اللون للرمز."
+
+#: 
+msgid "Select the color hover for icon border."
+msgstr "حدد تحويم اللون للحدود رمز."
+
+#: 
+msgid "Select the color hover for icon background ."
+msgstr "حدد تحويم اللون لخلفية الرمز."
+
+#: 
+msgid "Select icon position. Icon box style will be changed according to the icon position."
+msgstr "حدد موقف الأيقونة. سيتم تغيير نمط مربع الأيقونات وفقًا لموضع الرمز."
+
+#: 
+msgid "Select the color background for box."
+msgstr "حدد خلفية اللون للمربع."
+
+#: 
+msgid "Select an uploaded video in mp4 format. Other formats, such as webm and ogv will work in some browsers. You can use an online service such as <a href='http://video.online-convert.com/convert-to-mp4' target='_blank'>online-convert.com</a> to convert your videos to mp4."
+msgstr "حدد مقطع فيديو تم تحميله بتنسيق mp4. التنسيقات الأخرى ، مثل webm و ogv ستعمل في بعض المتصفحات. يمكنك استخدام خدمة عبر الإنترنت مثل <a href='http://video.online-convert.com/convert-to-mp4' target='_blank'> online-convert.com </a> لتحويل مقاطع الفيديو الخاصة بك إلى MP4."
+
+#: 
+msgid "Show Image box"
+msgstr "عرض مربع الصورة"
+
+#: 
+msgid "Upload Image:"
+msgstr "تحميل الصور:"
+
+#: 
+msgid "Upload the image."
+msgstr "قم بتحميل الصورة."
+
+#: 
+msgid "Thim: Landing Image"
+msgstr "ثيم: هبوط الصورة"
+
+#: 
+msgid "Display link and description"
+msgstr "عرض الرابط والوصف"
+
+#: inc/widgets/list-event/list-event.php:10
+msgid "Thim: List Events "
+msgstr ""
+
+#: 
+msgid "Display list events"
+msgstr "عرض قائمة الأحداث"
+
+#: 
+msgid "Show carousel slider instructors."
+msgstr "عرض المدربين المنزلق دائري."
+
+#: 
+msgid "Upload the custom image."
+msgstr "تحميل الصورة المخصصة."
+
+#: 
+msgid "Thim: List Posts"
+msgstr "Thim: قائمة الوظائف"
+
+#: 
+msgid "Display list posts"
+msgstr "عرض قائمة الوظائف"
+
+#: 
+msgid "Add login form"
+msgstr "إضافة نموذج تسجيل الدخول"
+
+#: 
+msgid "Use captcha in register and login form"
+msgstr "استخدم كلمة التحقق في نموذج التسجيل والتسجيل"
+
+#: 
+msgid "You have logged in. <a href=\"%s\">Sign Out</a>"
+msgstr "لقد سجلت الدخول. <a href=\"٪s\"> تسجيل الخروج </a>"
+
+#: 
+msgid "Passwords must matched!"
+msgstr "يجب أن تتطابق كلمات المرور!"
+
+#: 
+msgid "Repeat Password"
+msgstr "اعد كلمة السر"
+
+#: 
+msgid "I accept the <a href=\"%s\" target=\"%s\" rel=\"%s\">Terms of Service</a>"
+msgstr "أوافق على <a href=\"٪s\" target=\"٪s\" rel=\"٪s\"> شروط الخدمة </a>"
+
+#: 
+msgid "Sign up"
+msgstr "سجل"
+
+#: inc/widgets/login-form/tpl/base.php:125
+msgid "Are you a member? "
+msgstr ""
+
+#: 
+msgid "Login now"
+msgstr "تسجيل الدخول الآن"
+
+#: 
+msgid "Your site does not allow users registration."
+msgstr "موقعك لا يسمح بتسجيل المستخدمين."
+
+#: 
+msgid "Please enter a username or email!"
+msgstr "الرجاء إدخال اسم المستخدم أو البريد الإلكتروني!"
+
+#: 
+msgid "The user does not exist. Please try again!"
+msgstr "المستخدم غير موجود. حاول مرة اخرى!"
+
+#: 
+msgid "Get Your Password"
+msgstr "الحصول على كلمة المرور الخاصة بك"
+
+#: 
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "فقدت كلمة المرور الخاصة بك؟ الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني. ستتلقى رابطًا لإنشاء كلمة مرور جديدة عبر البريد الإلكتروني."
+
+#: 
+msgid "Username or email"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+#: 
+msgid "Reset password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: 
+msgid "The key is expired. Please try again!"
+msgstr "انتهت صلاحية المفتاح. حاول مرة اخرى!"
+
+#: 
+msgid "The key is invalid. Please try again!"
+msgstr "المفتاح غير صالح. حاول مرة اخرى!"
+
+#: 
+msgid "The password is invalid. Please try again!"
+msgstr "كلمة المرور غير صالحة. حاول مرة اخرى!"
+
+#: 
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#: 
+msgid "New password"
+msgstr "كلمة مرور جديدة"
+
+#: 
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: 
+msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
+msgstr "تلميح: يجب أن يكون طول كلمة المرور اثني عشر حرفًا على الأقل. لجعلها أقوى ، استخدم الأحرف الكبيرة والصغيرة والأرقام والرموز مثل! \"؟ $٪ ^ & amp؛)."
+
+#: 
+msgid "Check your email to get a link to create a new password."
+msgstr "تحقق من بريدك الإلكتروني للحصول على رابط لإنشاء كلمة مرور جديدة."
+
+#: 
+msgid "Password changed. You can <a href=\"%s\">login</a> now."
+msgstr "تم تغيير كلمة السر. يمكنك <a href=\"٪s\"> تسجيل الدخول </a> الآن."
+
+#: 
+msgid "Login with your site account"
+msgstr "تسجيل الدخول باستخدام حساب موقعك"
+
+#: 
+msgid "Remember Me"
+msgstr "تذكرنى"
+
+#: 
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: inc/widgets/login-form/tpl/base.php:265
+#: inc/widgets/login-popup/login-popup.php:169
+#: wp-events-manager/shortcodes/form-login.php:22
+msgid "Not a member yet? "
+msgstr ""
+
+#: 
+msgid "Register now"
+msgstr "سجل الان"
+
+#: 
+msgid "Thim: Login Popup"
+msgstr "Thim: تسجيل الدخول المنبثقة"
+
+#: 
+msgid "Register Label"
+msgstr "تسجيل التسمية"
+
+#: 
+msgid "Login Label"
+msgstr "تسمية الدخول"
+
+#: 
+msgid "Logout Label"
+msgstr "تسمية الخروج"
+
+#: 
+msgid "Profile Label"
+msgstr "تسمية الملف الشخصي"
+
+#: 
+msgid "Use captcha?"
+msgstr "استخدام كلمة التحقق؟"
+
+#: 
+msgid "Use captcha in register and login form."
+msgstr "استخدم كلمة التحقق في نموذج التسجيل والتسجيل."
+
+#: 
+msgid "Shortcode"
+msgstr "رمز قصير"
+
+#: 
+msgid "Enter shortcode to show in form Login."
+msgstr "أدخل الرمز المختصر لتظهر في شكل تسجيل الدخول."
+
+#: inc/widgets/login-popup/login-popup.php:194
+msgctxt "Login popup form"
+msgid "Register a new account"
+msgstr ""
+
+#: 
+msgid "I accept the <a href=\"%s\" target=\"_blank\">Terms of Service</a>"
+msgstr "أوافق على <a href=\"٪s\" target=\"_blank\"> شروط الخدمة </a>"
+
+#: inc/widgets/login-popup/login-popup.php:251
+msgctxt "Login popup form"
+msgid "Sign up"
+msgstr ""
+
+#: inc/widgets/login-popup/login-popup.php:254
+msgctxt "Login popup form"
+msgid "Are you a member? "
+msgstr ""
+
+#: inc/widgets/login-popup/login-popup.php:254
+msgctxt "Login popup form"
+msgid "Login now"
+msgstr ""
+
+#: 
+msgid "Thim: Multiple Images"
+msgstr "Thim: صور متعددة"
+
+#: 
+msgid "Add multiple images"
+msgstr "إضافة صور متعددة"
+
+#: 
+msgid "Enter your heading."
+msgstr "أدخل عنوانك."
+
+#: 
+msgid "Show carousel slider instructors of one course feature."
+msgstr "عرض المدربين المنزلق دائري من ميزة دورة واحدة."
+
+#: 
+msgid "There are no publish courses available yet."
+msgstr "لا توجد دورات نشر متوفرة حتى الآن."
+
+#: 
+msgid "Invalid the one course ID."
+msgstr "معرف الدورة التدريبية واحد غير صالح."
+
+#: 
+msgid "The one course has not been publish yet. <a href=\"%s\">Edit</a>."
+msgstr "لم يتم نشر الدورة التدريبية بعد. <a href=\"٪s\"> تعديل </a>."
+
+#: 
+msgid "Text Link"
+msgstr "رابط النص"
+
+#: 
+msgid "Provide the text link that will be applied to box our team."
+msgstr "قم بتوفير الرابط النصي الذي سيتم تطبيقه على مربع فريقنا."
+
+#: 
+msgid "Link Join Team"
+msgstr "رابط الانضمام إلى فريق"
+
+#: 
+msgid "Provide the link that will be applied to box our team"
+msgstr "قم بتوفير الرابط الذي سيتم تطبيقه على مربع فريقنا"
+
+#: 
+msgid "Enable Link To Member"
+msgstr "تمكين الارتباط بالعضو"
+
+#: 
+msgid "Thim Widget Portfolio By thimpress.com"
+msgstr "حافظة القطعة Thim بواسطة thimpress.com"
+
+#: 
+msgid "Select a category"
+msgstr "اختر تصنيف"
+
+#: 
+msgid "Hide Filters?"
+msgstr "إخفاء المرشحات؟"
+
+#: 
+msgid "Select a filter position"
+msgstr "اختيار موقف مرشح"
+
+#: 
+msgid "Select a column"
+msgstr "حدد عمود"
+
+#: 
+msgid "One"
+msgstr "واحد"
+
+#: 
+msgid "Two"
+msgstr "اثنان"
+
+#: 
+msgid "Three"
+msgstr "ثلاثة"
+
+#: 
+msgid "Four"
+msgstr "أربعة"
+
+#: 
+msgid "Five"
+msgstr "خمسة"
+
+#: 
+msgid "Select a item size"
+msgstr "حدد حجم العنصر"
+
+#: 
+msgid "Select a paging"
+msgstr "اختر صفحة"
+
+#: 
+msgid "Select style items"
+msgstr "حدد عناصر النمط"
+
+#: 
+msgid "View More"
+msgstr "عرض المزيد"
+
+#: 
+msgid "Thim: Single Image"
+msgstr "ثيم: صورة واحدة"
+
+#: 
+msgid "Display single images."
+msgstr "عرض الصور الفردية."
+
+#: 
+msgid "Image title"
+msgstr "عنوان الصورة"
+
+#: 
+msgid "Enter image title."
+msgstr "أدخل عنوان الصورة."
+
+#: 
+msgid "Enter URL if you want this image to have a link."
+msgstr "أدخل عنوان URL إذا كنت تريد أن يكون لهذه الصورة رابط."
+
+#: 
+msgid "Select image alignment."
+msgstr "حدد محاذاة الصورة."
+
+#: 
+msgid "Thim: Social Links"
+msgstr "ثيم: الروابط الاجتماعية"
+
+#: 
+msgid "Social Links"
+msgstr "روابط اجتماعية"
+
+#: 
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: 
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: 
+msgid "Snapchat"
+msgstr "سناب شات"
+
+#: inc/widgets/tab-event/tab-event.php:7
+msgid "Thim: Tab events "
+msgstr ""
+
+#: 
+msgid "Show all event with tab"
+msgstr "عرض كل الأحداث مع علامة التبويب"
+
+#: 
+msgid "Add tab"
+msgstr "إضافة علامة تبويب"
+
+#: 
+msgid "Learn More"
+msgstr "أعرف أكثر"
+
+#: 
+msgid "Item padding"
+msgstr "الحشو البند"
+
+#: 
+msgid "Enter number"
+msgstr "أدخل رقم"
+
+#: 
+msgid "Item visible"
+msgstr "البند مرئية"
+
+#: 
+msgid "Enter odd number"
+msgstr "أدخل رقم فردي"
+
+#: 
+msgid "Time"
+msgstr "زمن"
+
+#: 
+msgid "Enter time number"
+msgstr "أدخل رقم الوقت"
+
+#: 
+msgid "Auto play"
+msgstr "تشغيل تلقائي"
+
+#: 
+msgid "Mousewheel Scroll"
+msgstr "تمرير عجلة الماوس"
+
+#: 
+msgid "Carousel Options"
+msgstr "خيارات دائري"
+
+#: 
+msgid "Link To Single"
+msgstr "وصلة الى واحدة"
+
+#: 
+msgid "Enable link to single testimonial"
+msgstr "تمكين رابط لشهادة واحدة"
+
+#: 
+msgid "Display Timetable"
+msgstr "عرض الجدول الزمني"
+
+#: 
+msgid "Timetable Item"
+msgstr "البند جدول"
+
+#: 
+msgid "8:00 AM - 10:00 AM"
+msgstr "من 8:00 ص إلى 10:00 ص"
+
+#: 
+msgid "Mr John Doe"
+msgstr "السيد جون دو"
+
+#: 
+msgid "Playground"
+msgstr "ملعب"
+
+#: 
+msgid "Select Color Style."
+msgstr "حدد نمط اللون."
+
+#: 
+msgid "@"
+msgstr "@"
+
+#: 
+msgid "Show Twitter"
+msgstr "عرض تويتر"
+
+#: 
+msgid "Display"
+msgstr "عرض"
+
+#: 
+msgid "Watch the video"
+msgstr "شاهد الفيديو"
+
+#: 
+msgid "Display video youtube or vimeo."
+msgstr "عرض فيديو يوتيوب أو vimeo."
+
+#: 
+msgid "Enter height of video. Example 100% or 600."
+msgstr "أدخل ارتفاع الفيديو. مثال 100 ٪ أو 600."
+
+#: 
+msgid "Extra Class"
+msgstr "درس اضافي"
+
+#: 
+msgid "Connect"
+msgstr "الاتصال"
+
+#: 
+msgid "Own"
+msgstr "خاصة"
+
+#: 
+msgid "Purchased"
+msgstr "اشترى"
+
+#: 
+msgid "You haven't got any courses yet!"
+msgstr "ليس لديك أي دورات بعد!"
+
+#: 
+msgid "Passing Grade"
+msgstr "درجة النجاح"
+
+#: 
+msgid "Progress"
+msgstr "تقدم"
+
+#: 
+msgid "No courses!"
+msgstr "لا دورات!"
+
+#: 
+msgid "There isn't any courses created by you as an instructor."
+msgstr "لا توجد أي دورات أنشأتها كمدرب."
+
+#: 
+msgid "There are no available courses!"
+msgstr "لا توجد دورات تدريبية متاحة!"
+
+#: 
+msgid "Showing last course of %s results"
+msgstr "عرض آخر مسار لنتائج٪ s"
+
+#: 
+msgid "No course found!"
+msgstr "لا بالطبع وجدت!"
+
+#: learnpress-v3/addons/course-review/course-rate.php:42
+msgid " Star"
+msgstr ""
+
+#: learnpress-v3/addons/course-review/course-rate.php:44
+msgid " Stars"
+msgstr ""
+
+#: 
+msgid "Number of courses"
+msgstr "عدد الدورات"
+
+#: 
+msgid "%d %s"
+msgstr "٪ d٪ s"
+
+#: 
+msgid "GET IT NOW"
+msgstr "احصل عليها الآن"
+
+#: 
+msgid "Renew"
+msgstr "جدد"
+
+#: 
+msgid "Your Level"
+msgstr "مستواك"
+
+#: 
+msgid "Almost done. Review the membership information and pricing below then <strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr "يكاد ينتهي. راجع معلومات العضوية والأسعار أدناه ثم <strong> انقر على زر \"إكمال الدفع\" </ strong> لإنهاء طلبك."
+
+#: 
+msgid "Membership Level"
+msgstr "مستوى العضوية"
+
+#: 
+msgid "change"
+msgstr "يتغيرون"
+
+#: 
+msgid "You have selected the <strong>%s</strong> membership level."
+msgstr "لقد حددت مستوى عضوية <strong>٪ s </strong>."
+
+#: 
+msgid "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has been applied to your order.</p>"
+msgstr "<p class = \"pmpro_level_discount_applied\"> تم تطبيق الرمز <strong>٪ s </strong> على طلبك. </ p>"
+
+#: 
+msgid "Click here to change your discount code"
+msgstr "انقر هنا لتغيير رمز الخصم الخاص بك"
+
+#: 
+msgid "Do you have a discount code?"
+msgstr "هل لديك رمز الخصم؟"
+
+#: 
+msgid "Click here to enter your discount code"
+msgstr "انقر هنا لإدخال رمز الخصم الخاص بك"
+
+#: 
+msgid "Discount Code"
+msgstr "رمز التخفيض"
+
+#: 
+msgid "Apply"
+msgstr "تطبيق"
+
+#: 
+msgid "Account Information"
+msgstr "معلومات الحساب"
+
+#: 
+msgid "Already have an account?"
+msgstr "هل لديك حساب؟"
+
+#: 
+msgid "Log in here"
+msgstr "تسجيل الدخول هنا"
+
+#: 
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: 
+msgid "E-mail Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: 
+msgid "Confirm E-mail Address"
+msgstr "تأكيد عنوان البريد"
+
+#: 
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: 
+msgid "LEAVE THIS BLANK"
+msgstr "اترك هذا الفراغ"
+
+#: 
+msgid "You are logged in as <strong>%s</strong>. If you would like to use a different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr "لقد سجلت الدخول باسم <strong>٪ s </strong>. إذا كنت ترغب في استخدام حساب مختلف لهذه العضوية ، <a href=\"٪s\"> سجّل الخروج الآن </a>."
+
+#: 
+msgid "Choose your Payment Method"
+msgstr "اختر طريقتك في الدفع"
+
+#: 
+msgid "Check Out with a Credit Card Here"
+msgstr "تحقق من مع بطاقة الائتمان هنا"
+
+#: 
+msgid "Check Out with PayPal"
+msgstr "الدفع عن طريق خدمة باي بال"
+
+#: 
+msgid "Billing Address"
+msgstr "عنوان وصول الفواتير"
+
+#: 
+msgid "First Name"
+msgstr "الاسم الاول"
+
+#: 
+msgid "Last Name"
+msgstr "الكنية"
+
+#: 
+msgid "Address 1"
+msgstr "العنوان 1"
+
+#: 
+msgid "Address 2"
+msgstr "العنوان 2"
+
+#: 
+msgid "City"
+msgstr "مدينة"
+
+#: 
+msgid "State"
+msgstr "حالة"
+
+#: 
+msgid "Postal Code"
+msgstr "الكود البريدى"
+
+#: 
+msgid "City, State Zip"
+msgstr "رمز ولاية المدينة"
+
+#: 
+msgid "Country"
+msgstr "بلد"
+
+#: 
+msgid "Phone"
+msgstr "هاتف"
+
+#: 
+msgid "Confirm E-mail"
+msgstr "تأكيد عنوان البريد الإلكتروني"
+
+#: 
+msgid "Payment Information"
+msgstr "معلومات الدفع"
+
+#: 
+msgid "We Accept %s"
+msgstr "نحن نقبل٪ s"
+
+#: 
+msgid "Card Type"
+msgstr "نوع البطاقة"
+
+#: 
+msgid "Card Number"
+msgstr "رقم البطاقة"
+
+#: 
+msgid "Expiration Date"
+msgstr "تاريخ إنتهاء الصلاحية"
+
+#: 
+msgid "CVV"
+msgstr "CVV"
+
+#: 
+msgid "what's this?"
+msgstr "ما هذا؟"
+
+#: 
+msgid "I agree to the %s"
+msgstr "أوافق على٪ s"
+
+#: 
+msgid "Complete Payment"
+msgstr "دفع كامل"
+
+#: 
+msgid "Submit and Check Out"
+msgstr "إرسال وتحقق من"
+
+#: 
+msgid "Submit and Confirm"
+msgstr "إرسال وتأكيد"
+
+#: 
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: 
+msgid "Students List"
+msgstr "قائمة الطلاب"
+
+#: 
+msgid "In Progress"
+msgstr "في تقدم"
+
+#: 
+msgid "Finished"
+msgstr "تم الانتهاء من"
+
+#: 
+msgid "Student filter"
+msgstr "مرشح الطالب"
+
+#: 
+msgid "Learning"
+msgstr "تعلم"
+
+#: learnpress-v3/addons/students-list/students-list.php:100
+msgid "one student enrolled."
+msgid_plural "%s students enrolled."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: learnpress-v3/addons/students-list/students-list.php:106
+msgid "One student enrolled."
+msgid_plural "%s students enrolled."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "No student enrolled."
+msgstr "لا يوجد طالب مسجل."
+
+#: 
+msgid "Course ID invalid, please check it again."
+msgstr "معرف الدورة التدريبية غير صالح ، يرجى التحقق منه مرة أخرى."
+
+#: 
+msgid "Favorite Courses"
+msgstr "الدورات المفضلة"
+
+#: 
+msgid "No records."
+msgstr "لا تسجيلات."
+
+#: 
+msgid "Add to cart"
+msgstr "أضف إلى السلة"
+
+#: 
+msgid "Your email"
+msgstr "بريدك الالكتروني"
+
+#: 
+msgid "Your real email we will send order code."
+msgstr "بريدك الإلكتروني الحقيقي سوف نرسل رمز الطلب."
+
+#: 
+msgid "Your email is already exists. Checkout as this account?"
+msgstr "بريدك الالكتروني موجود بالفعل الخروج مثل هذا الحساب؟"
+
+#: 
+msgid "Create new account with this email? Account information will be sent to this email."
+msgstr "إنشاء حساب جديد مع هذا البريد الإلكتروني؟ سيتم إرسال معلومات الحساب إلى هذا البريد الإلكتروني."
+
+#: 
+msgid "Additional Information"
+msgstr "معلومة اضافية"
+
+#: 
+msgid "Note to administrator"
+msgstr "ملاحظة للمسؤول"
+
+#: 
+msgid "Place order"
+msgstr "مكان الامر"
+
+#: 
+msgid "Processing"
+msgstr "معالجة"
+
+#: 
+msgid "No payment methods is available."
+msgstr "لا توجد طرق الدفع المتاحة."
+
+#: 
+msgid "Payment Method"
+msgstr "طريقة الدفع او السداد"
+
+#: 
+msgid "Your order"
+msgstr "طلبك"
+
+#: 
+msgid "Total"
+msgstr "مجموع"
+
+#: 
+msgid "Subtotal"
+msgstr "حاصل الجمع"
+
+#: 
+msgid "No courses found!"
+msgstr "لا يوجد دورات"
+
+#: 
+msgid "Newly published"
+msgstr "نشرت حديثا"
+
+#: 
+msgid "Most members"
+msgstr "معظم الأعضاء"
+
+#: 
+msgid "Search our courses"
+msgstr "ابحث في دوراتنا"
+
+#: 
+msgid "confirm-complete-lesson"
+msgstr "تأكيد-الكامل-الدرس"
+
+#: 
+msgid "Completed"
+msgstr "منجز"
+
+#: 
+msgid "Complete"
+msgstr "اكتمال"
+
+#: 
+msgid "Invalid question!"
+msgstr "سؤال غير صالح!"
+
+#: 
+msgid "Checked"
+msgstr "التحقق"
+
+#: 
+msgid "Check"
+msgstr "التحقق من"
+
+#: 
+msgid "Continue"
+msgstr "استمر"
+
+#: 
+msgid "Hinted"
+msgstr "لمح"
+
+#: 
+msgid "Hint"
+msgstr "ملحوظة"
+
+#: 
+msgid "Prev"
+msgstr "السابق"
+
+#: 
+msgid "Next"
+msgstr "التالى"
+
+#: 
+msgid "Skip"
+msgstr "تخطى"
+
+#: 
+msgid "Retake"
+msgstr "أخذه"
+
+#: 
+msgid "Review Quiz"
+msgstr "مراجعة مسابقة"
+
+#: 
+msgid "Start"
+msgstr "بداية"
+
+#: 
+msgid "Summary"
+msgstr "ملخص"
+
+#: 
+msgid "Questions"
+msgstr "الأسئلة"
+
+#: 
+msgid "Question"
+msgstr "سؤال"
+
+#: 
+msgid "%d/%d"
+msgstr "٪ د / د٪"
+
+#: 
+msgid "Your Result"
+msgstr "نتيجتك"
+
+#: learnpress-v3/content-quiz/result.php:39
+msgctxt "quiz-result"
+msgid "Correct"
+msgstr ""
+
+#: learnpress-v3/content-quiz/result.php:43
+msgctxt "quiz-result"
+msgid "Wrong"
+msgstr ""
+
+#: learnpress-v3/content-quiz/result.php:47
+msgctxt "quiz-result"
+msgid "Skipped"
+msgstr ""
+
+#: learnpress-v3/content-quiz/result.php:51
+msgctxt "quiz-result"
+msgid "Questions"
+msgstr ""
+
+#: 
+msgid "passed"
+msgstr "تم الاجتياز بنجاح"
+
+#: 
+msgid "failed"
+msgstr "فشل"
+
+#: 
+msgid "Your quiz grade <b>%s</b>. The result is %s (the requirement is %s)."
+msgstr "درجة الاختبار الخاصة بك <b>٪ s </b>. والنتيجة هي٪ s (المتطلب هو٪ s)."
+
+#: 
+msgid "Register to become a teacher"
+msgstr "سجل ليصبح المعلم"
+
+#: 
+msgid "You have to <a class=\"login\" href=\"%s\">login</a> to fill out this form"
+msgstr "يجب عليك <a class=\"login\" href=\"٪s\"> تسجيل الدخول </a> لملء هذا النموذج"
+
+#: 
+msgid "Submitting"
+msgstr "تقديم"
+
+#: learnpress-v3/global/before-main-content.php:26
+msgid "LearnPress <strong>Checkout</strong> page is not set up. "
+msgstr ""
+
+#: 
+msgid "Please contact to administrator for setting up this page."
+msgstr "يرجى الاتصال بالمسؤول لإعداد هذه الصفحة."
+
+#: 
+msgid "Please <a href=\"%s\" target=\"_blank\">setup</a> it so user can purchase a course."
+msgstr "يرجى <a href=\"٪s\" target=\"_blank\"> الإعداد </a> حتى يتمكن المستخدم من شراء دورة تدريبية."
+
+#: 
+msgid "students"
+msgstr "الطلاب"
+
+#: 
+msgid "student"
+msgstr "طالب علم"
+
+#: 
+msgid "Please <a href=\"%s\">login</a> to see your profile content"
+msgstr "يرجى <a href=\"٪s\"> تسجيل الدخول </a> لمشاهدة محتوى ملفك الشخصي"
+
+#: 
+msgid "This user does not public their profile."
+msgstr "هذا المستخدم لا يعلن عن ملفه الشخصي."
+
+#: 
+msgid "My Courses"
+msgstr "دوراتي"
+
+#: 
+msgid "Upload"
+msgstr "رفع"
+
+#: 
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: 
+msgid "Biographical Info"
+msgstr "معلومات السيرة الذاتية"
+
+#: 
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "مشاركة القليل من المعلومات عن السيرة الذاتية لملء ملفك الشخصي. قد تظهر ذلك علنا."
+
+#: 
+msgid "Nickname"
+msgstr "كنية"
+
+#: 
+msgid "Display name publicly as"
+msgstr "عرض الاسم علنًا باسم"
+
+#: 
+msgid "Old password"
+msgstr "كلمة سر قديمة"
+
+#: 
+msgid "Confirmation password"
+msgstr "تأكيد كلمة المرور"
+
+#: 
+msgid "New password does not match!"
+msgstr "كلمة المرور الجديدة غير متطابقة!"
+
+#: 
+msgid "My dashboard"
+msgstr "بلدي لوحة القيادة"
+
+#: 
+msgid "Public your profile dashboard"
+msgstr "نشر لوحة معلومات ملفك الشخصي"
+
+#: 
+msgid "My courses"
+msgstr "دوراتي"
+
+#: 
+msgid "Public your profile courses"
+msgstr "العام دورات ملفك الشخصي"
+
+#: 
+msgid "My quizzes"
+msgstr "مسابقاتي"
+
+#: 
+msgid "Public your profile quizzes"
+msgstr "نشر مسابقات ملفك الشخصي"
+
+#: 
+msgid "Take this course"
+msgstr "خذ هذه الدورة"
+
+#: 
+msgid "Finish course"
+msgstr "الانتهاء من الدورة"
+
+#: 
+msgid "Buy this course"
+msgstr "شراء هذه الدورة"
+
+#: 
+msgid "Retake course (+%d)"
+msgstr "استعادة الدورة (+٪ d)"
+
+#: 
+msgid "This content is protected, please enroll course to view this content!"
+msgstr "هذا المحتوى محمي ، يرجى تسجيل الدورة التدريبية لعرض هذا المحتوى!"
+
+#: 
+msgid "This content is protected, please <a href=\"%s\">login</a> and enroll course to view this content!"
+msgstr "هذا المحتوى محمي ، يرجى <a href=\"٪s\"> تسجيل الدخول </a> وتسجيل الدورة التدريبية لعرض هذا المحتوى!"
+
+#: 
+msgid "Items completed"
+msgstr "العناصر المكتملة"
+
+#: 
+msgid "%d of %d items"
+msgstr "٪ d من عناصر٪ d"
+
+#: 
+msgid "Course results"
+msgstr "نتائج الدورة"
+
+#: 
+msgid "You have %s remaining for the course"
+msgstr "لديك٪ s المتبقية للدورة التدريبية"
+
+#: 
+msgid "Assignment"
+msgstr "مهمة"
+
+#: 
+msgid "Lecture"
+msgstr "محاضرة"
+
+#: 
+msgid "No items in this section"
+msgstr "لا توجد عناصر في هذا القسم"
+
+#: 
+msgid "Previews"
+msgstr "معاينات"
+
+#: 
+msgid "Preview"
+msgstr "معاينة"
+
+#: 
+msgid "%d"
+msgstr "٪د"
+
+#: 
+msgid "Curriculum is empty"
+msgstr "المناهج فارغة"
+
+#: 
+msgid "No member found!"
+msgstr "لم يتم العثور على عضو!"
+
+#: 
+msgid "Change level"
+msgstr "مستوى التغيير"
+
+#: 
+msgid "Membership level:"
+msgstr "مستوى العضوية:"
+
+#: 
+msgid "Price:"
+msgstr "السعر:"
+
+#: 
+msgid "Expires after:"
+msgstr "تنتهي بعد:"
+
+#: 
+msgid "Description:"
+msgstr "وصف:"
+
+#: 
+msgid "expires after %d %s."
+msgstr "تنتهي بعد٪ d٪ s."
+
+#: 
+msgid "&larr; Return to Your Account"
+msgstr "وlarr. ارجع إلى حسابك"
+
+#: 
+msgid "&larr; Return to Home"
+msgstr "وlarr. العودة إلى المنزل"
+
+#: 
+msgid "Link project:"
+msgstr "مشروع الرابط:"
+
+#: 
+msgid "Link project"
+msgstr "ربط المشروع"
+
+#: 
+msgid "Project URL"
+msgstr "عنوان المشروع"
+
+#: 
+msgid "Thim Shortcodes"
+msgstr "ثيم اختصارات"
+
+#: 
+msgid "Select font size. Unit is px"
+msgstr "حدد حجم الخط. الوحدة هي بكسل"
+
+#: 
+msgid "Custom Settings"
+msgstr "إعدادات مخصصة"
+
+#: 
+msgid "Select the text color."
+msgstr "حدد لون النص."
+
+#: 
+msgid "Border color"
+msgstr "لون الحدود"
+
+#: 
+msgid "Select background color"
+msgstr "اختيار لون الخلفية"
+
+#: 
+msgid "Hover color"
+msgstr "تحوم اللون"
+
+#: 
+msgid "Select the hover text color."
+msgstr "حدد لون نص التحويم."
+
+#: 
+msgid "Hover border color"
+msgstr "تحوم لون الحدود"
+
+#: 
+msgid "Hover background color"
+msgstr "تحوم لون الخلفية"
+
+#: 
+msgid "Select icon"
+msgstr "اختر أيقونة"
+
+#: 
+msgid "Select the icon"
+msgstr "حدد الرمز"
+
+#: 
+msgid "Icon size."
+msgstr "حجم الرمز."
+
+#: 
+msgid "Select the icon font size. Unit is px"
+msgstr "حدد حجم خط الرمز. الوحدة هي بكسل"
+
+#: 
+msgid "Button size"
+msgstr "حجم الزر"
+
+#: 
+msgid "Extra class"
+msgstr "درس اضافي"
+
+#: 
+msgid "Add extra class name that will be applied to the icon box, and you can use this class for your customizations."
+msgstr "أضف اسمًا إضافيًا للفصل سيتم تطبيقه على مربع الرموز ، ويمكنك استخدام هذه الفئة لتخصيصاتك."
+
+#: 
+msgid "Select categories"
+msgstr "اختر الفئات"
+
+#: 
+msgid "Slider Settings"
+msgstr "إعدادات شريط التمرير"
+
+#: 
+msgid "Posts per category"
+msgstr "المشاركات لكل فئة"
+
+#: 
+msgid "Display posts with carousel."
+msgstr "عرض المشاركات مع دائري."
+
+#: 
+msgid "Recent"
+msgstr "الأخيرة"
+
+#: 
+msgid "Display Countdown Box."
+msgstr "عرض مربع العد التنازلي."
+
+#: 
+msgid "Text Settings"
+msgstr "إعدادات النص"
+
+#: 
+msgid "Text alignment"
+msgstr "محاذاة النص"
+
+#: 
+msgid "Text at left"
+msgstr "النص في اليسار"
+
+#: 
+msgid "Text at center"
+msgstr "النص في المركز"
+
+#: 
+msgid "Text at right"
+msgstr "النص في اليمين"
+
+#: 
+msgid "Display Counters Box."
+msgstr "عرض عدادات مربع."
+
+#: 
+msgid "Select Icon"
+msgstr "اختر أيقونة"
+
+#: 
+msgid "Icon Settings"
+msgstr "ايقونه الاعدادات"
+
+#: 
+msgid "Select type of animation if you want this element to be animated when it enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr "حدد نوع الحركة إذا كنت تريد تحريك هذا العنصر عندما يدخل في إطار عرض المتصفحات. ملاحظة: يعمل فقط في المتصفحات الحديثة."
+
+#: 
+msgid "Display course categories."
+msgstr "عرض فئات الدورة التدريبية."
+
+#: 
+msgid "Grid Layout Settings"
+msgstr "إعدادات تخطيط الشبكة"
+
+#: 
+msgid "Items visible"
+msgstr "العناصر مرئية"
+
+#: 
+msgid "6"
+msgstr "6"
+
+#: 
+msgid "7"
+msgstr "7"
+
+#: 
+msgid "8"
+msgstr "8"
+
+#: 
+msgid "Display courses search box."
+msgstr "عرض مربع البحث عن الدورات."
+
+#: 
+msgid "Description for search course."
+msgstr "وصف لدورة البحث."
+
+#: 
+msgid "Display courses."
+msgstr "عرض الدورات."
+
+#: 
+msgid "Heading text"
+msgstr "عنوان النص"
+
+#: 
+msgid "Limit number courses."
+msgstr "عدد دورات الحد."
+
+#: 
+msgid "Select order by."
+msgstr "اختر الترتيب حسب."
+
+#: 
+msgid "all"
+msgstr "الكل"
+
+#: 
+msgid "Grid 1"
+msgstr "الشبكة 1"
+
+#: 
+msgid "Set width for thumbnail course."
+msgstr "ضبط العرض للدورة المصغرة."
+
+#: 
+msgid "Set height for thumbnail course."
+msgstr "ضبط الارتفاع للدورة المصغرة."
+
+#: 
+msgid "Grid Settings"
+msgstr "إعدادات الشبكة"
+
+#: 
+msgid "Limit Tab"
+msgstr "الحد التبويب"
+
+#: 
+msgid "Tabs Settings"
+msgstr "إعدادات علامات التبويب"
+
+#: 
+msgid "Display Gallery Images."
+msgstr "عرض معرض الصور."
+
+#: 
+msgid "Write the heading."
+msgstr "اكتب العنوان"
+
+#: 
+msgid "Have Color?"
+msgstr "هل لديك لون؟"
+
+#: 
+msgid "Display Gallery Posts."
+msgstr "عرض معرض الوظائف."
+
+#: 
+msgid "Isotope"
+msgstr "النظائر"
+
+#: 
+msgid "Thim: Google Map"
+msgstr "ثيم: خريطة جوجل"
+
+#: 
+msgid "Display Google Map."
+msgstr "عرض خريطة جوجل."
+
+#: 
+msgid "Thim Heading"
+msgstr "ثيم العنوان"
+
+#: 
+msgid "Display heading."
+msgstr "عرض العنوان."
+
+#: 
+msgid "Write the title for the heading."
+msgstr "اكتب عنوان العنوان."
+
+#: 
+msgid "Main Title"
+msgstr "العنوان الرئيسي"
+
+#: 
+msgid "Write the Main title for the heading."
+msgstr "اكتب العنوان الرئيسي للعنوان."
+
+#: vc-shortcodes/inc-map/heading.php:39
+msgid "Heading color "
+msgstr ""
+
+#: 
+msgid "Select the title color."
+msgstr "اختر لون العنوان."
+
+#: 
+msgid "Heading Settings"
+msgstr "عنوان الإعدادات"
+
+#: 
+msgid "Heading tag"
+msgstr "عنوان العلامة"
+
+#: 
+msgid "Choose heading element."
+msgstr "اختيار عنصر العنوان."
+
+#: 
+msgid "Use custom or default title?"
+msgstr "استخدام عنوان مخصص أو الافتراضي؟"
+
+#: 
+msgid "If you select default you will use default title which customized in typography."
+msgstr "إذا قمت بتحديد الافتراضي ، فستستخدم العنوان الافتراضي المخصص في الطباعة."
+
+#: vc-shortcodes/inc-map/heading.php:80
+msgid "Font size "
+msgstr ""
+
+#: 
+msgid "Custom title font size."
+msgstr "حجم خط العنوان المخصص."
+
+#: vc-shortcodes/inc-map/heading.php:96
+msgid "Font Weight "
+msgstr ""
+
+#: 
+msgid "Custom font weight"
+msgstr "وزن الخط المخصص"
+
+#: 
+msgid "Custom title font weight."
+msgstr "وزن خط العنوان المخصص."
+
+#: vc-shortcodes/inc-map/heading.php:123
+msgid "Font style "
+msgstr ""
+
+#: 
+msgid "Choose the title font style"
+msgstr "اختر نمط خط العنوان"
+
+#: 
+msgid "Custom title font style."
+msgstr "نمط خط العنوان المخصص."
+
+#: 
+msgid "Sub heading"
+msgstr "العنوان الفرعي"
+
+#: 
+msgid "Enter sub heading."
+msgstr "أدخل العنوان الفرعي."
+
+#: vc-shortcodes/inc-map/heading.php:153
+msgid "Sub heading color "
+msgstr ""
+
+#: 
+msgid "Select the sub heading color."
+msgstr "حدد لون العنوان الفرعي."
+
+#: 
+msgid "Clone Title."
+msgstr "استنساخ العنوان."
+
+#: 
+msgid "Tick it to show the separator between title and description."
+msgstr "حدده لإظهار الفاصل بين العنوان والوصف."
+
+#: 
+msgid "Separator color"
+msgstr "لون فاصل"
+
+#: 
+msgid "Choose the separator color."
+msgstr "اختيار لون فاصل."
+
+#: 
+msgid "Heading color"
+msgstr "عنوان اللون"
+
+#: 
+msgid "Size heading"
+msgstr "حجم العنوان"
+
+#: 
+msgid "Custom heading"
+msgstr "عنوان مخصص"
+
+#: 
+msgid "Custom title font size. Unit is pixel"
+msgstr "حجم خط العنوان المخصص. الوحدة هي بكسل"
+
+#: 
+msgid "Select Custom Title Font Weight"
+msgstr "حدد وزن خط العنوان المخصص"
+
+#: 
+msgid "Margin Bottom"
+msgstr "أسفل الهامش"
+
+#: 
+msgid "Show separator"
+msgstr "عرض فاصل"
+
+#: 
+msgid "Write a short description that will describe the title or something informational and useful."
+msgstr "اكتب وصفًا موجزًا ​​يصف العنوان أو أي شيء إعلامي ومفيد."
+
+#: 
+msgid "Description size"
+msgstr "حجم الوصف"
+
+#: 
+msgid "Custom description font size. Unit is pixel"
+msgstr "حجم الخط وصف مخصص. الوحدة هي بكسل"
+
+#: 
+msgid "Description font weight"
+msgstr "وزن الخط الوصف"
+
+#: 
+msgid "Select custom description font weight"
+msgstr "حدد وزن خط الوصف المخصص"
+
+#: 
+msgid "Description color"
+msgstr "لون الوصف"
+
+#: 
+msgid "Select the description color."
+msgstr "اختر لون الوصف."
+
+#: 
+msgid "Read More Settings"
+msgstr "قراءة المزيد من الإعدادات"
+
+#: 
+msgid "Apply read more link to:"
+msgstr "تطبيق قراءة المزيد رابط إلى:"
+
+#: 
+msgid "Target link"
+msgstr "رابط الهدف"
+
+#: 
+msgid "Read more text"
+msgstr "قراءة المزيد من النص"
+
+#: 
+msgid "Provide text read more text."
+msgstr "توفير النص قراءة المزيد من النص."
+
+#: 
+msgid "Text color"
+msgstr "لون الخط"
+
+#: 
+msgid "Select the read more text color."
+msgstr "حدد قراءة المزيد من لون النص."
+
+#: 
+msgid "Select the read more border color."
+msgstr "حدد قراءة المزيد من لون الحدود."
+
+#: 
+msgid "Select the read more background color."
+msgstr "حدد قراءة المزيد من لون الخلفية."
+
+#: 
+msgid "Text hover color"
+msgstr "لون تحوم النص"
+
+#: 
+msgid "Select the read more text hover color."
+msgstr "حدد قراءة المزيد لون نص التحويم."
+
+#: 
+msgid "Background hover color"
+msgstr "لون تحوم الخلفية"
+
+#: 
+msgid "Select the read more background hover color."
+msgstr "حدد قراءة المزيد من لون تحويم الخلفية."
+
+#: 
+msgid "Icon type"
+msgstr "نوع الأيقونة"
+
+#: 
+msgid "Select icon type to display"
+msgstr "حدد نوع الرمز لعرضه"
+
+#: 
+msgid "Font Awesome"
+msgstr "الخط رائع"
+
+#: 
+msgid "Ionicons"
+msgstr "Ionicons"
+
+#: 
+msgid "Font Ionicons Icon"
+msgstr "أيقونة الخط Ionicons"
+
+#: 
+msgid "Icon Font Size"
+msgstr "حجم الخط رمز"
+
+#: 
+msgid "Custom icon font size. Unit is pixel"
+msgstr "حجم الخط رمز مخصص. الوحدة هي بكسل"
+
+#: 
+msgid "Image Icon"
+msgstr "أيقونة الصورة"
+
+#: 
+msgid "Select custom image icon"
+msgstr "اختر أيقونة صورة مخصصة"
+
+#: 
+msgid "Width box icon"
+msgstr "رمز مربع العرض"
+
+#: 
+msgid "Custom width box icon. Unit is pixel"
+msgstr "رمز مربع العرض المخصص. الوحدة هي بكسل"
+
+#: 
+msgid "Height box icon"
+msgstr "رمز مربع الارتفاع"
+
+#: 
+msgid "Custom height box icon. Unit is pixel"
+msgstr "رمز مربع ارتفاع مخصص. الوحدة هي بكسل"
+
+#: 
+msgid "Icon border color"
+msgstr "لون أيقونة الحدود"
+
+#: 
+msgid "Select the icon border color."
+msgstr "حدد لون حدود الرمز."
+
+#: 
+msgid "Icon background color"
+msgstr "لون خلفية الأيقونة"
+
+#: 
+msgid "Select the icon background color."
+msgstr "حدد لون خلفية الرمز."
+
+#: 
+msgid "Icon hover color"
+msgstr "رمز تحوم اللون"
+
+#: 
+msgid "Select the icon hover color."
+msgstr "حدد لون رمز التحويم."
+
+#: 
+msgid "Icon border hover color"
+msgstr "رمز اللون تحوم الحدود"
+
+#: 
+msgid "Select icon border hover color."
+msgstr "حدد رمز اللون تحوم الحدود."
+
+#: 
+msgid "Icon background hover color"
+msgstr "أيقونة لون الخلفية تحوم"
+
+#: 
+msgid "Select the icon background hover color."
+msgstr "حدد لون تحويم خلفية الأيقونة."
+
+#: 
+msgid "Icon shape"
+msgstr "شكل أيقونة"
+
+#: 
+msgid "Box style"
+msgstr "نمط مربع"
+
+#: 
+msgid "Type icon box"
+msgstr "اكتب مربع الأيقونة"
+
+#: 
+msgid "Layout Settings"
+msgstr "إعدادات الشكل الظاهري"
+
+#: 
+msgid "Add Image box"
+msgstr "إضافة مربع الصورة"
+
+#: 
+msgid "Provide the title for this box."
+msgstr "اكتب عنوان هذا المربع."
+
+#: 
+msgid "Provide the description for this box."
+msgstr "اكتب الوصف لهذا المربع."
+
+#: 
+msgid "Image Of Box"
+msgstr "صورة مربع"
+
+#: 
+msgid "Add extra class name that will be applied to the box, and you can use this class for your customizations."
+msgstr "أضف اسمًا إضافيًا للفصل سيتم تطبيقه على المربع ، ويمكنك استخدام هذه الفئة لتخصيصاتك."
+
+#: 
+msgid "Display List Events."
+msgstr "عرض قائمة الأحداث."
+
+#: 
+msgid "Number events display"
+msgstr "عرض عدد الأحداث"
+
+#: 
+msgid "Number events slider"
+msgstr "عدد الأحداث شريط التمرير"
+
+#: 
+msgid "Display List Instructors."
+msgstr "عرض قائمة المدربين."
+
+#: 
+msgid "Tab Items"
+msgstr "عناصر التبويب"
+
+#: 
+msgid "Select image"
+msgstr "اختر صورة"
+
+#: 
+msgid "Tab Settings"
+msgstr "إعدادات التبويب"
+
+#: 
+msgid "Display list posts."
+msgstr "عرض قائمة الوظائف."
+
+#: 
+msgid "Home Grad"
+msgstr "الرئيسية غراد"
+
+#: 
+msgid "Display Login Form."
+msgstr "عرض نموذج تسجيل الدخول."
+
+#: 
+msgid "Images url"
+msgstr "رابط الصور"
+
+#: 
+msgid "Number of columns display"
+msgstr "عدد الأعمدة المعروضة"
+
+#: 
+msgid "Thim: One Course Instructors"
+msgstr "Thim: دورة واحدة للمدربين"
+
+#: 
+msgid "Display course instructors."
+msgstr "عرض المدربين بالطبع."
+
+#: 
+msgid "Display Our Team."
+msgstr "عرض فريقنا."
+
+#: 
+msgid "1 Column"
+msgstr "1 العمود"
+
+#: 
+msgid "2 Columns"
+msgstr "2 أعمدة"
+
+#: 
+msgid "3 Columns"
+msgstr "3 أعمدة"
+
+#: 
+msgid "4 Columns"
+msgstr "4 أعمدة"
+
+#: 
+msgid "Display social icon."
+msgstr "عرض الأيقونة الاجتماعية."
+
+#: 
+msgid "Show label"
+msgstr "إظهار التسمية"
+
+#: 
+msgid "Thim: Tab events"
+msgstr "Thim: أحداث الجدولة"
+
+#: 
+msgid "Display Tab."
+msgstr "عرض التبويب."
+
+#: 
+msgid "Select the color background for title."
+msgstr "حدد خلفية اللون للعنوان."
+
+#: 
+msgid "Thim: Testimonial"
+msgstr "ثيم: شهادة"
+
+#: 
+msgid "Display testimonials."
+msgstr "عرض الشهادات."
+
+#: 
+msgid "Carousel"
+msgstr "دائري"
+
+#: 
+msgid "Items padding"
+msgstr "البنود الحشو"
+
+#: 
+msgid "Display Timetable."
+msgstr "عرض الجدول الزمني."
+
+#: 
+msgid "Timetable Items"
+msgstr "البنود الجدول الزمني"
+
+#: 
+msgid "Display twitter feed"
+msgstr "عرض تغذية تويتر"
+
+#: 
+msgid "Tweets Display:"
+msgstr "عرض التغريدات:"
+
+#: 
+msgid "Poster background display on popup video."
+msgstr "عرض خلفية الملصق على الفيديو المنبثق."
+
+#: 
+msgid "Popup Settings"
+msgstr "إعدادات المنبثقة"
+
+#: 
+msgid "Sometimes, a picture is worth a thousand words."
+msgstr "أحيانا الصورة تساوي ألف كلمة."
+
+#: 
+msgid "font_ionicons"
+msgstr "font_ionicons"
+
+#: 
+msgid "Remove this item"
+msgstr "أزل هذا البند"
+
+#: 
+msgid "Checkout"
+msgstr "الدفع"
+
+#: 
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في العربة."
+
+#: 
+msgid "View Detail"
+msgstr "عرض التفاصيل"
+
+#: 
+msgid "Hello %1$s%2$s%3$s (not %2$s? %4$sSign out%5$s)"
+msgstr "مرحبًا٪ 1 $ s٪ 2 $ s٪ 3 $ s (ليس٪ 2 $ s؟٪ 4 $ sSign out٪ 5 $ s)"
+
+#: 
+msgid "From your account dashboard you can view your %1$srecent orders%2$s, manage your %3$sshipping and billing addresses%2$s and %4$sedit your password and account details%2$s."
+msgstr "من لوحة التحكم في حسابك ، يمكنك مشاهدة طلبات شراء٪ 1 $٪ 2 $ s ، وإدارة عناوين الشحن والفوترة الخاصة بك٪ 3 $٪ 2 $ s و٪ 4 $ ، قم بتحديث كلمة المرور وتفاصيل الحساب٪ 2 $ s."
+
+#: 
+msgid "Username or email address"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+#: 
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: 
+msgid "Not a member yet?"
+msgstr "لست عضوا حتى الآن؟"
+
+#: 
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: 
+msgid "Anti-spam"
+msgstr "مكافحة البريد المزعج"
+
+#: 
+msgid "Are you a member?"
+msgstr "هل أنت عضو؟"
+
+#: 
+msgid "Save"
+msgstr "حفظ"
+
+#: 
+msgid "Enter a new password below."
+msgstr "أدخل كلمة مرور جديدة أدناه."
+
+#: 
+msgid "Re-enter new password"
+msgstr "أعد إدخال كلمة المرور الجديدة"
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: 
+msgid "Rated %s out of 5"
+msgstr "تم تقدير٪ s من 5"
+
+#: woocommerce/single-product/rating.php:44
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: 
+msgid "Related products"
+msgstr "منتجات ذات صله"
+
+#: 
+msgid "Your comment is awaiting approval"
+msgstr "تعليقك ينتظر الموافقة"
+
+#: 
+msgid "verified owner"
+msgstr "مالك موثق"
+
+#: 
+msgid "Rated %d out of 5"
+msgstr "تم التقييم٪ d من 5"
+
+#: 
+msgid "Product Description"
+msgstr "وصف المنتج"
+
+#: 
+msgid "You may also like&hellip;"
+msgstr "قد يعجبك أيضًا & hellip؛"
+
+#: 
+msgid "Start Time"
+msgstr "وقت البدء"
+
+#: 
+msgid "Finish Time"
+msgstr "وقت الانتهاء"
+
+#: 
+msgid "Event Participants"
+msgstr "المشاركون في الحدث"
+
+#: 
+msgid "Buy Ticket"
+msgstr "اشتري تذكرة"
+
+#: 
+msgid "Total Slots"
+msgstr "مجموع فتحات"
+
+#: 
+msgid "Booked Slots"
+msgstr "حجز فتحات"
+
+#: 
+msgid "Cost"
+msgstr "كلفة"
+
+#: 
+msgid "/Slot"
+msgstr "/فتحة"
+
+#: 
+msgid "Quantity"
+msgstr "كمية"
+
+#: 
+msgid "Pay with"
+msgstr "ادفع عن طريق"
+
+#: 
+msgid "You must set payment setting!"
+msgstr "يجب عليك ضبط إعداد الدفع!"
+
+#: 
+msgid "Sold Out"
+msgstr "بيعت كلها"
+
+#: 
+msgid "Login Now"
+msgstr "تسجيل الدخول الآن"
+
+#: 
+msgid "You must login to our site to book this event!"
+msgstr "يجب عليك تسجيل الدخول إلى موقعنا لحجز هذا الحدث!"
+
+#: 
+msgid "Book Now"
+msgstr "احجز الآن"
+
+#. translators: 1: link to login page.
+#: 
+msgid "You are not <a href=\"%1$s\">login</a>"
+msgstr "أنت لست <a href=\"٪1$s\"> تسجيل الدخول </a>"
+
+#: 
+msgid "ID"
+msgstr "هوية شخصية"
+
+#: 
+msgid "Type"
+msgstr "اكتب"
+
+#: 
+msgid "Method"
+msgstr "طريقة"
+
+#: 
+msgid "Status"
+msgstr "الحالة"
+
+#: 
+msgid "No payment."
+msgstr "لا يوجد الدفع."
+
+#. Theme Name of the plugin/theme
+#: 
+msgid "Eduma"
+msgstr "Eduma"
+
+#. Theme URI of the plugin/theme
+#: 
+msgid "http://educationwp.thimpress.com/"
+msgstr "http://educationwp.thimpress.com/"
+
+#. Description of the plugin/theme
+#: 
+msgid "Premium WordPress LMS theme."
+msgstr "بريميوم وورد موضوع LMS."
+
+#. Author of the plugin/theme
+#: 
+msgid "ThimPress"
+msgstr "ThimPress"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "https://thimpress.com"
+msgstr "https://thimpress.com"
+
+#: 
+msgid "Source text — English"
+msgstr "Translation — Arabic (Egypt)"
+
+#: 
+msgid "404"
+msgstr "404"
+
+#: 
+msgid "Sorry, we can't find the page you are looking for. Please go to"
+msgstr "نأسف ، لا يمكننا العثور على الصفحة التي تبحث عنها. الرجاء الذهاب إلى"
+
+#: 
+msgid "Number of new activity mentions"
+msgstr "عدد الأنشطة الجديدة المذكورة"
+
+#: 
+msgid "1. %s new"
+msgstr "1. ٪ s جديد"
+
+#: 
+msgid "2. %s new"
+msgstr "2. ٪ s جديد"
+
+#: 
+msgid "comments title"
+msgstr "عنوان التعليقات"
+
+#: 
+msgid "1. 1 Comment"
+msgstr "1. 1 تعليق"
+
+#: 
+msgid "2. %1$s Comments"
+msgstr "2. ٪ 1 $ s تعليقات"
+
+#: 
+msgid "Enter width of video. Example 100% or 600."
+msgstr "أدخل عرض الفيديو. مثال 100 ٪ أو 600."
+
+#: 
+msgid "Enter vimeo video ID . Example if link video https://player.vimeo.com/video/61389324 then video ID is 61389324"
+msgstr "أدخل معرف فيديو vimeo. مثال إذا كان رابط الفيديو https://player.vimeo.com/video/61389324 ، فإن معرف الفيديو هو 61389324"
+
+#: 
+msgid "Enter Youtube video ID . Example if link video https://www.youtube.com/watch?v=orl1nVy4I6s then video ID is orl1nVy4I6s"
+msgstr "أدخل معرف فيديو Youtube. مثال إذا كان رابط الفيديو https://www.youtube.com/watch؟v=orl1nVy4I6s ، فإن معرف الفيديو هو orl1nVy4I6s"
+
+#: 
+msgid "If you do not use background image, then can use background color for page title on heading top."
+msgstr "إذا لم تستخدم صورة الخلفية ، فيمكنك استخدام لون الخلفية لعنوان الصفحة في أعلى الصفحة."
+
+#: 
+msgid "Allows you to choose background color for your copyright area."
+msgstr "يتيح لك اختيار لون الخلفية لمنطقة حقوق النشر الخاصة بك."
+
+#: 
+msgid "Allows you to choose color for your copyright area."
+msgstr "يتيح لك اختيار اللون لمنطقة حقوق النشر الخاصة بك."
+
+#: 
+msgid "Allows you to choose border color for your copyright area."
+msgstr "يتيح لك اختيار لون الحدود لمنطقة حقوق النشر الخاصة بك."
+
+#: 
+msgid "Allows you to add, remove, change logo on your site."
+msgstr "يتيح لك إضافة أو إزالة أو تغيير الشعار على موقعك."
+
+#: 
+msgid "Allows you to add, remove, change sticky logo on your site."
+msgstr "يتيح لك إضافة أو إزالة أو تغيير الشعار اللاصق على موقعك."
+
+#: 
+msgid "Allows you can select header layout for header on your site."
+msgstr "للسماح لك بتحديد تخطيط الرأس للرأس على موقعك."
+
+#: 
+msgid "Allows you can select size layout for header layout."
+msgstr "يسمح لك بتحديد تخطيط الحجم لتخطيط الرأس."
+
+#: 
+msgid "Allows you can select position layout for header layout."
+msgstr "يسمح لك بتحديد تخطيط الموضع لتخطيط الرأس."
+
+#: 
+msgid "Allows you to select all font font properties for header."
+msgstr "يسمح لك بتحديد كل خصائص الخط للراس."
+
+#: 
+msgid "Allows you can choose background color for your header."
+msgstr "يتيح لك اختيار لون الخلفية لرأسك."
+
+#: 
+msgid "Allows you can show or hide sticky header menu on your site ."
+msgstr "يسمح لك بإظهار أو إخفاء قائمة الرأس اللاصقة على موقعك."
+
+#: 
+msgid "Allows you can select a color make background color for header sticky menu ."
+msgstr "يتيح لك اختيار لون جعل لون الخلفية لقائمة لزجة الرأس."
+
+#: 
+msgid "Allows you can select a color make text color on header sticky menu ."
+msgstr "يتيح لك اختيار لون جعل لون النص في القائمة اللزجة للرأس."
+
+#: 
+msgid "Allows you can select color for text link when hover text link on header sticky menu."
+msgstr "يسمح لك باختيار لون رابط النص عند تحريك رابط النص في القائمة اللاصقة للرأس."
+
+#: 
+msgid "Allows you can select a color make background color sub menu on header ."
+msgstr "يسمح لك بتحديد قائمة لون لون الخلفية على رأس."
+
+#: 
+msgid "Allows you to select font size for toolbar."
+msgstr "يسمح لك بتحديد حجم الخط لشريط الأدوات."
+
+#: 
+msgid "Allows you to choose a background color for widget on toolbar."
+msgstr "يتيح لك اختيار لون خلفية لعنصر واجهة المستخدم على شريط الأدوات."
+
+#: 
+msgid "Allows you to choose a color for widget on toolbar."
+msgstr "يتيح لك اختيار لون لعنصر واجهة المستخدم على شريط الأدوات."
+
+#: 
+msgid "Allows you to choose a link color for widget on toolbar."
+msgstr "يسمح لك باختيار لون رابط لعنصر واجهة المستخدم على شريط الأدوات."
+
+#: 
+msgid "Allows you to choose a link hover color for widget on toolbar."
+msgstr "يتيح لك اختيار لون تحويم الارتباط لعنصر واجهة المستخدم على شريط الأدوات."
+
+#: 
+msgid "Current Members:"
+msgstr "الأعضاء الحاليين:"
+
+#: 
+msgid "Demo Crypto"
+msgstr "تجريبي تشفير"
+
+#: 
+msgid "Demo New Art"
+msgstr "عرض الفن الجديد"
+
+#: 
+msgid "Demo Kid Art"
+msgstr "تجريبي كيد الفن"
+
+#: 
+msgid "Demo Tech Camp"
+msgstr "تجريبي مخيم التكنولوجيا"
+
+#: 
+msgid "1. (%1$s review)"
+msgstr "1. (مراجعة٪ 1 $ s)"
+
+#: 
+msgid "2. (%1$s reviews)"
+msgstr "2. (مراجعات٪ 1 $ s)"
+
+#: 
+msgid "1. %1$s rating"
+msgstr "1. ٪ 1 $ s rating"
+
+#: 
+msgid "2. %1$s ratings"
+msgstr "2. تقييمات٪ 1 $ s"
+
+#: 
+msgid "duration%s day"
+msgstr "المدة ٪ s يوم"
+
+#: 
+msgid "duration%s hour"
+msgstr "المدة ٪ s ساعة"
+
+#: 
+msgid "duration%s min"
+msgstr "المدة ٪ s دقيقة"
+
+#: 
+msgid "duration%s sec"
+msgstr "المدة ٪ s ثانية"
+
+#: 
+msgid "1. %d question"
+msgstr "1. ٪ د السؤال"
+
+#: 
+msgid "2. %d questions"
+msgstr "2. ٪ د أسئلة"
+
+#: 
+msgid "You can <a href=\"%1$s\">login</a> now."
+msgstr "يمكنك <a href=\"٪1$s\"> تسجيل الدخول </a> الآن."
+
+#: 
+msgid "Course filter widgetCourse categories"
+msgstr "تصفية دورة القطعة فئات الدورة"
+
+#: 
+msgid "Course filter widgetInstructors"
+msgstr "مرشح دورة القطعة المدربين"
+
+#: 
+msgid "Course filter widgetPrice"
+msgstr "دورة تصفية القطعة السعر"
+
+#: 
+msgid "Custom Layout"
+msgstr "تخطيط مخصص"
+
+#: 
+msgid "Custom Heading"
+msgstr "عنوان مخصص"
+
+#: 
+msgid ","
+msgstr "،"
+
+#: 
+msgid "translators: used between list items, there is a space after the comma"
+msgstr "المترجمون: يستخدم بين عناصر القائمة ، وهناك مسافة بعد الفاصلة"
+
+#: 
+msgid "yearly archives date formatY"
+msgstr "المحفوظات السنوية تنسيق التاريخ Y"
+
+#: 
+msgid "monthly archives date formatF Y"
+msgstr "تنسيق تاريخ الأرشيف الشهري F Y"
+
+#: 
+msgid "daily archives date formatF j, Y"
+msgstr "تنسيق تاريخ المحفوظات اليومية F j، Y"
+
+#: 
+msgid "post format archive titleAsides"
+msgstr "آخر تنسيق عنوان الأرشيف جانبا"
+
+#: 
+msgid "post format archive titleGalleries"
+msgstr "آخر شكل أرشيف عنوان المعارض"
+
+#: 
+msgid "post format archive titleImages"
+msgstr "آخر شكل أرشيف عنوان الصور"
+
+#: 
+msgid "post format archive titleVideos"
+msgstr "آخر شكل أرشيف عنوان الفيديو"
+
+#: 
+msgid "post format archive titleQuotes"
+msgstr "آخر تنسيق عنوان الأرشيف اقتباسات"
+
+#: 
+msgid "post format archive titleLinks"
+msgstr "آخر شكل أرشيف عنوان الروابط"
+
+#: 
+msgid "post format archive titleStatuses"
+msgstr "آخر تنسيق عنوان أرشيف الحالات"
+
+#: 
+msgid "post format archive titleAudio"
+msgstr "آخر شكل أرشيف عنوان الصوت"
+
+#: 
+msgid "post format archive titleChats"
+msgstr "آخر شكل أرشيف عنوان الدردشات"
+
+#: 
+msgid "translators: 1: Taxonomy singular name, 2: Current taxonomy term"
+msgstr "المترجمون: 1: التصنيف المفرد ، 2: مصطلح التصنيف الحالي"
+
+#: 
+msgid "Thim: Book Event"
+msgstr "ثيم: كتاب الحدث"
+
+#: 
+msgid "Icon Size"
+msgstr "حجم الرمز"
+
+#: 
+msgid "Icon:"
+msgstr "أيقونة:"
+
+#: 
+msgid "Login popup formRegister a new account"
+msgstr "نموذج تسجيل الدخول المنبثق تسجيل حساب جديد"
+
+#: 
+msgid "Login popup formSign up"
+msgstr "نموذج تسجيل الدخول المنبثق"
+
+#: 
+msgid "Login popup formAre you a member?"
+msgstr "نموذج تسجيل الدخول المنبثق هل أنت عضو؟"
+
+#: 
+msgid "Login popup formLogin now"
+msgstr "نموذج تسجيل الدخول المنبثق تسجيل الدخول الآن"
+
+#: 
+msgid "Star"
+msgstr "نجمة"
+
+#: 
+msgid "1. one student enrolled."
+msgstr "1. طالب واحد مسجل."
+
+#: 
+msgid "2. %s students enrolled."
+msgstr "2. ٪ s من الطلاب المسجلين."
+
+#: 
+msgid "1. One student enrolled."
+msgstr "1. طالب واحد مسجل."
+
+#: 
+msgid "quiz-resultCorrect"
+msgstr "مسابقة النتيجة الصحيح"
+
+#: 
+msgid "quiz-resultWrong"
+msgstr "نتيجة مسابقة خاطئة"
+
+#: 
+msgid "quiz-resultSkipped"
+msgstr "مسابقة نتيجة تم تخطيها"
+
+#: 
+msgid "quiz-resultQuestions"
+msgstr "مسابقة، نتيجة الأسئلة"
+
+#: 
+msgid "LearnPress <strong>Checkout</strong> page is not set up."
+msgstr "لم يتم إعداد صفحة LearnPress <strong> Checkout </strong>."
+
+#: 
+msgid "Display accordion."
+msgstr "عرض الأكورديون."
+
+#: 
+msgid "Accordion Items"
+msgstr "عناصر الأكورديون"
+
+#: 
+msgid "Font style"
+msgstr "نوع الخط"
+
+#: 
+msgid "placeholderSearch Products&hellip;"
+msgstr "العنصر النائب بحث المنتجات & hellip؛"
+
+#: 
+msgid "labelSearch for:"
+msgstr "تسمية البحث عن:"
+
+#: 
+msgid "submit buttonSearch"
+msgstr "إرسال زر البحث"
+
+#: 
+msgid "1. %s customer review"
+msgstr "1. ٪ s مراجعة العملاء"
+
+#: 
+msgid "2. %s customer reviews"
+msgstr "2. مراجعات العملاء٪ s"
+
+#: 
+msgid "translators: 1: link to login page."
+msgstr "المترجمين: 1: رابط إلى صفحة تسجيل الدخول."
+
+#: 
+msgid "Theme Name of the plugin/theme"
+msgstr "موضوع اسم البرنامج المساعد / الموضوع"
+
+#: 
+msgid "Theme URI of the plugin/theme"
+msgstr "موضوع URI من البرنامج المساعد / الموضوع"
+
+#: 
+msgid "Description of the plugin/theme"
+msgstr "وصف البرنامج المساعد / الموضوع"
+
+#: 
+msgid "Author of the plugin/theme"
+msgstr "مؤلف البرنامج المساعد / الموضوع"
+
